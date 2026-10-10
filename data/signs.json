@@ -1,0 +1,4291 @@
+{
+ "generated": "2026-10-10T17:49:23.219Z",
+ "source": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
+ "count": 476,
+ "signs": [
+  {
+   "id": "101",
+   "base": "101",
+   "name": "Gefahrstelle",
+   "cat": "gefahr",
+   "section": "Allgemeine Gefahrzeichen",
+   "file": "signs/101.svg",
+   "ratio": 1.14
+  },
+  {
+   "id": "101-10",
+   "base": "101",
+   "name": "Flugbetrieb",
+   "cat": "gefahr",
+   "section": "Allgemeine Gefahrzeichen",
+   "file": "signs/101-10.svg",
+   "ratio": 1.14
+  },
+  {
+   "id": "101-11",
+   "base": "101",
+   "name": "Fußgängerüberweg (Gefahrzeichen)",
+   "cat": "gefahr",
+   "section": "Allgemeine Gefahrzeichen",
+   "file": "signs/101-11.svg",
+   "ratio": 1.14
+  },
+  {
+   "id": "101-12",
+   "base": "101",
+   "name": "Viehtrieb",
+   "cat": "gefahr",
+   "section": "Allgemeine Gefahrzeichen",
+   "file": "signs/101-12.svg",
+   "ratio": 1.14
+  },
+  {
+   "id": "101-13",
+   "base": "101",
+   "name": "Reiter",
+   "cat": "gefahr",
+   "section": "Allgemeine Gefahrzeichen",
+   "file": "signs/101-13.svg",
+   "ratio": 1.14
+  },
+  {
+   "id": "101-14",
+   "base": "101",
+   "name": "Amphibienwanderung",
+   "cat": "gefahr",
+   "section": "Allgemeine Gefahrzeichen",
+   "file": "signs/101-14.svg",
+   "ratio": 1.14
+  },
+  {
+   "id": "101-15",
+   "base": "101",
+   "name": "Steinschlag",
+   "cat": "gefahr",
+   "section": "Allgemeine Gefahrzeichen",
+   "file": "signs/101-15.svg",
+   "ratio": 1.14
+  },
+  {
+   "id": "101-51",
+   "base": "101",
+   "name": "Schnee- oder Eisglätte",
+   "cat": "gefahr",
+   "section": "Allgemeine Gefahrzeichen",
+   "file": "signs/101-51.svg",
+   "ratio": 1.14
+  },
+  {
+   "id": "101-52",
+   "base": "101",
+   "name": "Splitt, Schotter",
+   "cat": "gefahr",
+   "section": "Allgemeine Gefahrzeichen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Zeichen_101-52_-_Splitt%2C_Schotter%2C_StVO_2017.svg",
+   "ratio": 1.14
+  },
+  {
+   "id": "101-53",
+   "base": "101",
+   "name": "Ufer",
+   "cat": "gefahr",
+   "section": "Allgemeine Gefahrzeichen",
+   "file": "signs/101-53.svg",
+   "ratio": 1.14
+  },
+  {
+   "id": "101-54",
+   "base": "101",
+   "name": "Unzureichendes Lichtraumprofil",
+   "cat": "gefahr",
+   "section": "Allgemeine Gefahrzeichen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Zeichen_101-54_-_Unzureichendes_Lichtraumprofil%2C_StVO_2017.svg",
+   "ratio": 1.14
+  },
+  {
+   "id": "101-55",
+   "base": "101",
+   "name": "Bewegliche Brücke",
+   "cat": "gefahr",
+   "section": "Allgemeine Gefahrzeichen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Zeichen_101-55_-_Bewegliche_Br%C3%BCcke%2C_StVO_2017.svg",
+   "ratio": 1.14
+  },
+  {
+   "id": "102",
+   "base": "102",
+   "name": "Kreuzung oder Einmündung",
+   "cat": "gefahr",
+   "section": "Allgemeine Gefahrzeichen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Zeichen_102_-_Kreuzung_oder_Einm%C3%BCndung_mit_Vorfahrt_von_rechts%2C_StVO_1970.svg",
+   "ratio": 1.14
+  },
+  {
+   "id": "103-10",
+   "base": "103",
+   "name": "Kurve (links)",
+   "cat": "gefahr",
+   "section": "Allgemeine Gefahrzeichen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/b/be/Zeichen_103-10_-_Kurve_%28links%29%2C_StVO_1992.svg",
+   "ratio": 1.14
+  },
+  {
+   "id": "103-20",
+   "base": "103",
+   "name": "Kurve (rechts)",
+   "cat": "gefahr",
+   "section": "Allgemeine Gefahrzeichen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Zeichen_103-20_-_Kurve_%28rechts%29%2C_StVO_1992.svg",
+   "ratio": 1.14
+  },
+  {
+   "id": "105-10",
+   "base": "105",
+   "name": "Doppelkurve (zunächst links)",
+   "cat": "gefahr",
+   "section": "Allgemeine Gefahrzeichen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Zeichen_105-10_-_Doppelkurve_%28zun%C3%A4chst_links%29%2C_StVO_1992.svg",
+   "ratio": 1.14
+  },
+  {
+   "id": "105-20",
+   "base": "105",
+   "name": "Doppelkurve (zunächst rechts)",
+   "cat": "gefahr",
+   "section": "Allgemeine Gefahrzeichen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/7/74/Zeichen_105-20_-_Doppelkurve_%28zun%C3%A4chst_rechts%29%2C_StVO_1992.svg",
+   "ratio": 1.14
+  },
+  {
+   "id": "108-10",
+   "base": "108",
+   "name": "Gefälle (10 %)",
+   "cat": "gefahr",
+   "section": "Allgemeine Gefahrzeichen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Zeichen_108-10_-_Gef%C3%A4lle%2C_StVO_2017.svg",
+   "ratio": 1.14
+  },
+  {
+   "id": "110-12",
+   "base": "110",
+   "name": "Steigung (12 %)",
+   "cat": "gefahr",
+   "section": "Allgemeine Gefahrzeichen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Zeichen_110-12_-_Steigung%2C_StVO_2017.svg",
+   "ratio": 1.14
+  },
+  {
+   "id": "112",
+   "base": "112",
+   "name": "Unebene Fahrbahn",
+   "cat": "gefahr",
+   "section": "Allgemeine Gefahrzeichen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Zeichen_112_%E2%80%93_Unebene_Fahrbahn%2C_StVO_1970.svg",
+   "ratio": 1.14
+  },
+  {
+   "id": "114",
+   "base": "114",
+   "name": "Schleuder- oder Rutschgefahr",
+   "cat": "gefahr",
+   "section": "Allgemeine Gefahrzeichen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Zeichen_114_-_Schleuder-_oder_Rutschgefahr%2C_StVO_2013.svg",
+   "ratio": 1.14
+  },
+  {
+   "id": "117-10",
+   "base": "117",
+   "name": "Seitenwind von rechts",
+   "cat": "gefahr",
+   "section": "Allgemeine Gefahrzeichen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/0/05/Zeichen_117-10_-_Seitenwind_von_rechts%2C_StVO_1992.svg",
+   "ratio": 1.14
+  },
+  {
+   "id": "117-20",
+   "base": "117",
+   "name": "Seitenwind von links",
+   "cat": "gefahr",
+   "section": "Allgemeine Gefahrzeichen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Zeichen_117-20_-_Seitenwind_von_links%2C_StVO_1992.svg",
+   "ratio": 1.14
+  },
+  {
+   "id": "120",
+   "base": "120",
+   "name": "Verengte Fahrbahn",
+   "cat": "gefahr",
+   "section": "Allgemeine Gefahrzeichen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/0/08/Zeichen_120_-_Verengte_Fahrbahn%2C_StVO_1970.svg",
+   "ratio": 1.14
+  },
+  {
+   "id": "121-10",
+   "base": "121",
+   "name": "Einseitig verengte Fahrbahn (Verengung rechts)",
+   "cat": "gefahr",
+   "section": "Allgemeine Gefahrzeichen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/1/15/Zeichen_121-10_-_einseitig_%28rechts%29_verengte_Fahrbahn%2C_StVO_1992.svg",
+   "ratio": 1.14
+  },
+  {
+   "id": "121-20",
+   "base": "121",
+   "name": "Einseitig verengte Fahrbahn (Verengung links)",
+   "cat": "gefahr",
+   "section": "Allgemeine Gefahrzeichen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Zeichen_121-20_-_einseitig_%28links%29_verengte_Fahrbahn%2C_StVO_1992.svg",
+   "ratio": 1.14
+  },
+  {
+   "id": "123",
+   "base": "123",
+   "name": "Arbeitsstelle",
+   "cat": "gefahr",
+   "section": "Allgemeine Gefahrzeichen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Zeichen_123_-_Arbeitsstelle%2C_StVO_2013.svg",
+   "ratio": 1.14
+  },
+  {
+   "id": "124",
+   "base": "124",
+   "name": "Stau",
+   "cat": "gefahr",
+   "section": "Allgemeine Gefahrzeichen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Zeichen_124_-_Stau%2C_StVO_1992.svg",
+   "ratio": 1.14
+  },
+  {
+   "id": "125",
+   "base": "125",
+   "name": "Gegenverkehr",
+   "cat": "gefahr",
+   "section": "Allgemeine Gefahrzeichen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Zeichen_125_-_Gegenverkehr%2C_StVO_1992.svg",
+   "ratio": 1.14
+  },
+  {
+   "id": "131",
+   "base": "131",
+   "name": "Lichtzeichenanlage",
+   "cat": "gefahr",
+   "section": "Allgemeine Gefahrzeichen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/4/45/Zeichen_131_-_Lichtzeichenanlage%2C_StVO_1970.svg",
+   "ratio": 1.14
+  },
+  {
+   "id": "133-10",
+   "base": "133",
+   "name": "Fußgänger",
+   "cat": "gefahr",
+   "section": "Allgemeine Gefahrzeichen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/3/31/Zeichen_133-10_-_Fu%C3%9Fg%C3%A4nger_%28Aufstellung_rechts%29%2C_StVO_1992.svg",
+   "ratio": 1.14
+  },
+  {
+   "id": "136-10",
+   "base": "136",
+   "name": "Kinder",
+   "cat": "gefahr",
+   "section": "Allgemeine Gefahrzeichen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/7/70/Zeichen_136-10_-_Kinder%2C_Aufstellung_rechts%2C_StVO_1992.svg",
+   "ratio": 1.14
+  },
+  {
+   "id": "138-10",
+   "base": "138",
+   "name": "Radverkehr",
+   "cat": "gefahr",
+   "section": "Allgemeine Gefahrzeichen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Zeichen_138-10_-_Radverkehr%2C_StVO_2013.svg",
+   "ratio": 1.14
+  },
+  {
+   "id": "142-10",
+   "base": "142",
+   "name": "Wildwechsel",
+   "cat": "gefahr",
+   "section": "Allgemeine Gefahrzeichen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/6/68/Zeichen_142-10_-_Wildwechsel%2C_Aufstellung_rechts%2C_StVO_1992.svg",
+   "ratio": 1.14
+  },
+  {
+   "id": "151",
+   "base": "151",
+   "name": "Bahnübergang",
+   "cat": "gefahr",
+   "section": "Besondere Gefahrzeichen vor Übergängen von Schienenbahnen mit Vorrang",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/8/88/Zeichen_151_-_Bahn%C3%BCbergang%2C_StVO_2013.svg",
+   "ratio": 1.14
+  },
+  {
+   "id": "156-10",
+   "base": "156",
+   "name": "Bahnübergang mit dreistreifiger Bake",
+   "cat": "gefahr",
+   "section": "Besondere Gefahrzeichen vor Übergängen von Schienenbahnen mit Vorrang",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Zeichen_156-10_-_Bahn%C3%BCbergang_mit_dreistreifiger_Bake%2C_StVO_2013.svg",
+   "ratio": 0.48
+  },
+  {
+   "id": "156-11",
+   "base": "156",
+   "name": "Bahnübergang mit dreistreifiger Bake, mit Entfernungsangabe",
+   "cat": "gefahr",
+   "section": "Besondere Gefahrzeichen vor Übergängen von Schienenbahnen mit Vorrang",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Zeichen_156-11_-_Bahn%C3%BCbergang_mit_dreistreifiger_Bake%2C_mit_Entfernungsangabe_-_Aufstellung_rechts%3B_StVO_2013.svg",
+   "ratio": 0.48
+  },
+  {
+   "id": "157-10",
+   "base": "157",
+   "name": "Dreistreifige Bake",
+   "cat": "gefahr",
+   "section": "Besondere Gefahrzeichen vor Übergängen von Schienenbahnen mit Vorrang",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/9/95/Zeichen_157-10_-_Dreistreifige_Bake_%28rechts%29%2C_StVO_1992.svg",
+   "ratio": 0.3
+  },
+  {
+   "id": "157-11",
+   "base": "157",
+   "name": "Dreistreifige Bake mit Entfernungsangabe",
+   "cat": "gefahr",
+   "section": "Besondere Gefahrzeichen vor Übergängen von Schienenbahnen mit Vorrang",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Zeichen_157-11_-_dreistreifige_Bake_%28Aufstellung_rechts%29%2C_StVO_1992.svg",
+   "ratio": 0.3
+  },
+  {
+   "id": "159-10",
+   "base": "159",
+   "name": "Zweistreifige Bake",
+   "cat": "gefahr",
+   "section": "Besondere Gefahrzeichen vor Übergängen von Schienenbahnen mit Vorrang",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Zeichen_159-10_-_zweistreifige_Bake_%28Aufstellung_rechts%29%2C_StVO_1992.svg",
+   "ratio": 0.3
+  },
+  {
+   "id": "159-11",
+   "base": "159",
+   "name": "Zweistreifige Bake mit Entfernungsangabe",
+   "cat": "gefahr",
+   "section": "Besondere Gefahrzeichen vor Übergängen von Schienenbahnen mit Vorrang",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Zeichen_159-11_-_zweistreifige_Bake_mit_Entfernungsangabe_%28Aufstellung_rechts%29%2C_StVO_1992.svg",
+   "ratio": 0.3
+  },
+  {
+   "id": "162-10",
+   "base": "162",
+   "name": "Einstreifige Bake",
+   "cat": "gefahr",
+   "section": "Besondere Gefahrzeichen vor Übergängen von Schienenbahnen mit Vorrang",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/5/54/Zeichen_162-10_-_einstreifige_Bake_%28Aufstellung_rechts%29%2C_StVO_1992.svg",
+   "ratio": 0.3
+  },
+  {
+   "id": "162-11",
+   "base": "162",
+   "name": "Einstreifige Bake mit Entfernungsangabe",
+   "cat": "gefahr",
+   "section": "Besondere Gefahrzeichen vor Übergängen von Schienenbahnen mit Vorrang",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Zeichen_162-11_-_einstreifige_Bake_mit_Entfernungsangabe_%28Aufstellung_rechts%29%2C_StVO_1992.svg",
+   "ratio": 0.3
+  },
+  {
+   "id": "201-50",
+   "base": "201",
+   "name": "Andreaskreuz (stehend: Dem Schienenverkehr Vorrang gewähren!)",
+   "cat": "vorschrift",
+   "section": "Wartegebote und Haltgebote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Zeichen_201-50_%E2%80%93_Andreaskreuz_-_Dem_Schienenverkehr_Vorrang_gew%C3%A4hren%21_StVO_1992.svg",
+   "ratio": 0.68
+  },
+  {
+   "id": "201-51",
+   "base": "201",
+   "name": "Andreaskreuz (stehend mit Blitzpfeil: Dem Schienenverkehr Vorrang gewähren!)",
+   "cat": "vorschrift",
+   "section": "Wartegebote und Haltgebote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Zeichen_201-51_-_Andreaskreuz_%28stehend%29_mit_Blitzpfeil%2C_StVO_1992.svg",
+   "ratio": 0.66
+  },
+  {
+   "id": "201-52",
+   "base": "201",
+   "name": "Andreaskreuz (liegend: Dem Schienenverkehr Vorrang gewähren!)",
+   "cat": "vorschrift",
+   "section": "Wartegebote und Haltgebote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Zeichen_201_-_Andreaskreuz_%28liegend%29%2C_StVO_1970.svg",
+   "ratio": 1.4
+  },
+  {
+   "id": "201-53",
+   "base": "201",
+   "name": "Andreaskreuz (liegend mit Blitzpfeil: Dem Schienenverkehr Vorrang gewähren!)",
+   "cat": "vorschrift",
+   "section": "Wartegebote und Haltgebote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/9/93/Zeichen_201-53_-_Andreaskreuz_mit_Blitzpfeil_%28liegend%29%2C_StVO_1992%2C_2013.svg",
+   "ratio": 1.52
+  },
+  {
+   "id": "205",
+   "base": "205",
+   "name": "Vorfahrt gewähren",
+   "cat": "vorschrift",
+   "section": "Wartegebote und Haltgebote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Zeichen_205_-_Vorfahrt_gew%C3%A4hren%21_StVO_1970.svg",
+   "ratio": 1.14
+  },
+  {
+   "id": "206",
+   "base": "206",
+   "name": "Halt. Vorfahrt gewähren",
+   "cat": "vorschrift",
+   "section": "Wartegebote und Haltgebote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Zeichen_206_-_Halt%21_Vorfahrt_gew%C3%A4hren%21_StVO_2017.svg",
+   "ratio": 1
+  },
+  {
+   "id": "208",
+   "base": "208",
+   "name": "Vorrang des Gegenverkehrs",
+   "cat": "vorschrift",
+   "section": "Wartegebote und Haltgebote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/8/89/Zeichen_208_-_Dem_Gegenverkehr_Vorrang_gew%C3%A4hren%21_600x600%2C_StVO_1992.svg",
+   "ratio": 1
+  },
+  {
+   "id": "209",
+   "base": "209",
+   "name": "Vorgeschriebene Fahrtrichtung (rechts)",
+   "cat": "vorschrift",
+   "section": "Vorgeschriebene Fahrtrichtungen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Zeichen_209_-_Vorgeschriebene_Fahrtrichtung%2C_rechts%2C_StVO_2017.svg",
+   "ratio": 1
+  },
+  {
+   "id": "209-10",
+   "base": "209",
+   "name": "Vorgeschriebene Fahrtrichtung (links)",
+   "cat": "vorschrift",
+   "section": "Vorgeschriebene Fahrtrichtungen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Zeichen_209-10_-_Vorgeschriebene_Fahrtrichtung%2C_links%2C_StVO_2017.svg",
+   "ratio": 1
+  },
+  {
+   "id": "209-30",
+   "base": "209",
+   "name": "Vorgeschriebene Fahrtrichtung (geradeaus)",
+   "cat": "vorschrift",
+   "section": "Vorgeschriebene Fahrtrichtungen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Zeichen_209-30_-_Vorgeschriebene_Fahrtrichtung%2C_Geradeaus%2C_StVO_2017.svg",
+   "ratio": 1
+  },
+  {
+   "id": "211",
+   "base": "211",
+   "name": "Vorgeschriebene Fahrtrichtung (hier rechts)",
+   "cat": "vorschrift",
+   "section": "Vorgeschriebene Fahrtrichtungen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Zeichen_211_-_Vorgeschriebene_Fahrtrichtung%2C_hier_rechts%2C_StVO_2017.svg",
+   "ratio": 1
+  },
+  {
+   "id": "211-10",
+   "base": "211",
+   "name": "Vorgeschriebene Fahrtrichtung (hier links)",
+   "cat": "vorschrift",
+   "section": "Vorgeschriebene Fahrtrichtungen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/5/53/Zeichen_211-10_-_Vorgeschriebene_Fahrtrichtung%2C_hier_links%2C_StVO_2017.svg",
+   "ratio": 1
+  },
+  {
+   "id": "214",
+   "base": "214",
+   "name": "Vorgeschriebene Fahrtrichtung (geradeaus oder rechts)",
+   "cat": "vorschrift",
+   "section": "Vorgeschriebene Fahrtrichtungen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/2/20/Zeichen_214_-_Vorgeschriebene_Fahrtrichtung%2C_Geradeaus_oder_rechts%2C_StVO_2017.svg",
+   "ratio": 1
+  },
+  {
+   "id": "214-10",
+   "base": "214",
+   "name": "Vorgeschriebene Fahrtrichtung (geradeaus oder links)",
+   "cat": "vorschrift",
+   "section": "Vorgeschriebene Fahrtrichtungen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Zeichen_214-10_-_Vorgeschriebene_Fahrtrichtung%2C_Geradeaus_oder_links%2C_StVO_2017.svg",
+   "ratio": 1
+  },
+  {
+   "id": "214-30",
+   "base": "214",
+   "name": "Vorgeschriebene Fahrtrichtung (rechts oder links)",
+   "cat": "vorschrift",
+   "section": "Vorgeschriebene Fahrtrichtungen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/9/94/Zeichen_214-30_-_Vorgeschriebene_Fahrtrichtung%2C_Rechts_oder_links%2C_StVO_2017.svg",
+   "ratio": 1
+  },
+  {
+   "id": "215",
+   "base": "215",
+   "name": "Kreisverkehr",
+   "cat": "vorschrift",
+   "section": "Vorgeschriebene Fahrtrichtungen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/7/72/Zeichen_215_-_Kreisverkehr%2C_StVO_2000.svg",
+   "ratio": 1
+  },
+  {
+   "id": "220-10",
+   "base": "220",
+   "name": "Einbahnstraße (linksweisend)",
+   "cat": "vorschrift",
+   "section": "Vorgeschriebene Fahrtrichtungen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/7/70/Zeichen_220-10_-_Einbahnstra%C3%9Fe%2C_linksweisend%2C_StVO_2017.svg",
+   "ratio": 2.7
+  },
+  {
+   "id": "220-20",
+   "base": "220",
+   "name": "Einbahnstraße (rechtsweisend)",
+   "cat": "vorschrift",
+   "section": "Vorgeschriebene Fahrtrichtungen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/9/94/Zeichen_220-20_-_Einbahnstra%C3%9Fe%2C_rechtsweisend%2C_StVO_2017.svg",
+   "ratio": 2.7
+  },
+  {
+   "id": "222",
+   "base": "222",
+   "name": "Vorgeschriebene Vorbeifahrt (rechts vorbei)",
+   "cat": "vorschrift",
+   "section": "Vorgeschriebene Vorbeifahrt",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/8/82/Zeichen_222_-_Vorgeschriebene_Vorbeifahrt%2C_Rechts_vorbei%2C_StVO_2017.svg",
+   "ratio": 1
+  },
+  {
+   "id": "222-10",
+   "base": "222",
+   "name": "Vorgeschriebene Vorbeifahrt (links vorbei)",
+   "cat": "vorschrift",
+   "section": "Vorgeschriebene Vorbeifahrt",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Zeichen_222-10_-_Vorgeschriebene_Vorbeifahrt%2C_Links_vorbei%2C_StVO_2017.svg",
+   "ratio": 1
+  },
+  {
+   "id": "223.1-50",
+   "base": "223.1",
+   "name": "Seitenstreifen befahren (2 Fahrstreifen und Seitenstreifen)",
+   "cat": "vorschrift",
+   "section": "Seitenstreifen als Fahrstreifen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/5/51/Zeichen_223.1-50_-_Seitenstreifen_befahren%2C_2_Fahrstreifen_u._Seitenstreifen%2C_StVO_2017.svg",
+   "ratio": 1
+  },
+  {
+   "id": "223.2-50",
+   "base": "223.2",
+   "name": "Seitenstreifen nicht mehr befahren (2 Fahrstreifen und Seitenstreifen)",
+   "cat": "vorschrift",
+   "section": "Seitenstreifen als Fahrstreifen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Zeichen_223.2-50_-_Seitenstreifen_nicht_mehr_befahren%2C_2_Fahrstreifen_u._Seitenstreifen%2C_StVO_2017.svg",
+   "ratio": 1
+  },
+  {
+   "id": "223.3-50",
+   "base": "223.3",
+   "name": "Seitenstreifen räumen (2 Fahrstreifen und Seitenstreifen)",
+   "cat": "vorschrift",
+   "section": "Seitenstreifen als Fahrstreifen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Zeichen_223.3-50_-_Seitenstreifen_r%C3%A4umen%2C_2_Fahrstreifen_u._Seitenstreifen%2C_StVO_2017.svg",
+   "ratio": 1
+  },
+  {
+   "id": "224",
+   "base": "224",
+   "name": "Haltestelle",
+   "cat": "vorschrift",
+   "section": "Haltestellen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Zeichen_224_-_Haltestelle%2C_StVO_2017.svg",
+   "ratio": 1
+  },
+  {
+   "id": "224-51",
+   "base": "224",
+   "name": "Schulbushaltestelle (mit Zusatzzeichen 1042-36)",
+   "cat": "vorschrift",
+   "section": "Haltestellen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Zeichen_224-51_-_Schulbushaltestelle_%28mit_Zusatzzeichen_1042-36%29%2C_StVO_2017.svg",
+   "ratio": 0.67
+  },
+  {
+   "id": "229",
+   "base": "229",
+   "name": "Taxistand",
+   "cat": "vorschrift",
+   "section": "Taxistände und Ladebereiche",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/2/22/Zeichen_229_-_Taxenstand%2C_StVO_1994.svg",
+   "ratio": 0.67
+  },
+  {
+   "id": "230",
+   "base": "230",
+   "name": "Ladebereich",
+   "cat": "vorschrift",
+   "section": "Taxistände und Ladebereiche",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Zeichen_230_-_Ladebereich%2C_StVO_57._StVR%C3%84ndV_BGBl.2024_Teil_1_Nr.299_Seite_5.svg",
+   "ratio": 0.67
+  },
+  {
+   "id": "229-10",
+   "base": "229",
+   "name": "Taxistand (Anfang)",
+   "cat": "vorschrift",
+   "section": "Taxistände und Ladebereiche",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Zeichen_229-10_-_Taxenstand_%28Anfang%29%2C_Aufstellung_rechts%2C_StVO_2013.svg",
+   "ratio": 0.67
+  },
+  {
+   "id": "229-20",
+   "base": "229",
+   "name": "Taxistand (Ende)",
+   "cat": "vorschrift",
+   "section": "Taxistände und Ladebereiche",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/5/52/Zeichen_229-20_-_Taxenstand_%28Ende%29%2C_Aufstellung_rechts%2C_StVO_2013.svg",
+   "ratio": 0.67
+  },
+  {
+   "id": "229-30",
+   "base": "229",
+   "name": "Taxistand (Mitte)",
+   "cat": "vorschrift",
+   "section": "Taxistände und Ladebereiche",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/7/79/Zeichen_229-30_-_Taxenstand_%28Mitte%29%2C_Aufstellung_rechts%2C_StVO_2013.svg",
+   "ratio": 0.67
+  },
+  {
+   "id": "230-10",
+   "base": "230",
+   "name": "Ladebereich (Anfang)",
+   "cat": "vorschrift",
+   "section": "Taxistände und Ladebereiche",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Zeichen_230-10_-_Ladebereich_%28Anfang%2C_Aufstellung_rechts%29%2C_StVO_57._StVR%C3%84ndV_BGBl.2024_Teil_1_Nr.299_Seite_5.svg",
+   "ratio": 0.67
+  },
+  {
+   "id": "230-20",
+   "base": "230",
+   "name": "Ladebereich (Ende)",
+   "cat": "vorschrift",
+   "section": "Taxistände und Ladebereiche",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Zeichen_230-20_-_Ladebereich_%28Ende%2C_Aufstellung_rechts%29%2C_StVO_57._StVR%C3%84ndV_BGBl.2024_Teil_1_Nr.299_Seite_5.svg",
+   "ratio": 0.67
+  },
+  {
+   "id": "230-30",
+   "base": "230",
+   "name": "Ladebereich (Mitte)",
+   "cat": "vorschrift",
+   "section": "Taxistände und Ladebereiche",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Zeichen_230-30_-_Ladebereich_%28Mitte%2C_Aufstellung_rechts%29%2C_StVO_57._StVR%C3%84ndV_BGBl.2024_Teil_1_Nr.299_Seite_5.svg",
+   "ratio": 0.67
+  },
+  {
+   "id": "237",
+   "base": "237",
+   "name": "Radweg",
+   "cat": "vorschrift",
+   "section": "Sonderwege",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/9/91/Zeichen_237_-_Sonderweg_Radfahrer%2C_StVO_1992.svg",
+   "ratio": 1
+  },
+  {
+   "id": "238",
+   "base": "238",
+   "name": "Reitweg",
+   "cat": "vorschrift",
+   "section": "Sonderwege",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Zeichen_238_-_Sonderweg_Reiter%2C_StVO_1992.svg",
+   "ratio": 1
+  },
+  {
+   "id": "239",
+   "base": "239",
+   "name": "Gehweg",
+   "cat": "vorschrift",
+   "section": "Sonderwege",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Zeichen_239_-_Sonderweg_Fu%C3%9Fg%C3%A4nger%2C_StVO_1992.svg",
+   "ratio": 1
+  },
+  {
+   "id": "240",
+   "base": "240",
+   "name": "Gemeinsamer Geh- und Radweg",
+   "cat": "vorschrift",
+   "section": "Sonderwege",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/0/08/Zeichen_240_-_Gemeinsamer_Fu%C3%9F-_und_Radweg%2C_StVO_1992.svg",
+   "ratio": 1
+  },
+  {
+   "id": "241-30",
+   "base": "241",
+   "name": "Getrennter Rad- und Gehweg, Radweg links",
+   "cat": "vorschrift",
+   "section": "Sonderwege",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/8/86/Zeichen_241-30_-_getrennter_Rad-_und_Fu%C3%9Fweg%2C_StVO_1992.svg",
+   "ratio": 1
+  },
+  {
+   "id": "241-31",
+   "base": "241",
+   "name": "Getrennter Rad- und Gehweg, Radweg rechts",
+   "cat": "vorschrift",
+   "section": "Sonderwege",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/6/68/Zeichen_241-31_-_getrennter_Fu%C3%9F-_und_Radweg%2C_StVO_1992.svg",
+   "ratio": 1
+  },
+  {
+   "id": "242.1",
+   "base": "242.1",
+   "name": "Beginn einer Fußgängerzone",
+   "cat": "vorschrift",
+   "section": "Sonderwege",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Zeichen_242.1_-_Beginn_einer_Fu%C3%9Fg%C3%A4ngerzone%2C_StVO_2009.svg",
+   "ratio": 1
+  },
+  {
+   "id": "242.2",
+   "base": "242.2",
+   "name": "Ende einer Fußgängerzone",
+   "cat": "vorschrift",
+   "section": "Sonderwege",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/7/78/Zeichen_242.2_-_Ende_einer_Fu%C3%9Fg%C3%A4ngerzone%2C_StVO_2009.svg",
+   "ratio": 1
+  },
+  {
+   "id": "244.1",
+   "base": "244.1",
+   "name": "Beginn einer Fahrradstraße",
+   "cat": "vorschrift",
+   "section": "Sonderwege",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Zeichen_244.1_-_Beginn_einer_Fahrradstra%C3%9Fe%2C_StVO_2013.svg",
+   "ratio": 1
+  },
+  {
+   "id": "244.2",
+   "base": "244.2",
+   "name": "Ende einer Fahrradstraße",
+   "cat": "vorschrift",
+   "section": "Sonderwege",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Zeichen_244.2_-_Ende_einer_Fahrradstra%C3%9Fe%2C_StVO_2013.svg",
+   "ratio": 1
+  },
+  {
+   "id": "244.3",
+   "base": "244.3",
+   "name": "Beginn einer Fahrradzone",
+   "cat": "vorschrift",
+   "section": "Sonderwege",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Zeichen_244.3_-_Beginn_einer_Fahrradzone%2C_StVO_2020.svg",
+   "ratio": 1
+  },
+  {
+   "id": "244.4",
+   "base": "244.4",
+   "name": "Ende einer Fahrradzone",
+   "cat": "vorschrift",
+   "section": "Sonderwege",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/6/64/Zeichen_244.4_-_Ende_einer_Fahrradzone%2C_StVO_2020.svg",
+   "ratio": 1
+  },
+  {
+   "id": "245",
+   "base": "245",
+   "name": "Bussonderfahrstreifen",
+   "cat": "vorschrift",
+   "section": "Sonderwege",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/0/05/Zeichen_245_-_Bussonderfahrstreifen%2C_StVO_2013.svg",
+   "ratio": 1
+  },
+  {
+   "id": "250",
+   "base": "250",
+   "name": "Verbot für Fahrzeuge aller Art",
+   "cat": "vorschrift",
+   "section": "Verkehrsverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/4/46/Zeichen_250_-_Verbot_f%C3%BCr_Fahrzeuge_aller_Art%2C_StVO_1970.svg",
+   "ratio": 1
+  },
+  {
+   "id": "251",
+   "base": "251",
+   "name": "Verbot für Kraftwagen",
+   "cat": "vorschrift",
+   "section": "Verkehrsverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Zeichen_251_-_Verbot_f%C3%BCr_Kraftwagen_und_sonstige_mehrspurige_Kraftfahrzeuge%2C_StVO_1992.svg",
+   "ratio": 1
+  },
+  {
+   "id": "253",
+   "base": "253",
+   "name": "Verbot für Kraftfahrzeuge mit einer zulässigen Gesamtmasse über 3,5 t, einschließlich ihrer Anhänger, und für Zugmaschinen",
+   "cat": "vorschrift",
+   "section": "Verkehrsverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Zeichen_253_-_Verbot_f%C3%BCr_Kraftfahrzeuge_mit_einem_zul%C3%A4ssigen_Gesamtgewicht%2C_StVO_1992.svg",
+   "ratio": 1
+  },
+  {
+   "id": "254",
+   "base": "254",
+   "name": "Verbot für Radverkehr",
+   "cat": "vorschrift",
+   "section": "Verkehrsverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Zeichen_254_-_Verbot_f%C3%BCr_Radfahrer%2C_StVO_1992.svg",
+   "ratio": 1
+  },
+  {
+   "id": "255",
+   "base": "255",
+   "name": "Verbot für Krafträder",
+   "cat": "vorschrift",
+   "section": "Verkehrsverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Zeichen_255_-_Verbot_f%C3%BCr_Kraftr%C3%A4der%2C_auch_mit_Beiwagen%2C_Kleinkraftr%C3%A4der_und_Mofas%2C_StVO_1992.svg",
+   "ratio": 1
+  },
+  {
+   "id": "257-50",
+   "base": "257",
+   "name": "Verbot für Mofas",
+   "cat": "vorschrift",
+   "section": "Verkehrsverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Zeichen_257-50_-_Verbot_f%C3%BCr_Mofas%2C_StVO_2017.svg",
+   "ratio": 1
+  },
+  {
+   "id": "257-51",
+   "base": "257",
+   "name": "Verbot für Reiter",
+   "cat": "vorschrift",
+   "section": "Verkehrsverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Zeichen_257-51_-_Verbot_f%C3%BCr_Reiter%2C_StVO_2017.svg",
+   "ratio": 1
+  },
+  {
+   "id": "257-52",
+   "base": "257",
+   "name": "Verbot für Gespannfuhrwerke",
+   "cat": "vorschrift",
+   "section": "Verkehrsverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Zeichen_257-52_-_Verbot_f%C3%BCr_Gespannfuhrwerke%2C_StVO_2017.svg",
+   "ratio": 1
+  },
+  {
+   "id": "257-53",
+   "base": "257",
+   "name": "Verbot für Viehtrieb",
+   "cat": "vorschrift",
+   "section": "Verkehrsverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/1/17/Zeichen_257-53_-_Verbot_f%C3%BCr_Viehtrieb%2C_StVO_2017.svg",
+   "ratio": 1
+  },
+  {
+   "id": "257-54",
+   "base": "257",
+   "name": "Verbot für Kraftomnibusse",
+   "cat": "vorschrift",
+   "section": "Verkehrsverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Zeichen_257-54_-_Verbot_f%C3%BCr_Kraftomnibusse%2C_StVO_2017.svg",
+   "ratio": 1
+  },
+  {
+   "id": "257-55",
+   "base": "257",
+   "name": "Verbot für Personenkraftwagen",
+   "cat": "vorschrift",
+   "section": "Verkehrsverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Zeichen_257-55_-_Verbot_f%C3%BCr_Personenkraftwagen%2C_StVO_2017.svg",
+   "ratio": 1
+  },
+  {
+   "id": "257-56",
+   "base": "257",
+   "name": "Verbot für Personenkraftwagen mit Anhänger",
+   "cat": "vorschrift",
+   "section": "Verkehrsverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Zeichen_257-56_-_Verbot_f%C3%BCr_Personenkraftwagen_mit_Anh%C3%A4nger%2C_StVO_2017.svg",
+   "ratio": 1
+  },
+  {
+   "id": "257-57",
+   "base": "257",
+   "name": "Verbot für Lastkraftwagen mit Anhänger",
+   "cat": "vorschrift",
+   "section": "Verkehrsverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Zeichen_257-57_-_Verbot_f%C3%BCr_Lastkraftwagen_mit_Anh%C3%A4nger%2C_StVO_2017.svg",
+   "ratio": 1
+  },
+  {
+   "id": "257-58",
+   "base": "257",
+   "name": "Verbot für Kraftfahrzeuge und Züge, die nicht schneller als 25 km/h fahren können oder dürfen",
+   "cat": "vorschrift",
+   "section": "Verkehrsverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Zeichen_257-58_-_Verbot_f%C3%BCr_Kraftfahrzeuge_und_Z%C3%BCge%2C_die_nicht_schneller_als_25_km-h_fahren_k%C3%B6nnen_oder_d%C3%BCrfen%2C_StVO_2017.svg",
+   "ratio": 1
+  },
+  {
+   "id": "257-59",
+   "base": "257",
+   "name": "Verbot für Elektrokleinstfahrzeuge im Sinne der Elektrokleinstfahrzeuge-Verordnung (eKFV)",
+   "cat": "vorschrift",
+   "section": "Verkehrsverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/0/06/Zeichen_257-59_-_Verbot_f%C3%BCr_Elektrokleinstfahrzeuge_im_Sinne_der_Elektrokleinstfahrzeuge-Verordnung_%28eKFV%29.svg",
+   "ratio": 1
+  },
+  {
+   "id": "259",
+   "base": "259",
+   "name": "Verbot für Fußgänger",
+   "cat": "vorschrift",
+   "section": "Verkehrsverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Zeichen_259_-_Verbot_f%C3%BCr_Fu%C3%9Fg%C3%A4nger%2C_StVO_1992.svg",
+   "ratio": 1
+  },
+  {
+   "id": "260",
+   "base": "260",
+   "name": "Verbot für Kraftfahrzeuge",
+   "cat": "vorschrift",
+   "section": "Verkehrsverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Zeichen_260_-_Verbot_f%C3%BCr_Kraftr%C3%A4der_und_Mofas_und_sonstige_mehrspurige_Kraftfahrzeuge%2C_StVO_1992.svg",
+   "ratio": 1
+  },
+  {
+   "id": "261",
+   "base": "261",
+   "name": "Verbot für kennzeichnungspflichtige Kraftfahrzeuge mit gefährlichen Gütern",
+   "cat": "vorschrift",
+   "section": "Verkehrsverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Zeichen_261_-_Verbot_f%C3%BCr_kennzeichnungspflichtige_Kraftfahrzeuge_mit_gef%C3%A4hrlichen_G%C3%BCtern%2C_StVO_1988.svg",
+   "ratio": 1
+  },
+  {
+   "id": "262-5,5",
+   "base": "262",
+   "name": "Tatsächliche Masse (5,5 t)",
+   "cat": "vorschrift",
+   "section": "Verkehrsverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Zeichen_262-5%2C5_-_Verbot_f%C3%BCr_Fahrzeuge_%C3%BCber_angegebene_tats%C3%A4chliche_Masse%2C_StVO_2017.svg",
+   "ratio": 1
+  },
+  {
+   "id": "263-8",
+   "base": "263",
+   "name": "Tatsächliche Achslast (8 t)",
+   "cat": "vorschrift",
+   "section": "Verkehrsverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Zeichen_263-8_-_Verbot_f%C3%BCr_Fahrzeuge_%C3%BCber_angegebene_tats%C3%A4chliche_Achslast%2C_StVO_2017.svg",
+   "ratio": 1
+  },
+  {
+   "id": "264-2",
+   "base": "264",
+   "name": "Tatsächliche Breite (2 m)",
+   "cat": "vorschrift",
+   "section": "Verkehrsverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Zeichen_264-2_-_Verbot_f%C3%BCr_Fahrzeuge_%C3%BCber_angegebene_tats%C3%A4chliche_Breite%2C_StVO_2017.svg",
+   "ratio": 1
+  },
+  {
+   "id": "264-2,3",
+   "base": "264",
+   "name": "Tatsächliche Breite (2,3 m)",
+   "cat": "vorschrift",
+   "section": "Verkehrsverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Zeichen_264-2%2C3_-_Verbot_f%C3%BCr_Fahrzeuge_%C3%BCber_angegebene_tats%C3%A4chliche_Breite%2C_StVO_2017.svg",
+   "ratio": 1
+  },
+  {
+   "id": "265-3,8",
+   "base": "265",
+   "name": "Tatsächliche Höhe (3,8 m)",
+   "cat": "vorschrift",
+   "section": "Verkehrsverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/9/98/Zeichen_265-3%2C8_-_Verbot_f%C3%BCr_Fahrzeuge_%C3%BCber_angegebene_tats%C3%A4chliche_H%C3%B6he%2C_StVO_2017.svg",
+   "ratio": 1
+  },
+  {
+   "id": "266-10",
+   "base": "266",
+   "name": "Tatsächliche Länge (10 m)",
+   "cat": "vorschrift",
+   "section": "Verkehrsverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Zeichen_266-10_-_Verbot_f%C3%BCr_Fahrzeuge_%C3%BCber_angegebene_tats%C3%A4chliche_L%C3%A4nge%2C_StVO_2017.svg",
+   "ratio": 1
+  },
+  {
+   "id": "267",
+   "base": "267",
+   "name": "Verbot der Einfahrt",
+   "cat": "vorschrift",
+   "section": "Verkehrsverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/7/77/Zeichen_267_-_Verbot_der_Einfahrt%2C_StVO_1970.svg",
+   "ratio": 1
+  },
+  {
+   "id": "268",
+   "base": "268",
+   "name": "Schneeketten vorgeschrieben",
+   "cat": "vorschrift",
+   "section": "Verkehrsverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Zeichen_268_-_Schneeketten_sind_vorgeschrieben%2C_StVO_1992.svg",
+   "ratio": 1
+  },
+  {
+   "id": "269",
+   "base": "269",
+   "name": "Verbot für Fahrzeuge mit wassergefährdender Ladung",
+   "cat": "vorschrift",
+   "section": "Verkehrsverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Zeichen_269_-_Verbot_f%C3%BCr_Fahrzeuge_mit_wassergef%C3%A4hrdender_Ladung%2C_StVO_1988.svg",
+   "ratio": 1
+  },
+  {
+   "id": "270.1",
+   "base": "270.1",
+   "name": "Beginn eines Verkehrsverbots zur Verminderung schädlicher Luftverunreinigungen in einer Zone",
+   "cat": "vorschrift",
+   "section": "Verkehrsverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Zeichen_270.1_-_Beginn_eines_Verkehrsverbots_zur_Verminderung_sch%C3%A4dlicher_Luftverunreinigungen_in_einer_Zone._I%2C_StVO_2007.svg",
+   "ratio": 1
+  },
+  {
+   "id": "270.2",
+   "base": "270.2",
+   "name": "Ende eines Verkehrsverbots zur Verminderung schädlicher Luftverunreinigungen in einer Zone",
+   "cat": "vorschrift",
+   "section": "Verkehrsverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Zeichen_270.2_-_Ende_eines_Verkehrsverbots_zur_Verminderung_sch%C3%A4dlicher_Luftverunreinigungen_in_einer_Zone%2C_StVO_2007.svg",
+   "ratio": 1
+  },
+  {
+   "id": "272",
+   "base": "272",
+   "name": "Verbot des Wendens",
+   "cat": "vorschrift",
+   "section": "Verkehrsverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Zeichen_272%2C_Verbot_des_Wendens%2C_StVO_1992.svg",
+   "ratio": 1
+  },
+  {
+   "id": "273-70",
+   "base": "273",
+   "name": "Verbot des Unterschreitens des angegebenen Mindestabstandes",
+   "cat": "vorschrift",
+   "section": "Verkehrsverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Zeichen_273-70_-_Verbot_des_Unterschreitens_des_angegebenen_Mindestabstandes%2C_StVO_2017.svg",
+   "ratio": 1
+  },
+  {
+   "id": "274-10",
+   "base": "274",
+   "name": "Zulässige Höchstgeschwindigkeit (10 km/h)",
+   "cat": "vorschrift",
+   "section": "Geschwindigkeitsbeschränkungen und Überholverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/0/02/Zeichen_274-10_-_Zul%C3%A4ssige_H%C3%B6chstgeschwindigkeit%2C_StVO_2017.svg",
+   "ratio": 1
+  },
+  {
+   "id": "274-20",
+   "base": "274",
+   "name": "Zulässige Höchstgeschwindigkeit (20 km/h)",
+   "cat": "vorschrift",
+   "section": "Geschwindigkeitsbeschränkungen und Überholverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Zeichen_274-20_-_Zul%C3%A4ssige_H%C3%B6chstgeschwindigkeit%2C_StVO_2017.svg",
+   "ratio": 1
+  },
+  {
+   "id": "274-30",
+   "base": "274",
+   "name": "Zulässige Höchstgeschwindigkeit (30 km/h)",
+   "cat": "vorschrift",
+   "section": "Geschwindigkeitsbeschränkungen und Überholverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Zeichen_274-30_-_Zul%C3%A4ssige_H%C3%B6chstgeschwindigkeit%2C_StVO_2017.svg",
+   "ratio": 1
+  },
+  {
+   "id": "274-40",
+   "base": "274",
+   "name": "Zulässige Höchstgeschwindigkeit (40 km/h)",
+   "cat": "vorschrift",
+   "section": "Geschwindigkeitsbeschränkungen und Überholverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Zeichen_274-40_-_Zul%C3%A4ssige_H%C3%B6chstgeschwindigkeit%2C_StVO_2017.svg",
+   "ratio": 1
+  },
+  {
+   "id": "274-50",
+   "base": "274",
+   "name": "Zulässige Höchstgeschwindigkeit (50 km/h)",
+   "cat": "vorschrift",
+   "section": "Geschwindigkeitsbeschränkungen und Überholverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/9/96/Zeichen_274-50_-_Zul%C3%A4ssige_H%C3%B6chstgeschwindigkeit%2C_StVO_2017.svg",
+   "ratio": 1
+  },
+  {
+   "id": "274-60",
+   "base": "274",
+   "name": "Zulässige Höchstgeschwindigkeit (60 km/h)",
+   "cat": "vorschrift",
+   "section": "Geschwindigkeitsbeschränkungen und Überholverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/6/63/Zeichen_274-60_-_Zul%C3%A4ssige_H%C3%B6chstgeschwindigkeit%2C_StVO_2017.svg",
+   "ratio": 1
+  },
+  {
+   "id": "274-70",
+   "base": "274",
+   "name": "Zulässige Höchstgeschwindigkeit (70 km/h)",
+   "cat": "vorschrift",
+   "section": "Geschwindigkeitsbeschränkungen und Überholverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/2/26/Zeichen_274-70_-_Zul%C3%A4ssige_H%C3%B6chstgeschwindigkeit%2C_StVO_2017.svg",
+   "ratio": 1
+  },
+  {
+   "id": "274-80",
+   "base": "274",
+   "name": "Zulässige Höchstgeschwindigkeit (80 km/h)",
+   "cat": "vorschrift",
+   "section": "Geschwindigkeitsbeschränkungen und Überholverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/b/be/Zeichen_274-80_-_Zul%C3%A4ssige_H%C3%B6chstgeschwindigkeit%2C_StVO_2017.svg",
+   "ratio": 1
+  },
+  {
+   "id": "274-100",
+   "base": "274",
+   "name": "Zulässige Höchstgeschwindigkeit (100 km/h)",
+   "cat": "vorschrift",
+   "section": "Geschwindigkeitsbeschränkungen und Überholverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Zeichen_274-100_-_Zul%C3%A4ssige_H%C3%B6chstgeschwindigkeit%2C_StVO_2017.svg",
+   "ratio": 1
+  },
+  {
+   "id": "274-120",
+   "base": "274",
+   "name": "Zulässige Höchstgeschwindigkeit (120 km/h)",
+   "cat": "vorschrift",
+   "section": "Geschwindigkeitsbeschränkungen und Überholverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Zeichen_274-120_-_Zul%C3%A4ssige_H%C3%B6chstgeschwindigkeit%2C_StVO_2017.svg",
+   "ratio": 1
+  },
+  {
+   "id": "274.1",
+   "base": "274.1",
+   "name": "Beginn einer Tempo 30-Zone",
+   "cat": "vorschrift",
+   "section": "Geschwindigkeitsbeschränkungen und Überholverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Zeichen_274.1_-_Beginn_einer_Tempo_30-Zone%2C_StVO_2013.svg",
+   "ratio": 1
+  },
+  {
+   "id": "274.1-20",
+   "base": "274.1",
+   "name": "Beginn einer Tempo-20-Zone in verkehrsberuhigten Geschäftsbereichen",
+   "cat": "vorschrift",
+   "section": "Geschwindigkeitsbeschränkungen und Überholverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Zeichen_274.1-20_-_Beginn_einer_Tempo_20-Zone_in_verkehrsberuhigten_Gesch%C3%A4ftsbereichen_%28einseitig%29%2C_StVO_2013.svg",
+   "ratio": 1
+  },
+  {
+   "id": "274.2",
+   "base": "274.2",
+   "name": "Ende einer",
+   "cat": "vorschrift",
+   "section": "Geschwindigkeitsbeschränkungen und Überholverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/1/14/Zeichen_274.2_-_Ende_einer_Tempo_30-Zone_%28einseitig%29%2C_StVO_2013.svg",
+   "ratio": 1
+  },
+  {
+   "id": "274.2-20",
+   "base": "274.2",
+   "name": "Ende einer Tempo-20-Zone in verkehrsberuhigten Geschäftsbereichen",
+   "cat": "vorschrift",
+   "section": "Geschwindigkeitsbeschränkungen und Überholverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Zeichen_274.2-20_-_Ende_einer_Tempo_20-Zone_in_verkehrsberuhigten_Gesch%C3%A4ftsbereichen_%28einseitig%29%2C_StVO_2013.svg",
+   "ratio": 1
+  },
+  {
+   "id": "275-30",
+   "base": "275",
+   "name": "Vorgeschriebene Mindestgeschwindigkeit (30 km/h)",
+   "cat": "vorschrift",
+   "section": "Geschwindigkeitsbeschränkungen und Überholverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/3/30/Zeichen_275-30_-_Vorgeschriebene_Mindestgeschwindigkeit%2C_StVO_2017.svg",
+   "ratio": 1
+  },
+  {
+   "id": "276",
+   "base": "276",
+   "name": "Überholverbot für Kraftfahrzeuge aller Art",
+   "cat": "vorschrift",
+   "section": "Geschwindigkeitsbeschränkungen und Überholverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Zeichen_276_-_%C3%9Cberholverbot_f%C3%BCr_Kraftfahrzeuge_aller_Art%2C_StVO_1992.svg",
+   "ratio": 1
+  },
+  {
+   "id": "277",
+   "base": "277",
+   "name": "Überholverbot für Kraftfahrzeuge über 3,5 t",
+   "cat": "vorschrift",
+   "section": "Geschwindigkeitsbeschränkungen und Überholverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Zeichen_277_-_%C3%9Cberholverbot_f%C3%BCr_Kraftfahrzeuge_mit_einem_zul%C3%A4ssigen_Gesamtgewicht_%C3%BCber_2%2C8_t%2C_einschlie%C3%9Flich_ihrer_Anh%C3%A4nger%2C_StVO_1992.svg",
+   "ratio": 1
+  },
+  {
+   "id": "277.1",
+   "base": "277.1",
+   "name": "Verbot des Überholens von einspurigen Fahrzeugen für mehrspurige Kraftfahrzeuge und Krafträder mit Beiwagen",
+   "cat": "vorschrift",
+   "section": "Geschwindigkeitsbeschränkungen und Überholverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Zeichen_277.1_-_Verbot_des_%C3%9Cberholens_von_einspurigen_Fahrzeugen_f%C3%BCr_mehrspurige_Kraftfahrzeuge_und_Kraftr%C3%A4dern_mit_Beiwagen%3B_StVO_2020.svg",
+   "ratio": 1
+  },
+  {
+   "id": "278-30",
+   "base": "278",
+   "name": "Ende der zulässigen Höchstgeschwindigkeit (30 km/h)",
+   "cat": "vorschrift",
+   "section": "Geschwindigkeitsbeschränkungen und Überholverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/4/46/Zeichen_278-30_-_Ende_der_zul%C3%A4ssigen_H%C3%B6chstgeschwindigkeit%2C_StVO_2017.svg",
+   "ratio": 1
+  },
+  {
+   "id": "278-50",
+   "base": "278",
+   "name": "Ende der zulässigen Höchstgeschwindigkeit (50 km/h)",
+   "cat": "vorschrift",
+   "section": "Geschwindigkeitsbeschränkungen und Überholverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/2/26/Zeichen_278-50_-_Ende_der_zul%C3%A4ssigen_H%C3%B6chstgeschwindigkeit%2C_StVO_2017.svg",
+   "ratio": 1
+  },
+  {
+   "id": "278-60",
+   "base": "278",
+   "name": "Ende der zulässigen Höchstgeschwindigkeit (60 km/h)",
+   "cat": "vorschrift",
+   "section": "Geschwindigkeitsbeschränkungen und Überholverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/9/97/Zeichen_278-60_-_Ende_der_zul%C3%A4ssigen_H%C3%B6chstgeschwindigkeit%2C_StVO_2017.svg",
+   "ratio": 1
+  },
+  {
+   "id": "278-80",
+   "base": "278",
+   "name": "Ende der zulässigen Höchstgeschwindigkeit (80 km/h)",
+   "cat": "vorschrift",
+   "section": "Geschwindigkeitsbeschränkungen und Überholverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Zeichen_278-80_-_Ende_der_zul%C3%A4ssigen_H%C3%B6chstgeschwindigkeit%2C_StVO_2017.svg",
+   "ratio": 1
+  },
+  {
+   "id": "278-100",
+   "base": "278",
+   "name": "Ende der zulässigen Höchstgeschwindigkeit (100 km/h)",
+   "cat": "vorschrift",
+   "section": "Geschwindigkeitsbeschränkungen und Überholverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Zeichen_278-100_-_Ende_der_zul%C3%A4ssigen_H%C3%B6chstgeschwindigkeit%2C_StVO_2017.svg",
+   "ratio": 1
+  },
+  {
+   "id": "279-30",
+   "base": "279",
+   "name": "Ende der vorgeschriebenen Mindestgeschwindigkeit (30 km/h)",
+   "cat": "vorschrift",
+   "section": "Geschwindigkeitsbeschränkungen und Überholverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Zeichen_279-30_-_Ende_der_vorgeschriebenen_Mindestgeschwindigkeit%2C_StVO_2017.svg",
+   "ratio": 1
+  },
+  {
+   "id": "280",
+   "base": "280",
+   "name": "Ende des Überholverbotes für Kraftfahrzeuge aller Art",
+   "cat": "vorschrift",
+   "section": "Geschwindigkeitsbeschränkungen und Überholverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Zeichen_280_-_Ende_des_%C3%9Cberholverbotes_f%C3%BCr_Kraftfahrzeuge_aller_Art%2C_StVO_1992.svg",
+   "ratio": 1
+  },
+  {
+   "id": "281",
+   "base": "281",
+   "name": "Ende des Überholverbotes für Kraftfahrzeuge über 3,5 t",
+   "cat": "vorschrift",
+   "section": "Geschwindigkeitsbeschränkungen und Überholverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Zeichen_281_-_Ende_des_%C3%9Cberholverbots_f%C3%BCr_Kraftfahrzeuge_mit_einem_zul%C3%A4ssigen_Gesamtgewicht_%C3%BCber_3%2C5_t%2C_StVO_1992.svg",
+   "ratio": 1
+  },
+  {
+   "id": "281.1",
+   "base": "281.1",
+   "name": "Ende des Verbots des Überholens von einspurigen Fahrzeugen für mehrspurige Kraftfahrzeuge und Krafträder mit Beiwagen",
+   "cat": "vorschrift",
+   "section": "Geschwindigkeitsbeschränkungen und Überholverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Zeichen_281.1_-_Ende_des_Verbots_des_%C3%9Cberholens_von_einspurigen_Fahrzeugen_f%C3%BCr_mehrspurige_Kraftfahrzeuge_und_Kraftr%C3%A4dern_mit_Beiwagen%3B_StVO_2020.svg",
+   "ratio": 1
+  },
+  {
+   "id": "282",
+   "base": "282",
+   "name": "Ende sämtlicher streckenbezogener Geschwindigkeitsbeschränkungen und Überholverbote",
+   "cat": "vorschrift",
+   "section": "Geschwindigkeitsbeschränkungen und Überholverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Zeichen_282_-_Ende_s%C3%A4mtlicher_Streckenverbote%2C_StVO_1970.svg",
+   "ratio": 1
+  },
+  {
+   "id": "283",
+   "base": "283",
+   "name": "Absolutes Haltverbot",
+   "cat": "vorschrift",
+   "section": "Halt- und Parkverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Zeichen_283_-_Absolutes_Haltverbot%2C_StVO_2017.svg",
+   "ratio": 1
+  },
+  {
+   "id": "286",
+   "base": "286",
+   "name": "Eingeschränktes Haltverbot",
+   "cat": "vorschrift",
+   "section": "Halt- und Parkverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/5/55/Zeichen_286_-_Eingeschr%C3%A4nktes_Halteverbot%2C_StVO_1970.svg",
+   "ratio": 1
+  },
+  {
+   "id": "283-10",
+   "base": "283",
+   "name": "Absolutes Haltverbot (Anfang)",
+   "cat": "vorschrift",
+   "section": "Halt- und Parkverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/8/80/Zeichen_283-10_-_Absolutes_Haltverbot_%28Anfang%29%2C_Aufstellung_rechts%2C_StVO_2013.svg",
+   "ratio": 1
+  },
+  {
+   "id": "283-20",
+   "base": "283",
+   "name": "Absolutes Haltverbot (Ende)",
+   "cat": "vorschrift",
+   "section": "Halt- und Parkverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Zeichen_283-20_-_Absolutes_Haltverbot_%28Ende%29%2C_Aufstellung_rechts%2C_StVO_2013.svg",
+   "ratio": 1
+  },
+  {
+   "id": "283-30",
+   "base": "283",
+   "name": "Absolutes Haltverbot (Mitte)",
+   "cat": "vorschrift",
+   "section": "Halt- und Parkverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/6/68/Zeichen_283-30_-_Absolutes_Haltverbot_%28Mitte%29%2C_Aufstellung_rechts%2C_StVO_2013.svg",
+   "ratio": 1
+  },
+  {
+   "id": "286-10",
+   "base": "286",
+   "name": "Eingeschränktes Haltverbot (Anfang)",
+   "cat": "vorschrift",
+   "section": "Halt- und Parkverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Zeichen_286-10_-_Eingeschr%C3%A4nktes_Halteverbot_%28Anfang%29%2C_Rechtsaufstellung%2C_StVO_1992.svg",
+   "ratio": 1
+  },
+  {
+   "id": "286-20",
+   "base": "286",
+   "name": "Eingeschränktes Haltverbot (Ende)",
+   "cat": "vorschrift",
+   "section": "Halt- und Parkverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Zeichen_286-20_-_Eingeschr%C3%A4nktes_Halteverbot_%28Ende%29%2C_Rechtsaufstellung%2C_StVO_1992.svg",
+   "ratio": 1
+  },
+  {
+   "id": "286-30",
+   "base": "286",
+   "name": "Eingeschränktes Haltverbot (Mitte)",
+   "cat": "vorschrift",
+   "section": "Halt- und Parkverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/9/91/Zeichen_286-30_-_Eingeschr%C3%A4nktes_Halteverbot_%28Mitte%29%2C_Rechtsaufstellung%2C_StVO_1992.svg",
+   "ratio": 1
+  },
+  {
+   "id": "290.1",
+   "base": "290.1",
+   "name": "Beginn eines eingeschränkten Haltverbotes für eine Zone",
+   "cat": "vorschrift",
+   "section": "Halt- und Parkverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Zeichen_290.1_-_Beginn_eines_eingeschr%C3%A4nkten_Haltverbotes_f%C3%BCr_eine_Zone%2C_StVO_2009.svg",
+   "ratio": 1
+  },
+  {
+   "id": "290.2",
+   "base": "290.2",
+   "name": "Ende eines eingeschränkten Haltverbotes für eine Zone",
+   "cat": "vorschrift",
+   "section": "Halt- und Parkverbote",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Zeichen_290.2_-_Ende_eines_eingeschr%C3%A4nkten_Haltverbotes_f%C3%BCr_eine_Zone%2C_StVO_2009.svg",
+   "ratio": 1
+  },
+  {
+   "id": "293",
+   "base": "293",
+   "name": "Fußgängerüberweg (Markierung)",
+   "cat": "markierung",
+   "section": "Markierungen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/6/65/Zeichen_293_-_Fu%C3%9Fg%C3%A4nger%C3%BCberweg%2C_StVO_1970.svg",
+   "ratio": 4.96
+  },
+  {
+   "id": "294",
+   "base": "294",
+   "name": "Haltlinie",
+   "cat": "markierung",
+   "section": "Markierungen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/3/35/Zeichen_294_-_Haltlinie%2C_StVO_1970.svg",
+   "ratio": 1.43
+  },
+  {
+   "id": "295",
+   "base": "295",
+   "name": "Fahrstreifenbegrenzung und Fahrbahnbegrenzung",
+   "cat": "markierung",
+   "section": "Markierungen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/1/18/Zeichen_295_-_Fahrstreifenbegrenzung_und_Fahrbahnbegrenzung%2C_StVO_1970.svg",
+   "ratio": 2.18
+  },
+  {
+   "id": "296",
+   "base": "296",
+   "name": "Einseitige Fahrstreifenbegrenzung",
+   "cat": "markierung",
+   "section": "Markierungen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Zeichen_296_-_Einseitige_Fahrstreifenbegrenzung%2C_StVO_1970.svg",
+   "ratio": 1.97
+  },
+  {
+   "id": "297",
+   "base": "297",
+   "name": "Pfeilmarkierungen",
+   "cat": "markierung",
+   "section": "Markierungen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Zeichen_297_-_Richtungspfeile%2C_StVO_1970.svg",
+   "ratio": 1.22
+  },
+  {
+   "id": "297.1",
+   "base": "297.1",
+   "name": "Vorankündigungspfeil",
+   "cat": "markierung",
+   "section": "Markierungen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Zeichen_297.1_-_Vorank%C3%BCndigungspfeil%2C_StVO_1992.svg",
+   "ratio": 0.84
+  },
+  {
+   "id": "297.1-21",
+   "base": "297.1",
+   "name": "Vorankündigungspfeil zur Anzeige eines Fahrstreifenendes",
+   "cat": "markierung",
+   "section": "Markierungen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/1/13/Zeichen_297.1-21_-_Vorank%C3%BCndigungspfeil_zur_Anzeige_eines_Fahrstreifenendes%2C_StVO_2017.svg",
+   "ratio": 0.95
+  },
+  {
+   "id": "298",
+   "base": "298",
+   "name": "Sperrfläche",
+   "cat": "markierung",
+   "section": "Markierungen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/1/17/Zeichen_298_-_Sperrfl%C3%A4chen%2C_StVO_1970.svg",
+   "ratio": 1.22
+  },
+  {
+   "id": "299",
+   "base": "299",
+   "name": "Grenzmarkierung für Halt- oder Parkverbote",
+   "cat": "markierung",
+   "section": "Markierungen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Zeichen_299_-_Grenzmarkierung_f%C3%BCr_Halt-_und_Parkverbote%2C_StVO_1992.svg",
+   "ratio": 1.17
+  },
+  {
+   "id": "301",
+   "base": "301",
+   "name": "Vorfahrt",
+   "cat": "richt",
+   "section": "Vorrangzeichen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Zeichen_301_-_Vorfahrt%2C_StVO_1970.svg",
+   "ratio": 1.14
+  },
+  {
+   "id": "306",
+   "base": "306",
+   "name": "Vorfahrtstraße",
+   "cat": "richt",
+   "section": "Vorrangzeichen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Zeichen_306_-_Vorfahrtstra%C3%9Fe%2C_StVO_1970.svg",
+   "ratio": 1
+  },
+  {
+   "id": "307",
+   "base": "307",
+   "name": "Ende der Vorfahrtstraße",
+   "cat": "richt",
+   "section": "Vorrangzeichen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/2/22/Zeichen_307_-_Ende_der_Vorfahrtstra%C3%9Fe%2C_StVO_1981.svg",
+   "ratio": 1
+  },
+  {
+   "id": "308",
+   "base": "308",
+   "name": "Vorrang vor dem Gegenverkehr",
+   "cat": "richt",
+   "section": "Vorrangzeichen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Zeichen_308_-_Vorrang_vor_dem_Gegenverkehr%2C_StVO_1992.svg",
+   "ratio": 1
+  },
+  {
+   "id": "310",
+   "base": "310",
+   "name": "Ortstafel Vorderseite",
+   "cat": "richt",
+   "section": "Ortstafel",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/2/23/Zeichen_310_-_Ortstafel_Vorderseite%2C_StVO_2017.svg",
+   "ratio": 1.5
+  },
+  {
+   "id": "311",
+   "base": "311",
+   "name": "Ortstafel Rückseite",
+   "cat": "richt",
+   "section": "Ortstafel",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Zeichen_311_-_Ortstafel_R%C3%BCckseite%2C_StVO_2017.svg",
+   "ratio": 1.5
+  },
+  {
+   "id": "314",
+   "base": "314",
+   "name": "Parken",
+   "cat": "richt",
+   "section": "Parken",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Zeichen_314_-_Parken%2C_StVO_2017.svg",
+   "ratio": 1
+  },
+  {
+   "id": "314-10",
+   "base": "314",
+   "name": "Parken, Anfang (Aufstellung rechts) oder Ende (Aufstellung links)",
+   "cat": "richt",
+   "section": "Parken",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Zeichen_314-10_-_Parkplatz_%28Anfang%29%2C_StVO_1992.svg",
+   "ratio": 1
+  },
+  {
+   "id": "314-20",
+   "base": "314",
+   "name": "Parken, Ende (Aufstellung rechts) oder Anfang (Aufstellung links)",
+   "cat": "richt",
+   "section": "Parken",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/3/38/Zeichen_314-20_-_Parkplatz_%28Ende%29%2C_StVO_1992.svg",
+   "ratio": 1
+  },
+  {
+   "id": "314-30",
+   "base": "314",
+   "name": "Parken Mitte",
+   "cat": "richt",
+   "section": "Parken",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/4/42/Zeichen_314-30_-_Parken_Mitte_%28Aufstellung_rechts%29%2C_StVO_2017.svg",
+   "ratio": 1
+  },
+  {
+   "id": "314-50",
+   "base": "314",
+   "name": "Parkhaus, Parkgarage",
+   "cat": "richt",
+   "section": "Parken",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/0/04/Zeichen_314-50_-_Parkhaus%2C_Parkgarage%2C_StVO_2017.svg",
+   "ratio": 1
+  },
+  {
+   "id": "314.1",
+   "base": "314.1",
+   "name": "Beginn einer Parkraumbewirtschaftungszone",
+   "cat": "richt",
+   "section": "Parken",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/5/56/Zeichen_314.1_-_Beginn_einer_Parkraumbewirtschaftungszone%2C_StVO_2009.svg",
+   "ratio": 1
+  },
+  {
+   "id": "314.2",
+   "base": "314.2",
+   "name": "Ende einer Parkraumbewirtschaftungszone",
+   "cat": "richt",
+   "section": "Parken",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/4/49/Zeichen_314.2_-_Ende_einer_Parkraumbewirtschaftungszone%2C_StVO_2009.svg",
+   "ratio": 1
+  },
+  {
+   "id": "315-55",
+   "base": "315",
+   "name": "Parken auf Gehwegen (halb in Fahrtrichtung rechts)",
+   "cat": "richt",
+   "section": "Parken",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Zeichen_315-55_-_Parken_halb_auf_Gehwegen_in_Fahrtrichtung_rechts%2C_StVO_1992.svg",
+   "ratio": 0.67
+  },
+  {
+   "id": "315-65",
+   "base": "315",
+   "name": "Parken auf Gehwegen (ganz in Fahrtrichtung rechts)",
+   "cat": "richt",
+   "section": "Parken",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Zeichen_315-65_-_Parken_ganz_auf_Gehwegen_in_Fahrtrichtung_rechts%2C_StVO_1992.svg",
+   "ratio": 0.67
+  },
+  {
+   "id": "315-75",
+   "base": "315",
+   "name": "Parken auf Gehwegen (halb quer zur Fahrtrichtung rechts)",
+   "cat": "richt",
+   "section": "Parken",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Zeichen_315-75_-_Parken_halb_auf_Gehwegen_quer_zur_Fahrtrichtung_rechts%2C_StVO_1992.svg",
+   "ratio": 0.67
+  },
+  {
+   "id": "315-85",
+   "base": "315",
+   "name": "Parken auf Gehwegen (ganz quer zur Fahrtrichtung rechts)",
+   "cat": "richt",
+   "section": "Parken",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Zeichen_315-85_-_Parken_ganz_auf_Gehwegen_quer_zur_Fahrtrichtung_rechts%2C_StVO_1992.svg",
+   "ratio": 0.67
+  },
+  {
+   "id": "316",
+   "base": "316",
+   "name": "Parken und Reisen",
+   "cat": "richt",
+   "section": "Parken",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Zeichen_316_-_Parken_und_Reisen%2C_StVO_1992.svg",
+   "ratio": 1
+  },
+  {
+   "id": "316-50",
+   "base": "316",
+   "name": "Parken und Mitfahren",
+   "cat": "richt",
+   "section": "Parken",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/9/94/Zeichen_316-50_-_Parken_und_Mitfahren%2C_StVO_2017.svg",
+   "ratio": 1
+  },
+  {
+   "id": "317",
+   "base": "317",
+   "name": "Wandererparkplatz",
+   "cat": "richt",
+   "section": "Parken",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Zeichen_317_-_Wandererparkplatz%2C_StVO_1992.svg",
+   "ratio": 0.67
+  },
+  {
+   "id": "318",
+   "base": "318",
+   "name": "Parkscheibe",
+   "cat": "richt",
+   "section": "Parken",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Zeichen_318_-_Parkscheibe%2C_StVO_2013.svg",
+   "ratio": 0.73
+  },
+  {
+   "id": "325.1",
+   "base": "325.1",
+   "name": "Beginn eines verkehrsberuhigten Bereichs",
+   "cat": "richt",
+   "section": "Verkehrsberuhigter Bereich",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Zeichen_325.1_-_Beginn_eines_verkehrsberuhigten_Bereichs%2C_StVO_2009.svg",
+   "ratio": 1.5
+  },
+  {
+   "id": "325.2",
+   "base": "325.2",
+   "name": "Ende eines verkehrsberuhigten Bereichs",
+   "cat": "richt",
+   "section": "Verkehrsberuhigter Bereich",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Zeichen_325.2_-_Ende_eines_verkehrsberuhigten_Bereichs%2C_StVO_2009.svg",
+   "ratio": 1.5
+  },
+  {
+   "id": "327",
+   "base": "327",
+   "name": "Tunnel",
+   "cat": "richt",
+   "section": "Tunnel",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Zeichen_327_-_Tunnel%2C_StVO_2017.svg",
+   "ratio": 1
+  },
+  {
+   "id": "327-50",
+   "base": "327",
+   "name": "Tunnel, mit Längenangabe in m",
+   "cat": "richt",
+   "section": "Tunnel",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Zeichen_327-50_-_Tunnel%2C_mit_L%C3%A4ngenangabe_in_m%2C_StVO_2006.svg",
+   "ratio": 0.67
+  },
+  {
+   "id": "327-51",
+   "base": "327",
+   "name": "Tunnel, mit Längenangabe in km",
+   "cat": "richt",
+   "section": "Tunnel",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Zeichen_327-51_-_Tunnel%2C_mit_L%C3%A4ngenangabe_in_km%2C_StVO_2017.svg",
+   "ratio": 0.67
+  },
+  {
+   "id": "328",
+   "base": "328",
+   "name": "Nothalte- und Pannenbucht",
+   "cat": "richt",
+   "section": "Nothalte- und Pannenbucht",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/6/63/Zeichen_328_-_Nothalte-_und_Pannenbucht%2C_StVO_2006.svg",
+   "ratio": 1
+  },
+  {
+   "id": "330.1",
+   "base": "330.1",
+   "name": "Autobahn",
+   "cat": "richt",
+   "section": "Autobahnen und Kraftfahrstraßen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/0/07/Zeichen_330.1_-_Autobahn%2C_StVO_2013.svg",
+   "ratio": 1
+  },
+  {
+   "id": "330.2",
+   "base": "330.2",
+   "name": "Ende der Autobahn",
+   "cat": "richt",
+   "section": "Autobahnen und Kraftfahrstraßen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/6/62/Zeichen_330.2_-_Ende_der_Autobahn%2C_StVO_2013.svg",
+   "ratio": 1
+  },
+  {
+   "id": "331.1",
+   "base": "331.1",
+   "name": "Kraftfahrstraße",
+   "cat": "richt",
+   "section": "Autobahnen und Kraftfahrstraßen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/7/77/Zeichen_331.1_-_Kraftfahrstra%C3%9Fe%2C_StVO_2013.svg",
+   "ratio": 1
+  },
+  {
+   "id": "331.2",
+   "base": "331.2",
+   "name": "Ende der Kraftfahrstraße",
+   "cat": "richt",
+   "section": "Autobahnen und Kraftfahrstraßen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/6/62/Zeichen_331.2_-_Ende_der_Kraftfahrstra%C3%9Fe%2C_StVO_2013.svg",
+   "ratio": 1
+  },
+  {
+   "id": "332",
+   "base": "332",
+   "name": "Ausfahrttafel auf der Autobahn",
+   "cat": "richt",
+   "section": "Autobahnen und Kraftfahrstraßen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Zeichen_332_-_Ausfahrt_von_der_Autobahn%2C_StVO_1981.svg",
+   "ratio": 1.19
+  },
+  {
+   "id": "332.1",
+   "base": "332.1",
+   "name": "Ausfahrttafel auf anderen Straßen außerhalb der Autobahn",
+   "cat": "richt",
+   "section": "Autobahnen und Kraftfahrstraßen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Zeichen_332.1_-_Ausfahrttafel_auf_anderen_Stra%C3%9Fen_au%C3%9Ferhalb_der_Autobahn%2C_StVO_2017.svg",
+   "ratio": 1.19
+  },
+  {
+   "id": "332.1-20",
+   "base": "332.1",
+   "name": "Ausfahrttafel auf anderen Straßen außerhalb der Autobahn, in Weiß mit Zielen nach Zeichen 432",
+   "cat": "richt",
+   "section": "Autobahnen und Kraftfahrstraßen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Zeichen_332.1-20_-_Ausfahrttafel_auf_anderen_Stra%C3%9Fen_au%C3%9Ferhalb_der_Autobahn%2C_in_Wei%C3%9F_mit_Zielen_nach_Zeichen_432%2C_StVO_2017.svg",
+   "ratio": 1.02
+  },
+  {
+   "id": "333",
+   "base": "333",
+   "name": "Ausfahrt von der Autobahn",
+   "cat": "richt",
+   "section": "Autobahnen und Kraftfahrstraßen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Zeichen_333_-_Pfeilschild_-_Ausfahrt_von_der_Autobahn%2C_StVO_1980.svg",
+   "ratio": 3.85
+  },
+  {
+   "id": "333.1",
+   "base": "333.1",
+   "name": "Ausfahrt von anderen Straßen außerhalb der Autobahn",
+   "cat": "richt",
+   "section": "Autobahnen und Kraftfahrstraßen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Zeichen_333.1_-_Ausfahrt_von_anderen_Stra%C3%9Fen_au%C3%9Ferhalb_der_Autobahn%2C_StVO_2017.svg",
+   "ratio": 4
+  },
+  {
+   "id": "340",
+   "base": "340",
+   "name": "Leitlinie",
+   "cat": "markierung",
+   "section": "Markierungen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Zeichen_340_%E2%80%93_Leitlinie%2C_StVO_1970.svg",
+   "ratio": 3.07
+  },
+  {
+   "id": "341",
+   "base": "341",
+   "name": "Wartelinie",
+   "cat": "markierung",
+   "section": "Markierungen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Zeichen_341_%E2%80%93_Wartelinie%2C_StVO_1970.svg",
+   "ratio": 1.51
+  },
+  {
+   "id": "342",
+   "base": "342",
+   "name": "Haifischzähne",
+   "cat": "markierung",
+   "section": "Markierungen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Zeichen_342_-_Haifischz%C3%A4hne%3B_StVO_2020.svg",
+   "ratio": 2
+  },
+  {
+   "id": "350-10",
+   "base": "350",
+   "name": "Fußgängerüberweg (Richtzeichen)",
+   "cat": "richt",
+   "section": "Hinweise",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/6/60/Zeichen_350-10_-_Fu%C3%9Fg%C3%A4nger%C3%BCberweg_%28rechts%29%2C_StVO_1992.svg",
+   "ratio": 1
+  },
+  {
+   "id": "350.1-10",
+   "base": "350.1",
+   "name": "Radschnellweg",
+   "cat": "richt",
+   "section": "Hinweise",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Zeichen_350.1_-_Radschnellweg%3B_StVO_2020.svg",
+   "ratio": 1
+  },
+  {
+   "id": "350.2-10",
+   "base": "350.2",
+   "name": "Ende des Radschnellwegs",
+   "cat": "richt",
+   "section": "Hinweise",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Zeichen_350.2_-_Ende_des_Radschnellwegs%3B_StVO_2020.svg",
+   "ratio": 1
+  },
+  {
+   "id": "354",
+   "base": "354",
+   "name": "Wasserschutzgebiet",
+   "cat": "richt",
+   "section": "Hinweise",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Zeichen_354_-_Wasserschutzgebiet%2C_StVO_1988.svg",
+   "ratio": 0.67
+  },
+  {
+   "id": "356",
+   "base": "356",
+   "name": "Verkehrshelfer",
+   "cat": "richt",
+   "section": "Hinweise",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/8/89/Zeichen_356_-_Verkehrshelfer%2C_StVO_1992.svg",
+   "ratio": 0.67
+  },
+  {
+   "id": "357",
+   "base": "357",
+   "name": "Sackgasse",
+   "cat": "richt",
+   "section": "Hinweise",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/8/88/Zeichen_357_-_Sackgasse%2C_StVO_1992.svg",
+   "ratio": 1
+  },
+  {
+   "id": "357-50",
+   "base": "357",
+   "name": "Sackgasse; für Radverkehr und Fußgänger durchlässige Sackgasse",
+   "cat": "richt",
+   "section": "Hinweise",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Zeichen_357-50_-_Durchl%C3%A4ssige_Sackgasse_f%C3%BCr_Fu%C3%9Fg%C3%A4nger_und_Radverkehr%2C_StVO_2009.svg",
+   "ratio": 0.67
+  },
+  {
+   "id": "357-51",
+   "base": "357",
+   "name": "Sackgasse; für Fußgänger durchlässige Sackgasse",
+   "cat": "richt",
+   "section": "Hinweise",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/7/76/Zeichen_357-51_-_Sackgasse%3B_f%C3%BCr_Fu%C3%9Fg%C3%A4nger_durchl%C3%A4ssige_Sackgasse%2C_StVO_2009.svg",
+   "ratio": 0.67
+  },
+  {
+   "id": "357-52",
+   "base": "357",
+   "name": "Für Radverkehr durchlässige Sackgasse",
+   "cat": "richt",
+   "section": "Hinweise",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Zeichen_357-52_-_Sackgasse%3B_f%C3%BCr_Radverkehr_durchl%C3%A4ssige_Sackgasse%2C_StVO_2009.svg",
+   "ratio": 0.67
+  },
+  {
+   "id": "358",
+   "base": "358",
+   "name": "Erste Hilfe",
+   "cat": "richt",
+   "section": "Hinweise",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/4/44/Zeichen_358_-_Erste_Hilfe%2C_StVO_1992.svg",
+   "ratio": 1
+  },
+  {
+   "id": "363",
+   "base": "363",
+   "name": "Polizei",
+   "cat": "richt",
+   "section": "Hinweise",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/6/65/Zeichen_363_-_Polizei%2C_StVO_1992.svg",
+   "ratio": 1
+  },
+  {
+   "id": "365-50",
+   "base": "365",
+   "name": "Fernsprecher",
+   "cat": "richt",
+   "section": "Hinweise",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Zeichen_365-50_-_Fernsprecher%2C_StVO_2013.svg",
+   "ratio": 1
+  },
+  {
+   "id": "365-51",
+   "base": "365",
+   "name": "Notrufsäule",
+   "cat": "richt",
+   "section": "Hinweise",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Zeichen_365-51_-_Notrufs%C3%A4ule%2C_StVO_2006.svg",
+   "ratio": 1
+  },
+  {
+   "id": "365-52",
+   "base": "365",
+   "name": "Tankstelle",
+   "cat": "richt",
+   "section": "Hinweise",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/1/16/Zeichen_365-52_-_Tankstelle%2C_StVO_2013.svg",
+   "ratio": 1
+  },
+  {
+   "id": "365-53",
+   "base": "365",
+   "name": "Tankstelle mit Autogas",
+   "cat": "richt",
+   "section": "Hinweise",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/2/25/Zeichen_365-53_-_Autogastankstelle%2C_StVO_2006.svg",
+   "ratio": 1
+  },
+  {
+   "id": "365-54",
+   "base": "365",
+   "name": "Tankstelle mit Erdgas",
+   "cat": "richt",
+   "section": "Hinweise",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/7/76/Zeichen_365-54_-_Erdgastankstelle%2C_StVO_2006.svg",
+   "ratio": 1
+  },
+  {
+   "id": "365-55",
+   "base": "365",
+   "name": "Autobahnhotel",
+   "cat": "richt",
+   "section": "Hinweise",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/9/97/Zeichen_365-55_-_Autobahnhotel%2C_StVO_2013.svg",
+   "ratio": 1
+  },
+  {
+   "id": "365-56",
+   "base": "365",
+   "name": "Autobahngasthaus",
+   "cat": "richt",
+   "section": "Hinweise",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/1/12/Zeichen_365-56_-_Autobahngasthaus_%28600x600%29%2C_StVO_2013.svg",
+   "ratio": 1
+  },
+  {
+   "id": "365-57",
+   "base": "365",
+   "name": "Autobahnkiosk",
+   "cat": "richt",
+   "section": "Hinweise",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Zeichen_365-57_-_Autobahnkiosk_%28600x600%29%2C_StVO_2013.svg",
+   "ratio": 1
+  },
+  {
+   "id": "365-58",
+   "base": "365",
+   "name": "Toilette",
+   "cat": "richt",
+   "section": "Hinweise",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/2/28/Zeichen_365-58_-_Toilette_%28600x600%29%2C_StVO_2013.svg",
+   "ratio": 1
+  },
+  {
+   "id": "365-59",
+   "base": "365",
+   "name": "Autobahnkapelle",
+   "cat": "richt",
+   "section": "Hinweise",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Zeichen_365-59_-_Autobahnkapelle%2C_StVO_2013.svg",
+   "ratio": 1
+  },
+  {
+   "id": "365-60",
+   "base": "365",
+   "name": "Zelt- und Wohnwagenplatz",
+   "cat": "richt",
+   "section": "Hinweise",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/1/10/Zeichen_365-60_-_Zelt-_und_Wohnwagenplatz%2C_StVO_2013.svg",
+   "ratio": 1
+  },
+  {
+   "id": "365-61",
+   "base": "365",
+   "name": "Informationsstelle",
+   "cat": "richt",
+   "section": "Hinweise",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/5/56/Zeichen_365-61_-_Informationsstelle%2C_StVO_2013.svg",
+   "ratio": 1
+  },
+  {
+   "id": "365-62",
+   "base": "365",
+   "name": "Pannenhilfe",
+   "cat": "richt",
+   "section": "Hinweise",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Zeichen_365-62_-_Pannenhilfe_%28600x600%29%2C_StVO_2013.svg",
+   "ratio": 1
+  },
+  {
+   "id": "365-63",
+   "base": "365",
+   "name": "Fußgängerunterführung",
+   "cat": "richt",
+   "section": "Hinweise",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/3/35/Zeichen_365-63_-_Fu%C3%9Fg%C3%A4ngerunterf%C3%BChrung%2C_StVO_2013.svg",
+   "ratio": 1
+  },
+  {
+   "id": "365-64",
+   "base": "365",
+   "name": "Fußgängerüberführung",
+   "cat": "richt",
+   "section": "Hinweise",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/2/20/Zeichen_365-64_-_Fu%C3%9Fg%C3%A4nger%C3%BCberf%C3%BChrung%2C_StVO_2013.svg",
+   "ratio": 1
+  },
+  {
+   "id": "365-65",
+   "base": "365",
+   "name": "Ladestation für Elektrofahrzeuge",
+   "cat": "richt",
+   "section": "Hinweise",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/d/db/Zeichen_365-65_-_Ladestation_f%C3%BCr_Elektrofahrzeuge%2C_StVO_2014.svg",
+   "ratio": 1
+  },
+  {
+   "id": "365-66",
+   "base": "365",
+   "name": "Wasserstofftankstelle",
+   "cat": "richt",
+   "section": "Hinweise",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Zeichen_365-66_-_Wasserstofftankstelle%2C_StVO_2014.svg",
+   "ratio": 1
+  },
+  {
+   "id": "365-67",
+   "base": "365",
+   "name": "Wohnmobilplatz",
+   "cat": "richt",
+   "section": "Hinweise",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/8/81/Zeichen_365-67_-_Wohnmobilplatz%2C_StVO_2017.svg",
+   "ratio": 1
+  },
+  {
+   "id": "365-68",
+   "base": "365",
+   "name": "Wohnmobil- und Wohnwagenplatz",
+   "cat": "richt",
+   "section": "Hinweise",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Zeichen_365-68_-_Wohnmobil-_und_Wohnwagenplatz%2C_StVO_2017.svg",
+   "ratio": 1
+  },
+  {
+   "id": "365-69",
+   "base": "365",
+   "name": "Tankstelle mit Flüssigerdgas",
+   "cat": "richt",
+   "section": "Hinweise",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Zeichen_365-69_Tankstelle_mit_Fl%C3%BCssigerdgas.svg",
+   "ratio": 1
+  },
+  {
+   "id": "365-70",
+   "base": "365",
+   "name": "Tankstelle mit Tankmöglichkeit verschiedener Kraftstoffarten",
+   "cat": "richt",
+   "section": "Hinweise",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Zeichen_365-70_Tankstelle_mit_Tankm%C3%B6glichkeit_verschiedener_Kraftstoffarten.svg",
+   "ratio": 1.25
+  },
+  {
+   "id": "365-71",
+   "base": "365",
+   "name": "Tankstelle mit Tankmöglichkeit aller Kraftstoffarten",
+   "cat": "richt",
+   "section": "Hinweise",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/9/95/Zeichen_365-71_Tankstelle_mit_Tankm%C3%B6glichkeit_aller_Kraftstoffarten.svg",
+   "ratio": 1.5
+  },
+  {
+   "id": "385",
+   "base": "385",
+   "name": "Ortshinweistafel",
+   "cat": "richt",
+   "section": "Hinweise",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Zeichen_385_-_Ortshinweistafel%2C_StVO_1988.svg",
+   "ratio": 3
+  },
+  {
+   "id": "386.1",
+   "base": "386.1",
+   "name": "Touristischer Hinweis",
+   "cat": "richt",
+   "section": "Hinweise",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/1/17/Zeichen_386.1_-_Touristischer_Hinweis_%28333x1000%29%2C_StVO_2013.svg",
+   "ratio": 3
+  },
+  {
+   "id": "386.1-10",
+   "base": "386.1",
+   "name": "Touristischer Hinweis als Wegweiser (Wegweiser linksweisend)",
+   "cat": "richt",
+   "section": "Hinweise",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Zeichen_386.1-10_-_Touristischer_Hinweis_als_Wegweiser_-_Wegweiser_linksweisend%2C_StVO_2013.svg",
+   "ratio": 4.65
+  },
+  {
+   "id": "386.2",
+   "base": "386.2",
+   "name": "Touristische Route",
+   "cat": "richt",
+   "section": "Hinweise",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Zeichen_386.2_-_touristische_Unterrichtungstafel%2C_StVO_2009.svg",
+   "ratio": 2.26
+  },
+  {
+   "id": "386.2-10",
+   "base": "386.2",
+   "name": "Touristische Route, Wegweiser linksweisend",
+   "cat": "richt",
+   "section": "Hinweise",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Zeichen_386.2-10_-_Touristische_Route%2C_Wegweiser_linksweisend%3B_StVO_2017.svg",
+   "ratio": 4.63
+  },
+  {
+   "id": "386.3",
+   "base": "386.3",
+   "name": "Touristische Unterrichtungstafel",
+   "cat": "richt",
+   "section": "Hinweise",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Zeichen_386.3_-_Touristische_Unterrichtungstafel_%282400x3600%29_-_StVO_2013.svg",
+   "ratio": 1.5
+  },
+  {
+   "id": "390",
+   "base": "390",
+   "name": "Mautpflicht nach dem Bundesfernstraßenmautgesetz",
+   "cat": "richt",
+   "section": "Hinweise",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/8/86/Zeichen_390_-_Mautpflicht_nach_dem_Bundesfernstra%C3%9Fenmautgesetz%2C_StVO_2004.svg",
+   "ratio": 1
+  },
+  {
+   "id": "390.2",
+   "base": "390.2",
+   "name": "Ende der Mautpflicht nach dem Bundesfernstraßenmautgesetz",
+   "cat": "richt",
+   "section": "Hinweise",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/0/01/Zeichen_390.2_-_Ende_der_Mautpflicht_nach_dem_Bundesfernstra%C3%9Fenmautgesetz%2C_StVO_2015.svg",
+   "ratio": 1
+  },
+  {
+   "id": "391",
+   "base": "391",
+   "name": "Mautpflichtige Strecke",
+   "cat": "richt",
+   "section": "Hinweise",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Zeichen_391_-_Mautpflichtige_Strecke%2C_StVO_2003.svg",
+   "ratio": 1
+  },
+  {
+   "id": "392",
+   "base": "392",
+   "name": "Zollstelle",
+   "cat": "richt",
+   "section": "Hinweise",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/3/38/Zeichen_392_-_Zollstelle%2C_StVO_1970.svg",
+   "ratio": 1
+  },
+  {
+   "id": "393",
+   "base": "393",
+   "name": "Informationstafel an Grenzübergangsstellen an der Autobahn",
+   "cat": "richt",
+   "section": "Hinweise",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/9/99/Zeichen_393_a_-_Informationstafel_an_Grenz%C3%BCbergangsstellen_%28an_Autobahnen_und_Stra%C3%9Fen_mit_hoher_Verkehrsbedeutung%29%2C_StVO_1981.svg",
+   "ratio": 0.69
+  },
+  {
+   "id": "394",
+   "base": "394",
+   "name": "Laternenring",
+   "cat": "richt",
+   "section": "Hinweise",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Zeichen_394_-_Laternenring_%28selbstklebende_Folie%29%2C_StVO_2013.svg",
+   "ratio": 10.15
+  },
+  {
+   "id": "394-50",
+   "base": "394",
+   "name": "Laternenring (Schild)",
+   "cat": "richt",
+   "section": "Hinweise",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Zeichen_394_-_Schild_f%C3%BCr_Laternen%2C_StVO_1970.svg",
+   "ratio": 1.8
+  },
+  {
+   "id": "401",
+   "base": "401",
+   "name": "Bundesstraßen",
+   "cat": "richt",
+   "section": "Wegweisung und Umleitungsbeschilderung",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/4/42/Bundesstra%C3%9Fe_35_number.svg",
+   "ratio": 1.67
+  },
+  {
+   "id": "405",
+   "base": "405",
+   "name": "Autobahnen",
+   "cat": "richt",
+   "section": "Wegweisung und Umleitungsbeschilderung",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/0/00/Zeichen_405_-_Nummernschild_f%C3%BCr_Autobahnen%2C_StVO_1992.svg",
+   "ratio": 1.67
+  },
+  {
+   "id": "406-50",
+   "base": "406",
+   "name": "Knotenpunkte der Autobahnen (ein- oder zweistellige Nummer)",
+   "cat": "richt",
+   "section": "Wegweisung und Umleitungsbeschilderung",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Zeichen_406-50_-_Knotenpunkte_der_Autobahnen_%28ein-_oder_zweistellige_Nummer%29%2C_650x650%3B_StVO_2013.svg",
+   "ratio": 1
+  },
+  {
+   "id": "410",
+   "base": "410",
+   "name": "Europastraßen",
+   "cat": "richt",
+   "section": "Wegweisung und Umleitungsbeschilderung",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Zeichen_410_-_Nummernschild_f%C3%BCr_Europastra%C3%9Fen%2C_StVO_1992.svg",
+   "ratio": 1.67
+  },
+  {
+   "id": "415-10",
+   "base": "415",
+   "name": "Pfeilwegweiser auf Bundesstraßen (linksweisend)",
+   "cat": "richt",
+   "section": "Wegweisung und Umleitungsbeschilderung",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/7/79/Zeichen_415-10_-_Wegweiser_auf_Bundesstra%C3%9Fen_%28linksweisend%29%2C_StVO_1992.svg",
+   "ratio": 4
+  },
+  {
+   "id": "418-10",
+   "base": "418",
+   "name": "Pfeilwegweiser auf sonstigen Straßen mit größerer Verkehrsbedeutung (linksweisend)",
+   "cat": "richt",
+   "section": "Wegweisung und Umleitungsbeschilderung",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Zeichen_418-10_-_Wegweiser_auf_sonstigen_Stra%C3%9Fen_mit_gr%C3%B6%C3%9Ferer_Verkehrsbedeutung_%28linksweisend%29%2C_StVO_1992.svg",
+   "ratio": 3.89
+  },
+  {
+   "id": "419-10",
+   "base": "419",
+   "name": "Pfeilwegweiser auf sonstigen Straßen mit geringerer Verkehrsbedeutung (linksweisend)",
+   "cat": "richt",
+   "section": "Wegweisung und Umleitungsbeschilderung",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/6/60/Zeichen_419-10_%E2%80%93_Pfeilwegweiser_auf_sonstigen_Stra%C3%9Fen_mit_geringerer_Verkehrsbedeutung_-_linksweisend%3B_StVO_2013.svg",
+   "ratio": 4
+  },
+  {
+   "id": "421-10",
+   "base": "421",
+   "name": "Pfeilwegweiser für bestimmte Verkehrsarten, KFZ mit einer zulässigen Gesamtmasse über 3,5 t (linksweisend)",
+   "cat": "richt",
+   "section": "Wegweisung und Umleitungsbeschilderung",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Zeichen_421-10_-_Wegweiser_f%C3%BCr_Lastkraftwagen_%28linksweisend%29%2C_StVO_1992.svg",
+   "ratio": 4
+  },
+  {
+   "id": "422-10",
+   "base": "422",
+   "name": "KFZ mit einer zulässigen Gesamtmasse über 3,5 t (hier links)",
+   "cat": "richt",
+   "section": "Wegweisung und Umleitungsbeschilderung",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Zeichen_422-10_-_Wegweiser_f%C3%BCr_bestimmte_Verkehrsarten_%E2%80%9EKFZ_mit_einer_zul%C3%A4ssigen_Gesamtmasse_%C3%BCber_3%2C5_t%E2%80%9C_-_hier_links%3B_StVO_2013.svg",
+   "ratio": 0.67
+  },
+  {
+   "id": "430-10",
+   "base": "430",
+   "name": "Wegweiser zur Autobahn (linksweisend)",
+   "cat": "richt",
+   "section": "Wegweisung und Umleitungsbeschilderung",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Zeichen_430-10_-_Wegweiser_zur_Autobahn%2C_StVO_1992.svg",
+   "ratio": 3.88
+  },
+  {
+   "id": "432-10",
+   "base": "432",
+   "name": "Pfeilwegweiser zu Zielen mit erheblicher Verkehrsbedeutung (linksweisend)",
+   "cat": "richt",
+   "section": "Wegweisung und Umleitungsbeschilderung",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/6/62/Zeichen_432-10_-_Wegweiser_zu_inner%C3%B6rtlichen_Zielen_und_zu_Einrichtungen_mit_erheblicher_Verkehrsbedeutung_%28linksweisend%2C_nach_RWB%29%2C_StVO_1992.svg",
+   "ratio": 3.75
+  },
+  {
+   "id": "434-50",
+   "base": "434",
+   "name": "Tabellenwegweiser kompakte Form",
+   "cat": "richt",
+   "section": "Wegweisung und Umleitungsbeschilderung",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/9/97/Zeichen_434-50_-_Tabellenwegweiser%2C_kompakte_Form_%28nach_RWB%29%2C_StVO_2017.svg",
+   "ratio": 1.4
+  },
+  {
+   "id": "437",
+   "base": "437",
+   "name": "Straßennamensschild",
+   "cat": "richt",
+   "section": "Wegweisung und Umleitungsbeschilderung",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Zeichen_437_-Stra%C3%9Fennamensschilder%2C_StVO_1970.svg",
+   "ratio": 1
+  },
+  {
+   "id": "438",
+   "base": "438",
+   "name": "Vorwegweiser außerhalb von Autobahnen",
+   "cat": "richt",
+   "section": "Wegweisung und Umleitungsbeschilderung",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Zeichen_438_-_Vorwegweiser%3B_StVO_1992.svg",
+   "ratio": 0.86
+  },
+  {
+   "id": "439",
+   "base": "439",
+   "name": "Gegliederter Vorwegweiser außerhalb von Autobahnen",
+   "cat": "richt",
+   "section": "Wegweisung und Umleitungsbeschilderung",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/5/50/Zeichen_439_-_Vorwegweiser%2C_StVO_1992.svg",
+   "ratio": 1.43
+  },
+  {
+   "id": "440",
+   "base": "440",
+   "name": "Vorwegweiser zur Autobahn",
+   "cat": "richt",
+   "section": "Wegweisung und Umleitungsbeschilderung",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/6/63/Zeichen_440_-_Vorwegweiser_zur_Autobahn_%283000x3250%29%3B_StVO_1988.svg",
+   "ratio": 0.92
+  },
+  {
+   "id": "441",
+   "base": "441",
+   "name": "Gegliederter Vorwegweiser zur Autobahn",
+   "cat": "richt",
+   "section": "Wegweisung und Umleitungsbeschilderung",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Zeichen_441_-_Gegliederter_Vorwegweiser_zur_Autobahn_%283000x2750%29_-_nach_RWB%3B_StVO_2009.svg",
+   "ratio": 1.09
+  },
+  {
+   "id": "442-10",
+   "base": "442",
+   "name": "KFZ mit einer zulässigen Gesamtmasse über 3,5 t (linksweisend)",
+   "cat": "richt",
+   "section": "Wegweisung und Umleitungsbeschilderung",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Zeichen_442-10_-_Vorwegweiser_f%C3%BCr_bestimmte_Verkehrsarten_%E2%80%9EKFZ_mit_einer_zul%C3%A4ssigen_Gesamtmasse_%C3%BCber_3%2C5_t%E2%80%9C_-_linksweisend%3B_StVO_2017.svg",
+   "ratio": 0.67
+  },
+  {
+   "id": "442-20",
+   "base": "442",
+   "name": "KFZ mit einer zulässigen Gesamtmasse über 3,5 t (rechtsweisend)",
+   "cat": "richt",
+   "section": "Wegweisung und Umleitungsbeschilderung",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/6/64/Zeichen_442-20_-_Vorwegweiser_f%C3%BCr_bestimmte_Verkehrsarten_%E2%80%9EKFZ_mit_einer_zul%C3%A4ssigen_Gesamtmasse_%C3%BCber_3%2C5_t%E2%80%9C_%28rechtsausweisend%29%2C_StVO_2017.svg",
+   "ratio": 0.67
+  },
+  {
+   "id": "448",
+   "base": "448",
+   "name": "Ankündigungstafel",
+   "cat": "richt",
+   "section": "Wegweisung und Umleitungsbeschilderung",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Zeichen_448_-_Ank%C3%BCndigungstafel_auf_Autobahnen%2C_StVO_1992.svg",
+   "ratio": 1.06
+  },
+  {
+   "id": "448.1",
+   "base": "448.1",
+   "name": "Autohof",
+   "cat": "richt",
+   "section": "Wegweisung und Umleitungsbeschilderung",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Zeichen_448.1_-_Autohof%2C_StVO_2000.svg",
+   "ratio": 1.39
+  },
+  {
+   "id": "449",
+   "base": "449",
+   "name": "Vorwegweiser auf Autobahnen",
+   "cat": "richt",
+   "section": "Wegweisung und Umleitungsbeschilderung",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/7/71/Zeichen_449_-_Vorwegweiser_auf_Autobahnen_%28nach_RWBA%29%2C_StVO_1992.svg",
+   "ratio": 0.94
+  },
+  {
+   "id": "450-50",
+   "base": "450",
+   "name": "Ankündigungsbake einstreifig (100 m)",
+   "cat": "richt",
+   "section": "Wegweisung und Umleitungsbeschilderung",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/5/52/Zeichen_450-50_-_Ank%C3%BCndigungsbake_einstreifig_%28100_m%29%2C_StVO_2013.svg",
+   "ratio": 0.44
+  },
+  {
+   "id": "453",
+   "base": "453",
+   "name": "Entfernungstafel",
+   "cat": "richt",
+   "section": "Wegweisung und Umleitungsbeschilderung",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Zeichen_453_-_Entfernungstafel_auf_Autobahnen%2C_StVO_1992.svg",
+   "ratio": 1.53
+  },
+  {
+   "id": "454-10",
+   "base": "454",
+   "name": "Umleitungswegweiser, linksweisend",
+   "cat": "richt",
+   "section": "Wegweisung und Umleitungsbeschilderung",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/9/97/Zeichen_454-10_-_Umleitungswegweiser_%28linksweisend%29%2C_StVO_1992.svg",
+   "ratio": 4
+  },
+  {
+   "id": "455.1-10",
+   "base": "455.1",
+   "name": "Ankündigung oder Fortsetzung der Umleitung, Vorankündigung links",
+   "cat": "richt",
+   "section": "Wegweisung und Umleitungsbeschilderung",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Zeichen_455.1-10_-_Ank%C3%BCndigung_oder_Fortsetzung_der_Umleitung_-_Vorank%C3%BCndigung_links%2C_StVO_2017.svg",
+   "ratio": 0.67
+  },
+  {
+   "id": "457.1",
+   "base": "457.1",
+   "name": "Umleitungsankündigung",
+   "cat": "richt",
+   "section": "Wegweisung und Umleitungsbeschilderung",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/0/02/Zeichen_457.1_-_Umleitungsank%C3%BCndigung%2C_StVO_2013.svg",
+   "ratio": 3
+  },
+  {
+   "id": "457.2",
+   "base": "457.2",
+   "name": "Ende der Umleitung",
+   "cat": "richt",
+   "section": "Wegweisung und Umleitungsbeschilderung",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Zeichen_457.2_-_Ende_der_Umleitung%2C_StVO_2013.svg",
+   "ratio": 3
+  },
+  {
+   "id": "458",
+   "base": "458",
+   "name": "Planskizze",
+   "cat": "richt",
+   "section": "Wegweisung und Umleitungsbeschilderung",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/0/00/Zeichen_458_-_Planskizze%2C_StVO_2013.svg",
+   "ratio": 0.78
+  },
+  {
+   "id": "460-10",
+   "base": "460",
+   "name": "Bedarfsumleitung, Vorankündigung links",
+   "cat": "richt",
+   "section": "Wegweisung und Umleitungsbeschilderung",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/0/01/Zeichen_460-10_-_Bedarfsumleitung%2C_linksweisend_%28900x600%29%2C_StVO_1992.svg",
+   "ratio": 0.67
+  },
+  {
+   "id": "460-11",
+   "base": "460",
+   "name": "Bedarfsumleitung, hier links",
+   "cat": "richt",
+   "section": "Wegweisung und Umleitungsbeschilderung",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Zeichen_460-11_-_Bedarfsumleitung%2C_rechts_vorbei_%28900x600%29%2C_StVO_1992.svg",
+   "ratio": 0.67
+  },
+  {
+   "id": "466",
+   "base": "466",
+   "name": "Weiterführende Bedarfsumleitung",
+   "cat": "richt",
+   "section": "Wegweisung und Umleitungsbeschilderung",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Zeichen_466_-_Bedarfsumleitungstafel%2C_StVO_1970.svg",
+   "ratio": 0.78
+  },
+  {
+   "id": "467.1-10",
+   "base": "467.1",
+   "name": "Umlenkungspfeil (Streckenempfehlung) linksweisend",
+   "cat": "richt",
+   "section": "Sonstige Verkehrsführung",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Zeichen_467.1-10_-_Umlenkungspfeil_%28Streckenempfehlung%29_linksweisend%2C_StVO_2013.svg",
+   "ratio": 1.56
+  },
+  {
+   "id": "467.1-20",
+   "base": "467.1",
+   "name": "Umlenkungspfeil (Streckenempfehlung) rechtsweisend",
+   "cat": "richt",
+   "section": "Sonstige Verkehrsführung",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Zeichen_467.1-20_-_Umlenkungspfeil_%28Streckenempfehlung%29_rechtsweisend%2C_StVO_2013.svg",
+   "ratio": 1.56
+  },
+  {
+   "id": "467.1-30",
+   "base": "467.1",
+   "name": "Umlenkungspfeil (Streckenempfehlung) geradeaus",
+   "cat": "richt",
+   "section": "Sonstige Verkehrsführung",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Zeichen_467.1-30_-_Umlenkungspfeil_%28Streckenempfehlung%29_geradeaus%2C_StVO_2013.svg",
+   "ratio": 0.64
+  },
+  {
+   "id": "467.2",
+   "base": "467.2",
+   "name": "Umlenkungspfeil Ende",
+   "cat": "richt",
+   "section": "Sonstige Verkehrsführung",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Zeichen_467.2_-_Umlenkungspfeil_Ende_%28Ende_einer_Streckenempfehlung%29%2C_StVO_2013.svg",
+   "ratio": 0.64
+  },
+  {
+   "id": "501-10",
+   "base": "501",
+   "name": "Überleitungstafel (ohne Gegenverkehr, einstreifig nach links)",
+   "cat": "richt",
+   "section": "Überleitungstafeln",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/3/36/Zeichen_501-10_-_%C3%9Cberleitungstafel%2C_Darstellung_ohne_Gegenverkehr%2C_StVO_1992.svg",
+   "ratio": 0.78
+  },
+  {
+   "id": "505-11",
+   "base": "505",
+   "name": "Überleitungstafel (ohne Gegenverkehr und mit integriertem Zeichen 264, zweistreifig nach links)",
+   "cat": "richt",
+   "section": "Überleitungstafeln",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Zeichen_505-11_-_%C3%9Cberleitungstafel_-_ohne_Gegenverkehr_und_mit_integriertem_Zeichen_264_StVO_-_zweistreifig_nach_links_%281600x1250%29%3B_StVO_2017.svg",
+   "ratio": 0.78
+  },
+  {
+   "id": "511-10",
+   "base": "511",
+   "name": "Verschwenkungstafel (ohne Gegenverkehr, einstreifig nach links)",
+   "cat": "richt",
+   "section": "Überleitungstafeln",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/8/83/Zeichen_511-10_-_Verschwenkungstafel%3B_Darstellung_ohne_Gegenverkehr_-_einstreifig_nach_links_%281600x1250%29%2C_StVO_1992.svg",
+   "ratio": 0.78
+  },
+  {
+   "id": "512-10",
+   "base": "512",
+   "name": "Verschwenkungstafel (mit Gegenverkehr, Verschwenkung nach links einstreifig in Fahrtrichtung und einstreifig in Gegenrichtung)",
+   "cat": "richt",
+   "section": "Überleitungstafeln",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Zeichen_512-10_Verschwenkungstafel_-_mit_Gegenverkehr.svg",
+   "ratio": 0.78
+  },
+  {
+   "id": "513-10",
+   "base": "513",
+   "name": "Verschwenkungstafel kurze Verschwenkung (ohne Gegenverkehr, einstreifig nach links)",
+   "cat": "richt",
+   "section": "Überleitungstafeln",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Zeichen_513-10.svg",
+   "ratio": 0.78
+  },
+  {
+   "id": "514-10",
+   "base": "514",
+   "name": "Verschwenkungstafel kurze Verschwenkung (mit Gegenverkehr, einstreifig nach links)",
+   "cat": "richt",
+   "section": "Überleitungstafeln",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/1/12/Zeichen_514-10.svg",
+   "ratio": 0.78
+  },
+  {
+   "id": "515-11",
+   "base": "515",
+   "name": "Verschwenkungstafel (ohne Gegenverkehr mit integriertem Zeichen 264 StVO, zweistreifig nach links)",
+   "cat": "richt",
+   "section": "Überleitungstafeln",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Zeichen_515-11_-_Verschwenkungstafel_-_ohne_Gegenverkehr_mit_integriertem_Zeichen_264_StVO_-_zweistreifig_nach_links_%281600x1250%29%3B_StVO_2017.svg",
+   "ratio": 0.78
+  },
+  {
+   "id": "521-30",
+   "base": "521",
+   "name": "Fahrstreifentafel (ohne Gegenverkehr, zweistreifig in Fahrtrichtung)",
+   "cat": "richt",
+   "section": "Überleitungstafeln",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Zeichen_521-30_-_Fahrstreifentafel%3B_Darstellung_ohne_Gegenverkehr_-_zwei_Fahrstreifen_in_Fahrtrichtung%2C_StVO_1992.svg",
+   "ratio": 0.78
+  },
+  {
+   "id": "522-30",
+   "base": "522",
+   "name": "Fahrstreifentafel (mit Gegenverkehr, einstreifig in Fahrtrichtung und einstreifig in Gegenrichtung)",
+   "cat": "richt",
+   "section": "Überleitungstafeln",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Zeichen_522-30_-_Fahrstreifentafel%3B_Darstellung_mit_Gegenverkehr-_ein_Fahrstreifen_in_Fahrtrichtung%2C_ein_Fahrstreifen_in_Gegenrichtung_%281600x1250%29%3B_StVO_1992.svg",
+   "ratio": 0.78
+  },
+  {
+   "id": "523-30",
+   "base": "523",
+   "name": "Fahrstreifentafel (ohne Gegenverkehr mit integriertem Zeichen 274, zweistreifig in Fahrtrichtung)",
+   "cat": "richt",
+   "section": "Überleitungstafeln",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/1/10/Zeichen_523-30_-_Fahrstreifentafel_-_ohne_Gegenverkehr_mit_integriertem_Zeichen_274_-_zweistreifig_in_Fahrtrichtung_%281600x1250%29%3B_StVO_2017.svg",
+   "ratio": 0.78
+  },
+  {
+   "id": "524-30",
+   "base": "524",
+   "name": "Fahrstreifentafel (ohne Gegenverkehr mit integriertem Zeichen 253, zweistreifig in Fahrtrichtung)",
+   "cat": "richt",
+   "section": "Überleitungstafeln",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Zeichen_524-30_-_Fahrstreifentafel_-_ohne_Gegenverkehr_mit_integriertem_Zeichen_253_-_zweistreifig_in_Fahrtrichtung_%281600x1250%29%3B_StVO_2017.svg",
+   "ratio": 0.78
+  },
+  {
+   "id": "525-31",
+   "base": "525",
+   "name": "Fahrstreifentafel (ohne Gegenverkehr mit integriertem Zeichen 275, dreistreifig in Fahrtrichtung)",
+   "cat": "richt",
+   "section": "Überleitungstafeln",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Zeichen_525-31_-_Fahrstreifentafel_-_ohne_Gegenverkehr_mit_integriertem_Zeichen_275_-_dreistreifig_in_Fahrtrichtung_%281600x1250%29%3B_StVO_2017.svg",
+   "ratio": 0.78
+  },
+  {
+   "id": "526-31",
+   "base": "526",
+   "name": "Fahrstreifentafel (mit Gegenverkehr und mit integriertem Zeichen 275, zweistreifig in Fahrtrichtung und einstreifig in Gegenrichtung)",
+   "cat": "richt",
+   "section": "Überleitungstafeln",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/0/01/Zeichen_526-31_-_Fahrstreifentafel_-_mit_Gegenverkehr_und_mit_integriertem_Zeichen_275_-_zweistreifig_in_Fahrtrichtung_und_einstreifig_in_Gegenrichtung%2C_StVO_2017.svg",
+   "ratio": 0.78
+  },
+  {
+   "id": "527-30",
+   "base": "527",
+   "name": "Fahrstreifentafel (ohne Gegenverkehr mit integriertem Zeichen 262, zweistreifig in Fahrtrichtung)",
+   "cat": "richt",
+   "section": "Überleitungstafeln",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Zeichen_527-30_Fahrstreifentafel_-_ohne_Gegenverkehr_mit_integriertem_Zeichen_262.svg",
+   "ratio": 0.78
+  },
+  {
+   "id": "528-30",
+   "base": "528",
+   "name": "Fahrstreifentafel (ohne Gegenverkehr mit integriertem Zeichen 263, zweistreifig in Fahrtrichtung)",
+   "cat": "richt",
+   "section": "Überleitungstafeln",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/2/27/Zeichen_528-30_Fahrstreifentafel_-_ohne_Gegenverkehr_mit_integriertem_Zeichen_263.svg",
+   "ratio": 0.78
+  },
+  {
+   "id": "529-30",
+   "base": "529",
+   "name": "Fahrstreifentafel (ohne Gegenverkehr mit integriertem Zeichen 265, zweistreifig in Fahrtrichtung)",
+   "cat": "richt",
+   "section": "Überleitungstafeln",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/2/29/Zeichen_529-30_Fahrstreifentafel_-_ohne_Gegenverkehr_mit_integriertem_Zeichen_265.svg",
+   "ratio": 0.78
+  },
+  {
+   "id": "531-10",
+   "base": "531",
+   "name": "Einengungstafel (ohne Gegenverkehr, Einzug rechts, noch 1 Fahrstreifen)",
+   "cat": "richt",
+   "section": "Überleitungstafeln",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Zeichen_531-10_-_Einengungstafel%3B_Darstellung_ohne_Gegenverkehr_-_noch_ein_Fahrstreifen_links_in_Fahrtrichtung%2C_StVO_1992.svg",
+   "ratio": 0.78
+  },
+  {
+   "id": "532-10",
+   "base": "532",
+   "name": "Einengungstafel (mit Gegenverkehr, Einzug rechts, noch 1 Fahrstreifen und 1 Fahrstreifen in Gegenrichtung)",
+   "cat": "richt",
+   "section": "Überleitungstafeln",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Zeichen_532-10_-_Einengungstafel%2C_Darstellung_mit_Gegenverkehr_-_noch_ein_Fahrstreifen_links_in_Fahrtrichtung_und_ein_Fahrstreifen_im_Gegenverkehr%2C_StVO_1992.svg",
+   "ratio": 0.78
+  },
+  {
+   "id": "533-20",
+   "base": "533",
+   "name": "Trennungstafel (ohne Gegenverkehr, zweistreifig durchgehend und einstreifig rechts ab)",
+   "cat": "richt",
+   "section": "Überleitungstafeln",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/9/94/Zeichen_533-20_-_Trennungstafel_%E2%80%93_ohne_Gegenverkehr_%E2%80%93_zweistreifig_durchgehend_und_einstreifig_rechts_ab_%281600x1250%29%2C_StVO_2017.svg",
+   "ratio": 0.78
+  },
+  {
+   "id": "535-11",
+   "base": "535",
+   "name": "Einengungstafel (ohne Gegenverkehr mit integriertem Zeichen 279 StVO; Einzug rechts, noch 2 Fahrstreifen in Fahrtrichtung)",
+   "cat": "richt",
+   "section": "Überleitungstafeln",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Zeichen_535-11_-_Einengungstafel%3B_Darstellung_ohne_Gegenverkehr_und_mit_integriertem_Zeichen_279_StVO_-_noch_zwei_Fahrstreifen_links_in_Fahrtrichtung%2C_StVO_1992.svg",
+   "ratio": 0.78
+  },
+  {
+   "id": "536-20",
+   "base": "536",
+   "name": "Einengungstafel (ohne Gegenverkehr mit integriertem Zeichen 279, Einzug links, noch 1 Fahrstreifen und 1 Fahrstreifen in Gegenrichtung)",
+   "cat": "richt",
+   "section": "Überleitungstafeln",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Zeichen_536-20_-_Einengungstafel_%E2%88%92_ohne_Gegenverkehr_mit_integriertem_Zeichen_279_%E2%88%92_Einzug_links%2C_noch_1_Fahrstreifen_und_1_Fahrstreifen_in_Gegenrichtung_StVO_2017.svg",
+   "ratio": 0.78
+  },
+  {
+   "id": "537-30",
+   "base": "537",
+   "name": "Fahrstreifentafel (ohne Gegenverkehr mit integriertem Zeichen 278, zweistreifig in Fahrtrichtung)",
+   "cat": "richt",
+   "section": "Überleitungstafeln",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Zeichen_537-30_-_Fahrstreifentafel_%E2%80%93_ohne_Gegenverkehr_mit_integriertem_Zeichen_278_%E2%80%93_zweistreifig_in_Fahrtrichtung_%281600x1250%29%2C_StVO_2017.svg",
+   "ratio": 0.78
+  },
+  {
+   "id": "538-30",
+   "base": "538",
+   "name": "Fahrstreifentafel (ohne Gegenverkehr mit integriertem Zeichen 282, zweistreifig in Fahrtrichtung)",
+   "cat": "richt",
+   "section": "Überleitungstafeln",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/0/09/Zeichen_538-30_Fahrstreifentafel_-_ohne_Gegenverkehr_mit_integriertem_Zeichen_282.svg",
+   "ratio": 0.78
+  },
+  {
+   "id": "541-10",
+   "base": "541",
+   "name": "Aufweitungstafel (ohne Gegenverkehr, 1-streifig plus Fahrstreifen links)",
+   "cat": "richt",
+   "section": "Überleitungstafeln",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Zeichen_541-10_-_Aufweitungstafel%3B_Darstellung_ohne_Gegenverkehr-_ein_vorhandener_und_ein_zus%C3%A4tzlicher_Fahrstreifen_links_in_Fahrtrichtung%2C_StVO_1992.svg",
+   "ratio": 0.78
+  },
+  {
+   "id": "542-10",
+   "base": "542",
+   "name": "Aufweitungstafel (mit Gegenverkehr; 1-streifig plus Fahrstreifen links und 1 Fahrstreifen in Gegenrichtung)",
+   "cat": "richt",
+   "section": "Überleitungstafeln",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/6/63/Zeichen_542-10_-_Aufweitungstafel%3B_Darstellung_mit_Gegenverkehr-_ein_vorhandener_und_ein_zus%C3%A4tzlicher_Fahrstreifen_links_in_Fahrtrichtung%2C_ein_Fahrstreifen_im_Gegenverkehr%2C_StVO_1992.svg",
+   "ratio": 0.78
+  },
+  {
+   "id": "545-11",
+   "base": "545",
+   "name": "Aufweitungstafel (ohne Gegenverkehr mit integriertem Zeichen 275, zweistreifig plus Fahrstreifen links)",
+   "cat": "richt",
+   "section": "Überleitungstafeln",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Zeichen_545-11_-_Aufweitungstafel%3B_Darstellung_ohne_Gegenverkehr_und_mit_integriertem_Zeichen_275_StVO-_zwei_vorhandene_und_ein_zus%C3%A4tzlicher_Fahrstreifen_links_in_Fahrtrichtung%2C_StVO_1992.svg",
+   "ratio": 0.78
+  },
+  {
+   "id": "546-10",
+   "base": "546",
+   "name": "Aufweitungstafel (mit Gegenverkehr mit integriertem Zeichen 275, einstreifig plus Fahrstreifen links und 1 Fahrstreifen in Gegenrichtung)",
+   "cat": "richt",
+   "section": "Überleitungstafeln",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/6/67/Zeichen_546-10_-_Aufweitungstafel_%E2%88%92_mit_Gegenverkehr_mit_integriertem_Zeichen_275_%E2%88%92_einstreifig_plus_Fahrstreifen_links_und_1_Fahrstreifen_in_Gegenrichtung_%281600x1250%29%2C_StVO_2017.svg",
+   "ratio": 0.78
+  },
+  {
+   "id": "550-20",
+   "base": "550",
+   "name": "Zusammenführungstafel (an durchgehender Strecke, einstreifig plus 1 Fahrstreifen von rechts)",
+   "cat": "richt",
+   "section": "Überleitungstafeln",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Zeichen_550-20_-_Zusammenf%C3%BChrungstafel_%E2%80%93_an_durchgehender_Strecke_%E2%80%93_einstreifig_plus_1_Fahrstreifen_von_rechts_%281600x1250%29%2C_StVO_2017.svg",
+   "ratio": 0.78
+  },
+  {
+   "id": "551-20",
+   "base": "551",
+   "name": "Zusammenführungstafel (an einmündender Strecke, einstreifig einmündend plus einstreifig durchgehend)",
+   "cat": "richt",
+   "section": "Überleitungstafeln",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/7/78/Zeichen_551-20_-_Zusammenf%C3%BChrungstafel%3B_Darstellung_ohne_Gegenverkehr_-_eins_plus_eins_Fahrstreifen%2C_StVO_1992.svg",
+   "ratio": 0.78
+  },
+  {
+   "id": "590-10",
+   "base": "590",
+   "name": "Blockumfahrung rechts, links, links",
+   "cat": "richt",
+   "section": "Überleitungstafeln",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Zeichen_590-10_-_Blockumfahrung_rechts%2C_links%2C_links_%28600x600%29%2C_StVO_2009.svg",
+   "ratio": 1
+  },
+  {
+   "id": "600-30",
+   "base": "600",
+   "name": "Absperrschranke",
+   "cat": "einrichtung",
+   "section": "Einrichtungen zur Kennzeichnung von Arbeits- und Unfallstellen oder sonstigen vorübergehenden Hindernissen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Zeichen_600-30_-_Absperrschranke_%28100x800%29%3B_StVO_1992.svg",
+   "ratio": 7.92
+  },
+  {
+   "id": "605-10",
+   "base": "605",
+   "name": "Leitbake (Schraffenbake)",
+   "cat": "einrichtung",
+   "section": "Einrichtungen zur Kennzeichnung von Arbeits- und Unfallstellen oder sonstigen vorübergehenden Hindernissen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/4/44/Zeichen_605-10_-_Leitbake_%28Aufstellung_rechts%29%2C_1000x250%3B_StVO_1992.svg",
+   "ratio": 0.25
+  },
+  {
+   "id": "605-11",
+   "base": "605",
+   "name": "Leitbake (Pfeilbake)",
+   "cat": "einrichtung",
+   "section": "Einrichtungen zur Kennzeichnung von Arbeits- und Unfallstellen oder sonstigen vorübergehenden Hindernissen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Zeichen_605-11_-_Leitbake%2C_Pfeilbake_%28Aufstellung_rechts%29%2C_1000x250%2C_StVO_2009.svg",
+   "ratio": 0.25
+  },
+  {
+   "id": "605-13",
+   "base": "605",
+   "name": "Leitbake (Warnlichtbake)",
+   "cat": "einrichtung",
+   "section": "Einrichtungen zur Kennzeichnung von Arbeits- und Unfallstellen oder sonstigen vorübergehenden Hindernissen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Zeichen_605-13_-_Warnlichtbake%2C_Aufstellung_rechts%3B_StVO_2013.svg",
+   "ratio": 0.2
+  },
+  {
+   "id": "610-40",
+   "base": "610",
+   "name": "Leitkegel",
+   "cat": "einrichtung",
+   "section": "Einrichtungen zur Kennzeichnung von Arbeits- und Unfallstellen oder sonstigen vorübergehenden Hindernissen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/5/57/Zeichen_610-40_bis_43_-_Leitkegel%2C_StVO_2013.svg",
+   "ratio": 0.74
+  },
+  {
+   "id": "615",
+   "base": "615",
+   "name": "Fahrbare Absperrtafel",
+   "cat": "einrichtung",
+   "section": "Einrichtungen zur Kennzeichnung von Arbeits- und Unfallstellen oder sonstigen vorübergehenden Hindernissen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/9/99/Zeichen_615_-_fahrbare_Absperrtafel%2C_StVO_1992.svg",
+   "ratio": 0.61
+  },
+  {
+   "id": "616-30",
+   "base": "616",
+   "name": "Fahrbare Absperrtafel mit Blinkpfeil (große Ausführung)",
+   "cat": "einrichtung",
+   "section": "Einrichtungen zur Kennzeichnung von Arbeits- und Unfallstellen oder sonstigen vorübergehenden Hindernissen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Zeichen_616-30_-_fahrbare_Absperrtafel_mit_Blinkpfeil_-_gro%C3%9Fe_Ausf%C3%BChrung%2C_StVO_1997.svg",
+   "ratio": 0.61
+  },
+  {
+   "id": "616-31",
+   "base": "616",
+   "name": "Fahrbare Absperrtafel mit Blinkpfeil (kleine Ausführung)",
+   "cat": "einrichtung",
+   "section": "Einrichtungen zur Kennzeichnung von Arbeits- und Unfallstellen oder sonstigen vorübergehenden Hindernissen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/2/23/Zeichen_616-31_-_fahrbahre_Absperrtafel_mit_Blinkpfeil_%28kleine_Ausf%C3%BChrung%29%2C_StVO_1992.svg",
+   "ratio": 0.62
+  },
+  {
+   "id": "628-10",
+   "base": "628",
+   "name": "Leitschwelle mit Leitbake",
+   "cat": "einrichtung",
+   "section": "Einrichtungen zur Kennzeichnung von Arbeits- und Unfallstellen oder sonstigen vorübergehenden Hindernissen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Zeichen_628-10_-_Leitschwelle_mit_Leitbake_%28rechts%29%2C_StVO_2009.svg",
+   "ratio": 0.4
+  },
+  {
+   "id": "629-10",
+   "base": "629",
+   "name": "Leitbord mit Leitbake",
+   "cat": "einrichtung",
+   "section": "Einrichtungen zur Kennzeichnung von Arbeits- und Unfallstellen oder sonstigen vorübergehenden Hindernissen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/2/22/Zeichen_629-10_-_Leitbord_mit_Leitbake_%28rechts%29%2C_StVO_2009.svg",
+   "ratio": 0.35
+  },
+  {
+   "id": "620-40",
+   "base": "620",
+   "name": "Leitpfosten rechts",
+   "cat": "einrichtung",
+   "section": "Einrichtung zur Kennzeichnung des Straßenverlaufs",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/6/69/Zeichen_620-40_-_Leitpfosten_%28rechts%29%2C_StVO_1992.svg",
+   "ratio": 0.36
+  },
+  {
+   "id": "620-41",
+   "base": "620",
+   "name": "Leitpfosten links",
+   "cat": "einrichtung",
+   "section": "Einrichtung zur Kennzeichnung des Straßenverlaufs",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Zeichen_620-41_-_Leitpfosten_%28links%29%2C_StVO_1992.svg",
+   "ratio": 0.36
+  },
+  {
+   "id": "625-10",
+   "base": "625",
+   "name": "Richtungstafel in Kurven",
+   "cat": "einrichtung",
+   "section": "Einrichtungen zur Kennzeichnung von dauerhaften Hindernissen oder sonstigen gefährlichen Stellen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/9/94/Zeichen_625-10_-_Richtungstafel_in_Kurven_%28Aufstellung_rechts%29%2C_500x500%3B_StVO_1992.svg",
+   "ratio": 1
+  },
+  {
+   "id": "626-10",
+   "base": "626",
+   "name": "Leitplatte",
+   "cat": "einrichtung",
+   "section": "Einrichtungen zur Kennzeichnung von dauerhaften Hindernissen oder sonstigen gefährlichen Stellen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Zeichen_626-10_-_Leitplatte%2C_Aufstellung_rechts%2C_StVO_2013.svg",
+   "ratio": 0.67
+  },
+  {
+   "id": "627-30",
+   "base": "627",
+   "name": "Leitmal waagerecht",
+   "cat": "einrichtung",
+   "section": "Einrichtungen zur Kennzeichnung von dauerhaften Hindernissen oder sonstigen gefährlichen Stellen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/a/af/Zeichen_627-30_-_Leitmal_waagerecht%2C_StVO_2013.svg",
+   "ratio": 7.69
+  },
+  {
+   "id": "627-50",
+   "base": "627",
+   "name": "Leitmal gebogen",
+   "cat": "einrichtung",
+   "section": "Einrichtungen zur Kennzeichnung von dauerhaften Hindernissen oder sonstigen gefährlichen Stellen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/2/29/Zeichen_627-50_-_Leitmal_%28gebogen%29%2C_StVO_2013.svg",
+   "ratio": 0.67
+  },
+  {
+   "id": "630-10",
+   "base": "630",
+   "name": "Parkwarntafel, links vorbei",
+   "cat": "einrichtung",
+   "section": "Warntafel zur Kennzeichnung von Fahrzeugen und Anhängern bei Dunkelheit",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Zeichen_630-10_-_Parkwarntafel_links_vorbei_%28423x423%29%2C_StVO_2013.svg",
+   "ratio": 1
+  },
+  {
+   "id": "630-20",
+   "base": "630",
+   "name": "Parkwarntafel, rechts vorbei",
+   "cat": "einrichtung",
+   "section": "Warntafel zur Kennzeichnung von Fahrzeugen und Anhängern bei Dunkelheit",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Zeichen_630-20_-_Parkwarntafel_rechts_vorbei_%28423x423%29%2C_StVO_2013.svg",
+   "ratio": 1
+  },
+  {
+   "id": "720",
+   "base": "720",
+   "name": "Grünpfeilschild",
+   "cat": "einrichtung",
+   "section": "Sonstige Zeichen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Zeichen_720_-_Gr%C3%BCnpfeil%2C_StVO_1994.svg",
+   "ratio": 1
+  },
+  {
+   "id": "721",
+   "base": "721",
+   "name": "Grünpfeilschild mit Beschränkung auf den Radverkehr",
+   "cat": "einrichtung",
+   "section": "Sonstige Zeichen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Zeichen_721_-_Gr%C3%BCnpfeilschild_mit_Beschr%C3%A4nkung_auf_den_Radverkehr%2C_StVO_2020.svg",
+   "ratio": 0.75
+  },
+  {
+   "id": "1000-10",
+   "base": "1000-10",
+   "name": "Richtung, linksweisend",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1000 – Richtungsangaben durch Pfeile",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/0/04/Zusatzzeichen_1000-10_-_Richtungsangaben_durch_Pfeile%2C_linksweisend%2C_StVO_1992.svg",
+   "ratio": 1.82
+  },
+  {
+   "id": "1000-11",
+   "base": "1000-11",
+   "name": "Vorankündigung, linksweisend",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1000 – Richtungsangaben durch Pfeile",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/4/47/Zusatzzeichen_1000-11_-_Richtung_der_Gefahrstelle%2C_linksweisend%2C_StVO_1992.svg",
+   "ratio": 1.82
+  },
+  {
+   "id": "1000-12",
+   "base": "1000-12",
+   "name": "Fußgänger Gehweg gegenüber benutzen, linksweisend",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1000 – Richtungsangaben durch Pfeile",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Zusatzzeichen_1000-12_-_Fu%C3%9Fg%C3%A4nger_Gehweg_gegen%C3%BCber_benutzen%2C_linksweisend%3B_StVO_1992.svg",
+   "ratio": 1.82
+  },
+  {
+   "id": "1000-13",
+   "base": "1000-13",
+   "name": "Umleitungsbeschilderung Dreiviertelkreis",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1000 – Richtungsangaben durch Pfeile",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Zusatzzeichen_1000-13_-_Richtungsangaben_durch_Pfeile%2C_Umleitungsbeschilderung_Dreiviertelkreis%2C_StVO_2017.svg",
+   "ratio": 1.33
+  },
+  {
+   "id": "1000-20",
+   "base": "1000-20",
+   "name": "Richtung, rechtsweisend",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1000 – Richtungsangaben durch Pfeile",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/9/94/Zusatzzeichen_1000-20_-_Richtungsangaben_durch_Pfeile%2C_rechtsweisend%2C_StVO_1992.svg",
+   "ratio": 1.82
+  },
+  {
+   "id": "1000-21",
+   "base": "1000-21",
+   "name": "Vorankündigung, rechtsweisend",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1000 – Richtungsangaben durch Pfeile",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Zusatzzeichen_1000-21_-_Richtung_der_Gefahrstelle%2C_rechtsweisend%2C_StVO_1992.svg",
+   "ratio": 1.82
+  },
+  {
+   "id": "1000-22",
+   "base": "1000-22",
+   "name": "Fußgänger Gehweg gegenüber benutzen, rechtsweisend",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1000 – Richtungsangaben durch Pfeile",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/1/18/Zusatzzeichen_1000-22_-_Fu%C3%9Fg%C3%A4nger_Gehweg_gegen%C3%BCber_benutzen%2C_rechtsweisend_%28600x330%29%2C_StVO_1992.svg",
+   "ratio": 1.82
+  },
+  {
+   "id": "1001-30",
+   "base": "1001-30",
+   "name": "Auf … m",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1001 – Länge einer Strecke",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Zusatzzeichen_1001-30_-_auf_..._m%2C_StVO_1992.svg",
+   "ratio": 1.82
+  },
+  {
+   "id": "1001-31",
+   "base": "1001-31",
+   "name": "Auf … km",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1001 – Länge einer Strecke",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/5/52/Zusatzzeichen_1001-31_-_auf_..._km_%28600x330%29%2C_StVO_1992.svg",
+   "ratio": 1.82
+  },
+  {
+   "id": "1001-32",
+   "base": "1001-32",
+   "name": "Noch … m",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1001 – Länge einer Strecke",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/2/23/Zusatzzeichen_1001-32_-_noch_..._m%2C_StVO_2017.svg",
+   "ratio": 1.33
+  },
+  {
+   "id": "1001-33",
+   "base": "1001-33",
+   "name": "Noch … km",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1001 – Länge einer Strecke",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/9/93/Zusatzzeichen_1001-33_-_noch_..._km%2C_StVO_2017.svg",
+   "ratio": 1.33
+  },
+  {
+   "id": "1004-30",
+   "base": "1004-30",
+   "name": "Nach … m",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1004 – Entfernungsangaben",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Zusatzzeichen_1004-30_-_nach_100_m%2C_StVO_1992.svg",
+   "ratio": 1.82
+  },
+  {
+   "id": "1004-31",
+   "base": "1004-31",
+   "name": "In … km",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1004 – Entfernungsangaben",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Zusatzzeichen_1004-31_-_in_..._km%2C_StVO_2017.svg",
+   "ratio": 1.82
+  },
+  {
+   "id": "1004-32",
+   "base": "1004-32",
+   "name": "Stop in 100 m",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1004 – Entfernungsangaben",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Zusatzzeichen_1004-32_-_Stop_in_100_m%2C_StVO_2017.svg",
+   "ratio": 1.33
+  },
+  {
+   "id": "1005-30",
+   "base": "1005-30",
+   "name": "Reißverschluss",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1005 – Entfernungsangaben mit verbalem Zusatz",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Zusatzzeichen_1005-30_-_Rei%C3%9Fverschluss_erst_in_..._m%2C_StVO_2001.svg",
+   "ratio": 2.5
+  },
+  {
+   "id": "1006-30",
+   "base": "1006-30",
+   "name": "Schleudergefahr für Wohnwagengespanne an Gefällestrecken mit starkem Seitenwind auf Autobahnen",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1006 – Hinweise auf Gefahren durch Sinnbild",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Zusatzzeichen_1006-30_-_Schleudergefahr_f%C3%BCr_Wohnwagengespanne_an_Gef%C3%A4llestrecken_mit_starkem_Seitenwind_auf_Autobahnen%2C_StVO_2017.svg",
+   "ratio": 1.82
+  },
+  {
+   "id": "1006-31",
+   "base": "1006-31",
+   "name": "Unfallgefahr",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1006 – Hinweise auf Gefahren durch Sinnbild",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/7/73/Zusatzzeichen_1006-31_-_Unfallgefahr%2C_StVO_2017.svg",
+   "ratio": 1.82
+  },
+  {
+   "id": "1007-30",
+   "base": "1007-30",
+   "name": "Ölspur",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1007 – Hinweise auf Gefahren durch verbale Angabe",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/8/88/Zusatzzeichen_1007-30_-_%C3%96lspur%2C_StVO_2017.svg",
+   "ratio": 1.82
+  },
+  {
+   "id": "1007-31",
+   "base": "1007-31",
+   "name": "Rauch",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1007 – Hinweise auf Gefahren durch verbale Angabe",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Zusatzzeichen_1007-31_-_Rauch%2C_StVO_2017.svg",
+   "ratio": 1.82
+  },
+  {
+   "id": "1007-32",
+   "base": "1007-32",
+   "name": "Rollsplitt",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1007 – Hinweise auf Gefahren durch verbale Angabe",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Zusatzzeichen_1007-32_-_Rollsplitt%2C_StVO_2017.svg",
+   "ratio": 1.82
+  },
+  {
+   "id": "1007-33",
+   "base": "1007-33",
+   "name": "Baustellenausfahrt",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1007 – Hinweise auf Gefahren durch verbale Angabe",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Zusatzzeichen_1007-33_-_Baustellenausfahrt%2C_StVO_2017.svg",
+   "ratio": 1.82
+  },
+  {
+   "id": "1007-34",
+   "base": "1007-34",
+   "name": "Straßenschäden",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1007 – Hinweise auf Gefahren durch verbale Angabe",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/0/07/Zusatzzeichen_1007-34_-_Stra%C3%9Fensch%C3%A4den%2C_StVO_2017.svg",
+   "ratio": 1.82
+  },
+  {
+   "id": "1007-35",
+   "base": "1007-35",
+   "name": "Verschmutzte Fahrbahn",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1007 – Hinweise auf Gefahren durch verbale Angabe",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/4/41/Zusatzzeichen_1007-35_-_Verschmutzte_Fahrbahn%2C_StVO_2017.svg",
+   "ratio": 1.82
+  },
+  {
+   "id": "1007-36",
+   "base": "1007-36",
+   "name": "Sprengarbeiten",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1007 – Hinweise auf Gefahren durch verbale Angabe",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Zusatzzeichen_1007-36_-_Sprengarbeiten_%28600x330%29%2C_StVO_2017.svg",
+   "ratio": 1.82
+  },
+  {
+   "id": "1008-30",
+   "base": "1008-30",
+   "name": "Vorfahrt geändert",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1008 – Hinweis auf geänderte Vorfahrt, Verkehrsführung oder besondere Verkehrsregelung",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Zusatzzeichen_1008-30_-_Vorfahrt_ge%C3%A4ndert_%28600x330%29%2C_StVO_1992.svg",
+   "ratio": 1.82
+  },
+  {
+   "id": "1008-31",
+   "base": "1008-31",
+   "name": "Verkehrsführung geändert",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1008 – Hinweis auf geänderte Vorfahrt, Verkehrsführung oder besondere Verkehrsregelung",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/d/df/Zusatzzeichen_1008-31_-_Verkehrsf%C3%BChrung_ge%C3%A4ndert%2C_StVO_1992.svg",
+   "ratio": 1.33
+  },
+  {
+   "id": "1008-32",
+   "base": "1008-32",
+   "name": "Industriegebiet Schienenfahrzeuge haben Vorrang",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1008 – Hinweis auf geänderte Vorfahrt, Verkehrsführung oder besondere Verkehrsregelung",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/1/14/Zusatzzeichen_1008-32_-_Industriegebiet_-_Vorrang_f%C3%BCr_Schienenfahrzeuge%2C_StVO_1992.svg",
+   "ratio": 1.33
+  },
+  {
+   "id": "1008-33",
+   "base": "1008-33",
+   "name": "Hafengebiet Schienenfahrzeuge haben Vorrang",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1008 – Hinweis auf geänderte Vorfahrt, Verkehrsführung oder besondere Verkehrsregelung",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Zusatzzeichen_1008-33_-_Hafengebiet_Schienenfahrzeuge_haben_Vorrang_%28600x450%29%2C_StVO_1992.svg",
+   "ratio": 1.33
+  },
+  {
+   "id": "1008-34",
+   "base": "1008-34",
+   "name": "Keine Wendemöglichkeit",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1008 – Hinweis auf geänderte Vorfahrt, Verkehrsführung oder besondere Verkehrsregelung",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Zeichen_1008-34_-_keine_Wendem%C3%B6glichkeit%2C_StVO_2017.svg",
+   "ratio": 1.82
+  },
+  {
+   "id": "1010-10",
+   "base": "1010-10",
+   "name": "Erlaubt Kindern auch auf der Fahrbahn und dem Seitenstreifen zu spielen (Spielstraße)",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1010 – Hinweis durch Sinnbild",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/3/37/Zusatzzeichen_1010-10_-_erlaubt_Kindern%2C_auch_auf_der_Fahrbahn_und_dem_Seitenstreifen_zu_spielen%2C_StVO_1992.svg",
+   "ratio": 1.82
+  },
+  {
+   "id": "1010-11",
+   "base": "1010-11",
+   "name": "Wintersport erlaubt",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1010 – Hinweis durch Sinnbild",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/1/19/Zusatzzeichen_1010-11_-_Wintersport_erlaubt_%28600x330%29%2C_StVO_1992.svg",
+   "ratio": 1.82
+  },
+  {
+   "id": "1010-12",
+   "base": "1010-12",
+   "name": "Kennzeichnung von Parkflächen, auf denen Anhänger auch länger als 14 Tage parken dürfen",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1010 – Hinweis durch Sinnbild",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Zusatzzeichen_1010-12_-_Kennzeichnung_von_Parkfl%C3%A4chen%2C_auf_denen_Anh%C3%A4nger_auch_l%C3%A4nger_als_14_Tage_parken_d%C3%BCrfen%2C_StVO_1992.svg",
+   "ratio": 1.82
+  },
+  {
+   "id": "1010-13",
+   "base": "1010-13",
+   "name": "Kennzeichnung von Parkflächen, auf denen Wohnwagen auch länger als 14 Tage parken dürfen",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1010 – Hinweis durch Sinnbild",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Zusatzzeichen_1010-13_-_Kennzeichnung_von_Parkfl%C3%A4chen%2C_auf_denen_Wohnwagen_auch_l%C3%A4nger_als_14_Tage_parken_d%C3%BCrfen_%28600x330%29%2C_StVO_1992.svg",
+   "ratio": 1.82
+  },
+  {
+   "id": "1010-14",
+   "base": "1010-14",
+   "name": "Information Rollende Landstraße",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1010 – Hinweis durch Sinnbild",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Zusatzzeichen_1010-14_-_Information_%E2%80%9ERollende_Landstra%C3%9Fe%E2%80%9D_%28420x231%29%2C_StVO_1992.svg",
+   "ratio": 1.81
+  },
+  {
+   "id": "1010-15",
+   "base": "1010-15",
+   "name": "Information Leistungsumfang",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1010 – Hinweis durch Sinnbild",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/2/24/Zusatzzeichen_1010-15_-_Information_Leistungsumfang_%28zu_Zeichen_448.1%29%2C_StVO_2017.svg",
+   "ratio": 3.44
+  },
+  {
+   "id": "1010-50",
+   "base": "1010-50",
+   "name": "Kraftwagen und sonstige mehrspurige Fahrzeuge",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1010 – Hinweis durch Sinnbild",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Zusatzzeichen_1010-50_-_Kraftwagen_und_sonstige_mehrspurige_Fahrzeuge_%28600x330%29%2C_StVO_2017.svg",
+   "ratio": 1.82
+  },
+  {
+   "id": "1010-68",
+   "base": "1010-68",
+   "name": "Elektrokleinstfahrzeuge im Sinne der Elektrokleinstfahrzeuge-Verordnung (eKFV)",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1010 – Hinweis durch Sinnbild",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/4/44/Zusatzzeichen_1010-68_-_Elektrokleinstfahrzeuge_im_Sinne_der_Elektrokleinstfahrzeuge-Verordnung_%28eKFV%29%2C_%28450x600%29%2C_StVO_2020.svg",
+   "ratio": 1.33
+  },
+  {
+   "id": "1010-69",
+   "base": "1010-69",
+   "name": "Fahrrad zum Transport von Gütern oder Personen (Lastenfahrrad)",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1010 – Hinweis durch Sinnbild",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Zusatzzeichen_1010-69_-_Fahrrad_zum_Transport_von_G%C3%BCtern_oder_Personen_-_Lastenfahrrad_%28330x600%29%2C_StVO_2020.svg",
+   "ratio": 1.82
+  },
+  {
+   "id": "1010-70",
+   "base": "1010-70",
+   "name": "Carsharing",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1010 – Hinweis durch Sinnbild",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/0/00/Zusatzzeichen_1010-70_-_Carsharing%3B_StVO_2020.svg",
+   "ratio": 1
+  },
+  {
+   "id": "1010-71",
+   "base": "1010-71",
+   "name": "Mehrfachbesetzte Personenkraftwagen",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1010 – Hinweis durch Sinnbild",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Zusatzzeichen_1010-71_-_Mehrfachbesetzte_Personenkraftwagen_%28330x600%29%2C_StVO_2020.svg",
+   "ratio": 1.82
+  },
+  {
+   "id": "1010-72",
+   "base": "1010-72",
+   "name": "Krafträder, auch mit Beiwagen, Kleinkrafträder und Mofas und Kraftwagen und sonstige mehrspurige Fahrzeuge",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1010 – Hinweis durch Sinnbild",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Zusatzzeichen_1010-72_-_Kraftr%C3%A4der%2C_auch_mit_Beiwagen%2C_Kleinkraftr%C3%A4der_und_Mofas_und_Kraftwagen_und_sonstige_mehrspurige_Fahrzeuge%3B_StVO_2021.svg",
+   "ratio": 1
+  },
+  {
+   "id": "1012-30",
+   "base": "1012-30",
+   "name": "Ladezone",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1012 – Hinweis durch verbale Angabe",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/1/11/Zusatzzeichen_1012-30_-_Ladezone_%28600x330%29%2C_StVO_2017.svg",
+   "ratio": 1.82
+  },
+  {
+   "id": "1012-31",
+   "base": "1012-31",
+   "name": "Ende",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1012 – Hinweis durch verbale Angabe",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/2/25/Zusatzzeichen_1012-31_-_Ende_%28600x330%29%2C_StVO_1992.svg",
+   "ratio": 1.82
+  },
+  {
+   "id": "1012-32",
+   "base": "1012-32",
+   "name": "Radfahrer absteigen",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1012 – Hinweis durch verbale Angabe",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/1/18/Zusatzzeichen_1012-32_-_Radfahrer_absteigen_%28420x231%29%2C_StVO_1992.svg",
+   "ratio": 1.81
+  },
+  {
+   "id": "1012-33",
+   "base": "1012-33",
+   "name": "Keine Mofas",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1012 – Hinweis durch verbale Angabe",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Zusatzzeichen_1012-33_-_keine_Mofas_%28330x600%29%2C_StVO_1992.svg",
+   "ratio": 1.82
+  },
+  {
+   "id": "1012-34",
+   "base": "1012-34",
+   "name": "Grüne Welle bei … km/h",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1012 – Hinweis durch verbale Angabe",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/6/61/Zusatzzeichen_1012-34_-_Gr%C3%BCne_Welle_bei_..._km-h_%28330x600%29%2C_StVO_1992.svg",
+   "ratio": 1.82
+  },
+  {
+   "id": "1012-35",
+   "base": "1012-35",
+   "name": "Bei Rot hier halten",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1012 – Hinweis durch verbale Angabe",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Zusatzzeichen_1012-35_-_bei_Rot_hier_halten_%28330x600%29%2C_StVO_1992.svg",
+   "ratio": 1.82
+  },
+  {
+   "id": "1012-36",
+   "base": "1012-36",
+   "name": "Lärmschutz",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1012 – Hinweis durch verbale Angabe",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/2/28/Zusatzzeichen_1012-36_-_L%C3%A4rmschutz_%28600x330%29%2C_StVO_2017.svg",
+   "ratio": 1.82
+  },
+  {
+   "id": "1012-54",
+   "base": "1012-54",
+   "name": "Seniorenheim",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1012 – Hinweis durch verbale Angabe",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Zusatzzeichen_1012-54_-_Seniorenheim_%28600x330%29%2C_StVO_2021.svg",
+   "ratio": 1.82
+  },
+  {
+   "id": "1013-50",
+   "base": "1013-50",
+   "name": "Seitenstreifen befahren",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1013 – besondere Hinweise zur Seitenstreifenfreigabe",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/3/30/Zusatzzeichen_1013-50_-_Seitenstreifen_befahren%2C_StVO_2001.svg",
+   "ratio": 2.81
+  },
+  {
+   "id": "1013-51",
+   "base": "1013-51",
+   "name": "Seitenstreifen räumen",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1013 – besondere Hinweise zur Seitenstreifenfreigabe",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Zusatzzeichen_1013-51_-_Seitenstreifen_r%C3%A4umen%2C_StVO_2001.svg",
+   "ratio": 2.81
+  },
+  {
+   "id": "1013-52",
+   "base": "1013-52",
+   "name": "Ende in … m",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1013 – besondere Hinweise zur Seitenstreifenfreigabe",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/3/39/Zusatzzeichen_1013-52_-_Ende_in_..._m%2C_StVO_2017.svg",
+   "ratio": 4.49
+  },
+  {
+   "id": "1014-50",
+   "base": "1014-50",
+   "name": "Tunnelkategorie gemäß ADR-Übereinkommen (B)",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1014 – Tunnelkategorien gemäß ADR-Übereinkommen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/5/57/Zusatzzeichen_1014-50_-_Tunnelkategorie_gem%C3%A4%C3%9F_ADR-%C3%9Cbereinkommen_%28B%29%2C_StVO_2007.svg",
+   "ratio": 1.81
+  },
+  {
+   "id": "1014-51",
+   "base": "1014-51",
+   "name": "Tunnelkategorie gemäß ADR-Übereinkommen (C)",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1014 – Tunnelkategorien gemäß ADR-Übereinkommen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Zusatzzeichen_1014-51_-_Tunnelkategorie_gem%C3%A4%C3%9F_ADR-%C3%9Cbereinkommen_%28C%29%2C_StVO_2007.svg",
+   "ratio": 1.81
+  },
+  {
+   "id": "1014-52",
+   "base": "1014-52",
+   "name": "Tunnelkategorie gemäß ADR-Übereinkommen (D)",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1014 – Tunnelkategorien gemäß ADR-Übereinkommen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/7/77/Zusatzzeichen_1014-52_-_Tunnelkategorie_gem%C3%A4%C3%9F_ADR-%C3%9Cbereinkommen_%28D%29%2C_StVO_2007.svg",
+   "ratio": 1.81
+  },
+  {
+   "id": "1014-53",
+   "base": "1014-53",
+   "name": "Tunnelkategorie gemäß ADR-Übereinkommen (E)",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1014 – Tunnelkategorien gemäß ADR-Übereinkommen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/5/51/Zusatzzeichen_1014-53_-_Tunnelkategorie_gem%C3%A4%C3%9F_ADR-%C3%9Cbereinkommen_%28E%29%2C_StVO_2007.svg",
+   "ratio": 1.81
+  },
+  {
+   "id": "1020-11",
+   "base": "1020-11",
+   "name": "Schwerbehinderte mit Parkausweis Nr. … frei",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1020 – Personengruppen frei (verbal oder mit Sinnbild)",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Zusatzzeichen_1020-11_-_Schwerbehinderte_mit_Parkausweis_Nr._..._frei%2C_StVO_1992.svg",
+   "ratio": 1.82
+  },
+  {
+   "id": "1020-12",
+   "base": "1020-12",
+   "name": "Radverkehr und Anlieger frei",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1020 – Personengruppen frei (verbal oder mit Sinnbild)",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/8/83/Zusatzzeichen_1020-12_-_Radfahrer_und_Anlieger_frei_%28450x600%29%2C_StVO_1992.svg",
+   "ratio": 1.33
+  },
+  {
+   "id": "1020-13",
+   "base": "1020-13",
+   "name": "Inline-Skaten und Rollschuhfahren frei",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1020 – Personengruppen frei (verbal oder mit Sinnbild)",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/3/30/Zusatzzeichen_1020-13_-_Inline-Skaten_und_Rollschuhfahren_frei%2C_StVO_2009.svg",
+   "ratio": 1.81
+  },
+  {
+   "id": "1020-14",
+   "base": "1020-14",
+   "name": "Wintersport frei",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1020 – Personengruppen frei (verbal oder mit Sinnbild)",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Zusatzzeichen_1020-14_-_Wintersport_frei_%28600x330%29%2C_StVO_2017.svg",
+   "ratio": 1.82
+  },
+  {
+   "id": "1020-30",
+   "base": "1020-30",
+   "name": "Anlieger frei",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1020 – Personengruppen frei (verbal oder mit Sinnbild)",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Zusatzzeichen_1020-30_-_Anlieger_frei_%28600x330%29%2C_StVO_1992.svg",
+   "ratio": 1.82
+  },
+  {
+   "id": "1020-31",
+   "base": "1020-31",
+   "name": "Anlieger oder Parken frei",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1020 – Personengruppen frei (verbal oder mit Sinnbild)",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Zusatzzeichen_1020-31_-_Anlieger_oder_Parken_frei_%28600x450%29%2C_StVO_1992.svg",
+   "ratio": 1.33
+  },
+  {
+   "id": "1020-32",
+   "base": "1020-32",
+   "name": "Bewohner mit Parkausweis Nr. … frei",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1020 – Personengruppen frei (verbal oder mit Sinnbild)",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Zusatzzeichen_1020-32_-_Bewohner_mit_Parkausweis_Nr._..._frei%2C_StVO_2002.svg",
+   "ratio": 1.82
+  },
+  {
+   "id": "1022-10",
+   "base": "1022-10",
+   "name": "Radverkehr frei",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1022 – einspurige Fahrzeuge frei",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/0/04/Zusatzzeichen_1022-10_-_Radfahrer_frei%2C_StVO_1992.svg",
+   "ratio": 1.33
+  },
+  {
+   "id": "1022-11",
+   "base": "1022-11",
+   "name": "Mofas frei",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1022 – einspurige Fahrzeuge frei",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/5/55/Zusatzzeichen_1022-11_-_Mofas_frei_%28600x450%29%2C_StVO_1992.svg",
+   "ratio": 1.34
+  },
+  {
+   "id": "1022-12",
+   "base": "1022-12",
+   "name": "Krafträder auch mit Beiwagen, Kleinkrafträder und Mofas frei",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1022 – einspurige Fahrzeuge frei",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Zusatzzeichen_1022-12_-_Kraftr%C3%A4der_auch_mit_Beiwagen%2C_Kleinkraftr%C3%A4der_und_Mofas_frei_%28600x450%29%2C_StVO_1992.svg",
+   "ratio": 1.34
+  },
+  {
+   "id": "1022-13",
+   "base": "1022-13",
+   "name": "E-Bikes frei",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1022 – einspurige Fahrzeuge frei",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/0/08/Zusatzzeichen_1022-13_-_E-Bikes_frei_%28450x600%29%2C_StVO_2017.svg",
+   "ratio": 1.33
+  },
+  {
+   "id": "1022-14",
+   "base": "1022-14",
+   "name": "Radverkehr und Mofas frei",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1022 – einspurige Fahrzeuge frei",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/1/10/Zusatzzeichen_1022-14_-_Radverkehr_und_Mofas_frei_%28600x600%29%2C_StVO_2017.svg",
+   "ratio": 1
+  },
+  {
+   "id": "1022-15",
+   "base": "1022-15",
+   "name": "E-Bikes und Mofas frei",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1022 – einspurige Fahrzeuge frei",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/9/96/Zusatzzeichen_1022-15_-_E-Bikes_und_Mofas_frei_%28600x600%29%2C_StVO_2017.svg",
+   "ratio": 1
+  },
+  {
+   "id": "1022-16",
+   "base": "1022-16",
+   "name": "Elektrokleinstfahrzeuge frei",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1022 – einspurige Fahrzeuge frei",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Zusatzzeichen_1022-16_-_Elektrokleinstfahrzeuge_frei_%28600x600%29%2C_StVO_2019.svg",
+   "ratio": 1
+  },
+  {
+   "id": "1022-17",
+   "base": "1022-17",
+   "name": "„Fahrrad zum Transport von Gütern oder Personen - Lastenfahrrad“ frei",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1022 – einspurige Fahrzeuge frei",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/3/30/Zusatzzeichen_1022-17_%E2%80%9EFahrrad_zum_Transport_von_G%C3%BCtern_oder_Personen_-_Lastenfahrrad%E2%80%9C_frei.svg",
+   "ratio": 1.33
+  },
+  {
+   "id": "1024-10",
+   "base": "1024-10",
+   "name": "Personenkraftwagen frei",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1024 – mehrspurige Fahrzeuge frei",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Zusatzzeichen_1024-10_-_Personenkraftwagen_frei%2C_StVO_1992.svg",
+   "ratio": 1.33
+  },
+  {
+   "id": "1024-11",
+   "base": "1024-11",
+   "name": "Pkw mit Anhänger frei",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1024 – mehrspurige Fahrzeuge frei",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Zusatzzeichen_1024-11_-_PKW_mit_Anh%C3%A4nger_frei%2C_StVO_1992.svg",
+   "ratio": 1.33
+  },
+  {
+   "id": "1024-12",
+   "base": "1024-12",
+   "name": "Kraftfahrzeuge mit einer zulässigen Gesamtmasse über 3,5 t, einschließlich ihrer Anhänger, und Zugmaschinen, ausgenommen Personenkraftwagen und Kraftomnibusse frei",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1024 – mehrspurige Fahrzeuge frei",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/0/03/Zusatzzeichen_1024-12_-_Kraftfahrzeuge_mit_einem_zul%C3%A4ssigen_Gesamtgewicht_%C3%BCber_3%2C5_t%2C_einschlie%C3%9Flich_ihrer_Anh%C3%A4nger_und_Zugmaschinen%2C_ausgenommen_Personenkraftwagen_und_Kraftomnibusse_frei%2C_StVO_1992.svg",
+   "ratio": 1.33
+  },
+  {
+   "id": "1024-13",
+   "base": "1024-13",
+   "name": "Lastkraftwagen mit Anhänger frei",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1024 – mehrspurige Fahrzeuge frei",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/8/89/Zusatzzeichen_1024-13_-_LKW_mit_Anh%C3%A4nger_frei%2C_StVO_1992.svg",
+   "ratio": 1.33
+  },
+  {
+   "id": "1024-14",
+   "base": "1024-14",
+   "name": "Kraftomnibus frei",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1024 – mehrspurige Fahrzeuge frei",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/9/96/Zusatzzeichen_1024-14_-_Kraftomnibusse_frei%2C_StVO_1992.svg",
+   "ratio": 1.33
+  },
+  {
+   "id": "1024-15",
+   "base": "1024-15",
+   "name": "Schienenbahn frei",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1024 – mehrspurige Fahrzeuge frei",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Zusatzzeichen_1024-15_-_Schienenbahn_frei%2C_StVO_1992.svg",
+   "ratio": 1.33
+  },
+  {
+   "id": "1024-16",
+   "base": "1024-16",
+   "name": "Straßenbahn frei",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1024 – mehrspurige Fahrzeuge frei",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Zusatzzeichen_1024-16_-_Stra%C3%9Fenbahn_frei%2C_StVO_1992.svg",
+   "ratio": 1.33
+  },
+  {
+   "id": "1024-21",
+   "base": "1024-21",
+   "name": "Carsharingfahrzeuge frei",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1024 – mehrspurige Fahrzeuge frei",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Zusatzzeichen_1024-21_-_Carsharingfahrzeuge_frei%3B_StVO_2020.svg",
+   "ratio": 1
+  },
+  {
+   "id": "1024-22",
+   "base": "1024-22",
+   "name": "Mehrfachbesetzte Personenkraftwagen frei",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1024 – mehrspurige Fahrzeuge frei",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Zusatzzeichen_1024-22_-_Mehrfachbesetzte_Personenkraftwagen_frei%2C_StVO_2020.svg",
+   "ratio": 1.33
+  },
+  {
+   "id": "1026-30",
+   "base": "1026-30",
+   "name": "Taxi frei",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1026 – besondere Fahrzeuge und Transportgüter frei (verbale Angabe)",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/4/43/Zusatzzeichen_1026-30_-_Taxi_frei%2C_StVO_1992.svg",
+   "ratio": 1.33
+  },
+  {
+   "id": "1026-31",
+   "base": "1026-31",
+   "name": "Kraftomnibusse im Gelegenheitsverkehr frei",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1026 – besondere Fahrzeuge und Transportgüter frei (verbale Angabe)",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Zusatzzeichen_1026-31_-_Kraftomnibusse_im_Gelegenheitsverkehrs_frei_%28330x600%29%2C_StVO_2017.svg",
+   "ratio": 1.82
+  },
+  {
+   "id": "1026-32",
+   "base": "1026-32",
+   "name": "Linienverkehr frei",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1026 – besondere Fahrzeuge und Transportgüter frei (verbale Angabe)",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/1/14/Zusatzzeichen_1026-32_-_Linienverkehr_frei_%28450x600%29%2C_StVO_1992.svg",
+   "ratio": 1.33
+  },
+  {
+   "id": "1026-33",
+   "base": "1026-33",
+   "name": "Einsatzfahrzeuge frei",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1026 – besondere Fahrzeuge und Transportgüter frei (verbale Angabe)",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/4/40/Zusatzzeichen_1026-33_-_Einsatzfahrzeuge_frei_%28450x600%29%2C_StVO_1992.svg",
+   "ratio": 1.33
+  },
+  {
+   "id": "1026-34",
+   "base": "1026-34",
+   "name": "Krankenfahrzeuge frei",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1026 – besondere Fahrzeuge und Transportgüter frei (verbale Angabe)",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/8/85/Zusatzzeichen_1026-34_-_Krankenfahrzeuge_frei%2C_StVO_1992.svg",
+   "ratio": 1.33
+  },
+  {
+   "id": "1026-35",
+   "base": "1026-35",
+   "name": "Lieferverkehr frei",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1026 – besondere Fahrzeuge und Transportgüter frei (verbale Angabe)",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Zusatzzeichen_1026-35_-_Lieferverkehr_frei%2C_StVO_1992.svg",
+   "ratio": 1.33
+  },
+  {
+   "id": "1026-36",
+   "base": "1026-36",
+   "name": "Landwirtschaftlicher Verkehr frei",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1026 – besondere Fahrzeuge und Transportgüter frei (verbale Angabe)",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/4/41/Zusatzzeichen_1026-36_-_Landwirtschaftlicher_Verkehr_frei_%28450x600%29%2C_StVO_1992.svg",
+   "ratio": 1.33
+  },
+  {
+   "id": "1028-30",
+   "base": "1028-30",
+   "name": "Baustellenfahrzeuge frei",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1028 – sonstige Fahrzeug-, Personengruppen frei (verbale Angabe)",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/7/73/Zusatzzeichen_1028-30_-_Baustellenfahrzeuge_frei_%28450x600%29%2C_StVO_1992.svg",
+   "ratio": 1.33
+  },
+  {
+   "id": "1028-31",
+   "base": "1028-31",
+   "name": "Bis Baustelle frei",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1028 – sonstige Fahrzeug-, Personengruppen frei (verbale Angabe)",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Zusatzzeichen_1028-31_-_bis_Baustelle_frei_%28330x600%29%2C_StVO_1992.svg",
+   "ratio": 1.82
+  },
+  {
+   "id": "1028-32",
+   "base": "1028-32",
+   "name": "Anlieger bis Baustelle frei",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1028 – sonstige Fahrzeug-, Personengruppen frei (verbale Angabe)",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Zusatzzeichen_1028-32_-_Anlieger_bis_Baustelle_frei_%28330x600%29%2C_StVO_1992.svg",
+   "ratio": 1.82
+  },
+  {
+   "id": "1028-33",
+   "base": "1028-33",
+   "name": "Zufahrt bis … frei",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1028 – sonstige Fahrzeug-, Personengruppen frei (verbale Angabe)",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Zusatzzeichen_1028-33_-_Zufahrt_bis_..._frei_%28450x600%29%2C_StVO_1992.svg",
+   "ratio": 1.33
+  },
+  {
+   "id": "1028-34",
+   "base": "1028-34",
+   "name": "Fährbenutzer frei",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1028 – sonstige Fahrzeug-, Personengruppen frei (verbale Angabe)",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/0/03/Zusatzzeichen_1028-34_-_F%C3%A4hrbenutzer_frei_%28450x600%29%2C_StVO_1992.svg",
+   "ratio": 1.33
+  },
+  {
+   "id": "1031-50",
+   "base": "1031-50",
+   "name": "Freistellung vom Verkehrsverbot nach § 40 Abs. 1 des Bundes-Immissionsschutzgesetzes (rote, gelbe und grüne Plakette)",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1031 – Freistellung vom Verkehrsverbot nach § 40 Absatz 1 BImSchG (in Verbindung mit Zeichen 270.1)",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Zusatzzeichen_1031-50_-_Freistellung_vom_Verkehrsverbot_nach_%C2%A7_40_Abs._1_BlmSchG_%E2%80%93_rote%2C_gelbe_und_gr%C3%BCne_Plakette%2C_StVO_2017.svg",
+   "ratio": 1.33
+  },
+  {
+   "id": "1031-51",
+   "base": "1031-51",
+   "name": "Freistellung vom Verkehrsverbot nach § 40 Abs. 1 des Bundes-Immissionsschutzgesetzes (gelbe und grüne Plakette)",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1031 – Freistellung vom Verkehrsverbot nach § 40 Absatz 1 BImSchG (in Verbindung mit Zeichen 270.1)",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Zusatzzeichen_1031-51_-_Freistellung_vom_Verkehrsverbot_nach_%C2%A7_40_Abs._1_BlmSchG_%E2%80%93_gelbe_und_gr%C3%BCne_Plakette%2C_StVO_2017.svg",
+   "ratio": 1.33
+  },
+  {
+   "id": "1031-52",
+   "base": "1031-52",
+   "name": "Freistellung vom Verkehrsverbot nach § 40 Abs. 1 des Bundes-Immissionsschutzgesetzes (grüne Plakette)",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1031 – Freistellung vom Verkehrsverbot nach § 40 Absatz 1 BImSchG (in Verbindung mit Zeichen 270.1)",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Zusatzzeichen_1031-52_-_Freistellung_vom_Verkehrsverbot_nach_%C2%A7_40_Abs._1_BlmSchG_%E2%80%93_gr%C3%BCne_Plakette%2C_StVO_2017.svg",
+   "ratio": 1.33
+  },
+  {
+   "id": "1040-10",
+   "base": "1040-10",
+   "name": "Wintersport erlaubt, zeitlich beschränkt (10 - 16 h)",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1040 – Zeitangaben ohne Beschränkung auf Wochentage",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/5/50/Zusatzzeichen_1040-10_-_Wintersport_erlaubt%2C_zeitlich_beschr%C3%A4nkt_10_-_16_h%2C_StVO_1992.svg",
+   "ratio": 1.82
+  },
+  {
+   "id": "1040-30",
+   "base": "1040-30",
+   "name": "Zeitliche Beschränkung (16 - 18 h)",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1040 – Zeitangaben ohne Beschränkung auf Wochentage",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/3/38/Zusatzzeichen_1040-30_-_Zeitliche_Beschr%C3%A4nkung_%2816_-_18_h%29%2C_330x600%2C_StVO_1992.svg",
+   "ratio": 1.82
+  },
+  {
+   "id": "1040-31",
+   "base": "1040-31",
+   "name": "Zeitliche Beschränkung (8 - 11 h, 16 - 18 h)",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1040 – Zeitangaben ohne Beschränkung auf Wochentage",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/5/55/Zusatzzeichen_1040-31_-_Zeitliche_Beschr%C3%A4nkung_%288_-_11_h%2C_16_-_18_h%29%2C_330x600%2C_StVO_1992.svg",
+   "ratio": 1.82
+  },
+  {
+   "id": "1040-32",
+   "base": "1040-32",
+   "name": "Parkscheibe 2 Stunden",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1040 – Zeitangaben ohne Beschränkung auf Wochentage",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Zusatzzeichen_1040-32_-_Parkscheibe_2_Stunden%2C_StVO_1992.svg",
+   "ratio": 1.82
+  },
+  {
+   "id": "1040-33",
+   "base": "1040-33",
+   "name": "Parken mit Parkscheibe in gekennzeichneten Flächen 2 Stunden",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1040 – Zeitangaben ohne Beschränkung auf Wochentage",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Zusatzzeichen_1040-33_-_Parken_mit_Parkscheibe_in_gekennzeichneten_Fl%C3%A4chen_2_Stunden%2C_StVO_1992.svg",
+   "ratio": 1.82
+  },
+  {
+   "id": "1040-34",
+   "base": "1040-34",
+   "name": "Ab Zeitpunkt",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1040 – Zeitangaben ohne Beschränkung auf Wochentage",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Zusatzzeichen_1040-34_-_Ab_Zeitpunkt%2C_600x330%3B_StVO_2017.svg",
+   "ratio": 1.82
+  },
+  {
+   "id": "1040-35",
+   "base": "1040-35",
+   "name": "Lärmschutz (mit Zeitangabe)",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1040 – Zeitangaben ohne Beschränkung auf Wochentage",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/8/83/Zusatzzeichen_1040-35_-_L%C3%A4rmschutz_%28mit_Zeitangabe%29%2C_600x330%3B_StVO_2017.svg",
+   "ratio": 1.82
+  },
+  {
+   "id": "1042-30",
+   "base": "1042-30",
+   "name": "Werktags",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1042 – Zeitangaben mit Beschränkung auf Wochentage",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/5/52/Zusatzzeichen_1042-30_-_werktags_%28600x330%29%2C_StVO_1992.svg",
+   "ratio": 1.82
+  },
+  {
+   "id": "1042-31",
+   "base": "1042-31",
+   "name": "Werktags 18–19 h",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1042 – Zeitangaben mit Beschränkung auf Wochentage",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/1/17/Zusatzzeichen_1042-31_-_werktags_18_-_19_h_%28600x330%29%2C_StVO_1992.svg",
+   "ratio": 1.82
+  },
+  {
+   "id": "1042-32",
+   "base": "1042-32",
+   "name": "Werktags 8.30–11.30 h, 16–18 h",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1042 – Zeitangaben mit Beschränkung auf Wochentage",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Zusatzzeichen_1042-32_-_werktags_8.30_-_11.30%2C_16_-_18_h_%28600x450%29%2C_StVO_1992.svg",
+   "ratio": 1.33
+  },
+  {
+   "id": "1042-33",
+   "base": "1042-33",
+   "name": "Mo–Fr, 16–18 h",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1042 – Zeitangaben mit Beschränkung auf Wochentage",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Zusatzzeichen_1042-33_-_Mo_-_Fr%2C_16_-_18_h_%28600x330%29%2C_StVO_1992.svg",
+   "ratio": 1.82
+  },
+  {
+   "id": "1042-34",
+   "base": "1042-34",
+   "name": "Di, Do, Fr, 16–18 h",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1042 – Zeitangaben mit Beschränkung auf Wochentage",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Zusatzzeichen_1042-34_-_Di%2C_Do%2C_Fr%2C_16_-_18_h_%28600x330%29%2C_StVO_1992.svg",
+   "ratio": 1.82
+  },
+  {
+   "id": "1042-35",
+   "base": "1042-35",
+   "name": "6–22 h an Sonn- und Feiertagen",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1042 – Zeitangaben mit Beschränkung auf Wochentage",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/7/76/Zusatzzeichen_1042-35_-_6_-_22_h_an_Sonn-und_Feiertagen_%28450x600%29%2C_StVO_1992.svg",
+   "ratio": 1.33
+  },
+  {
+   "id": "1042-36",
+   "base": "1042-36",
+   "name": "Schulbus (tageszeitliche Benutzung)",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1042 – Zeitangaben mit Beschränkung auf Wochentage",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/9/92/Zusatzzeichen_1042-36_-_Schulbus_%28tageszeitliche_Benutzung%29%2C_600x450%2C_StVO_2017.svg",
+   "ratio": 1.33
+  },
+  {
+   "id": "1044-10",
+   "base": "1044-10",
+   "name": "Nur Schwerbehinderte mit außergewöhnlicher Gehbehinderung und Blinde",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1044 – Personengruppen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Zusatzzeichen_1044-10_-_nur_Schwerbehinderte_mit_au%C3%9Fergew%C3%B6hnlicher_Gehbehinderung_und_Blinde%2C_StVO_1992.svg",
+   "ratio": 1.82
+  },
+  {
+   "id": "1044-11",
+   "base": "1044-11",
+   "name": "Nur Schwerbehinderte mit Parkausweis Nr. …",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1044 – Personengruppen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/7/74/Zusatzzeichen_1044-11_-_nur_Schwerbehinderte_mit_Parkausweis_Nr_..._%28600x330%29%3B_StVO_1992.svg",
+   "ratio": 1.82
+  },
+  {
+   "id": "1044-12",
+   "base": "1044-12",
+   "name": "Nur Schwerbehinderte mit außergewöhnlicher Gehbehinderung und Blinde, mit Anzahl der Parkstände",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1044 – Personengruppen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Zusatzzeichen_1044-12_-_Nur_Schwerbehinderte_mit_au%C3%9Fergew%C3%B6hnlicher_Gehbehinderung_und_Blinde%2C_mit_Anzahl_der_Parkst%C3%A4nde%2C_600x450%3B_StVO_2017.svg",
+   "ratio": 1.33
+  },
+  {
+   "id": "1044-30",
+   "base": "1044-30",
+   "name": "Bewohner mit Parkausweis Nr.",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1044 – Personengruppen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Zusatzzeichen_1044-30_-_Bewohner_mit_Parkausweis_Nr._...._%28600x330%29%2C_StVO_2002.svg",
+   "ratio": 1.82
+  },
+  {
+   "id": "1048-14",
+   "base": "1048-14",
+   "name": "Nur Sattelkraftfahrzeuge",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1048 – mehrspurige Fahrzeuge",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Zusatzzeichen_1048-14_-_nur_Sattelkraftfahrzeuge%2C_StVO_1992.svg",
+   "ratio": 1.82
+  },
+  {
+   "id": "1048-15",
+   "base": "1048-15",
+   "name": "Nur Sattelkraftfahrzeuge und Lastkraftwagen mit Anhänger",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1048 – mehrspurige Fahrzeuge",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/8/81/Zusatzzeichen_1048-15_-_nur_Sattelkraftfahrzeuge_und_Z%C3%BCge_%28450x600%29%2C_StVO_1992.svg",
+   "ratio": 1.33
+  },
+  {
+   "id": "1048-18",
+   "base": "1048-18",
+   "name": "Nur Schienenbahn",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1048 – mehrspurige Fahrzeuge",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Zusatzzeichen_1048-18_-_nur_Schienenbahn_%28600x450%29%2C_StVO_1992.svg",
+   "ratio": 1.33
+  },
+  {
+   "id": "1048-20",
+   "base": "1048-20",
+   "name": "Nur Personenkraftwagen mit Anhänger und Kraftfahrzeuge mit einer zulässigen Gesamtmasse über 3,5 t, einschließlich ihrer Anhänger, und Zugmaschinen, ausgenommen Personenkraftwagen und Kraftomnibusse",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1048 – mehrspurige Fahrzeuge",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/1/12/Zusatzzeichen_1048-20_-_nur_Personenkraftwagen_mit_Anh%C3%A4nger_und_Kraftfahrzeug_mit_einer_zul._Gesamtmasse_%C3%BCber_3%2C5_t%2C_einschlie%C3%9Flich_ihrer_Anh%C3%A4nger_und_Zugmaschinen%2C_ausg._Personenkraftwagen_und_Kraftomnibusse%2C_StVO_2017.svg",
+   "ratio": 1.33
+  },
+  {
+   "id": "1049-11",
+   "base": "1049-11",
+   "name": "Kraftfahrzeuge und Züge, die nicht schneller als 25 km/h fahren können oder dürfen, dürfen überholt werden",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1049 – sonstige oder mehrere mehrspurige Fahrzeuge",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Zusatzzeichen_1049-11-_Kraftfahrzeuge_und_Z%C3%BCge_bis_25_km-h_d%C3%BCrfen_%C3%BCberholt_werden%2C_StVO_1992.svg",
+   "ratio": 1.33
+  },
+  {
+   "id": "1049-12",
+   "base": "1049-12",
+   "name": "Nur militärische Kettenfahrzeuge",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1049 – sonstige oder mehrere mehrspurige Fahrzeuge",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Zusatzzeichen_1049-12_-_nur_milit%C3%A4rische_Kettenfahrzeuge%2C_StVO_1992.svg",
+   "ratio": 1.82
+  },
+  {
+   "id": "1049-13",
+   "base": "1049-13",
+   "name": "Nur Lkw, Kraftomnibus und Pkw mit Anhänger",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1049 – sonstige oder mehrere mehrspurige Fahrzeuge",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/4/49/Zusatzzeichen_1049-13_-_nur_Lkw_%28Zeichen_1048-12%29%2C_Kraftomnibus_%28Zeichen_1048-16%29_und_Pkw_mit_Anh%C3%A4nger_%28Zeichen_1048-11%29%2C_StVO_1992.svg",
+   "ratio": 1
+  },
+  {
+   "id": "1050-30",
+   "base": "1050-30",
+   "name": "Taxi",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1050 – Fahrzeuge (verbale Angabe)",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Zusatzzeichen_1050-30_-_Taxi_%28600x330%29%2C_StVO_1992.svg",
+   "ratio": 1.82
+  },
+  {
+   "id": "1050-31",
+   "base": "1050-31",
+   "name": "… Taxis",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1050 – Fahrzeuge (verbale Angabe)",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/8/80/Zusatzzeichen_1050-31_-_5_Taxis%2C_StVO_BAnz_AT_04.09.2025_B2.svg",
+   "ratio": 1.82
+  },
+  {
+   "id": "1050-32",
+   "base": "1050-32",
+   "name": "Elektrofahrzeuge während des Ladevorgangs",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1050 – Fahrzeuge (verbale Angabe)",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/0/05/Zusatzzeichen_1050-32_-_Elektrofahrzeuge_w%C3%A4hrend_des_Ladevorgangs%2C_StVO_2011.svg",
+   "ratio": 1.33
+  },
+  {
+   "id": "1050-33",
+   "base": "1050-33",
+   "name": "Elektrofahrzeuge",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1050 – Fahrzeuge (verbale Angabe)",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Zusatzzeichen_1050-33_-_Elektrofahrzeuge%2C_StVO_2011.svg",
+   "ratio": 1.81
+  },
+  {
+   "id": "1052-30",
+   "base": "1052-30",
+   "name": "Fahrzeuge mit gefährlichen Gütern",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1052 – Fahrzeuge mit besonderer Ladung",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Zusatzzeichen_1052-30_-_Streckenverbot_f%C3%BCr_den_Transport_gef%C3%A4hrlicher_G%C3%BCter_auf_Stra%C3%9Fen%2C_StVO_1992.svg",
+   "ratio": 1.33
+  },
+  {
+   "id": "1052-31",
+   "base": "1052-31",
+   "name": "Fahrzeuge mit wassergefährdender Ladung",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1052 – Fahrzeuge mit besonderer Ladung",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/3/30/Zusatzzeichen_1052-31_-_Streckenverbot_f%C3%BCr_Fahrzeuge_mit_wassergef%C3%A4hrdender_Ladung%2C_StVO_1992.svg",
+   "ratio": 1.33
+  },
+  {
+   "id": "1053-30",
+   "base": "1053-30",
+   "name": "Parken in gekennzeichneten Flächen erlaubt",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1053 – sonstige Beschränkungen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Zusatzzeichen_1053-30_-_Parken_in_gekennzeichneten_Fl%C3%A4chen_erlaubt%2C_StVO_1992.svg",
+   "ratio": 1.82
+  },
+  {
+   "id": "1053-31",
+   "base": "1053-31",
+   "name": "Mit Parkschein",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1053 – sonstige Beschränkungen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Zusatzzeichen_1053-31_-_Mit_Parkschein_%28600x330%29%2C_StVO_2017.svg",
+   "ratio": 1.82
+  },
+  {
+   "id": "1053-32",
+   "base": "1053-32",
+   "name": "Gebührenpflichtig",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1053 – sonstige Beschränkungen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/5/50/Zusatzzeichen_1053-32_-_Geb%C3%BChrenpflichtig_%28420x231%29%2C_StVO_2017.svg",
+   "ratio": 1.81
+  },
+  {
+   "id": "1053-33",
+   "base": "1053-33",
+   "name": "Massenangabe (7,5 t zulässige Gesamtmasse einschließlich Anhänger überschreitet die angegebene Grenze)",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1053 – sonstige Beschränkungen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/9/90/Zusatzzeichen_1053-33_-_Massenangabe_%E2%80%93_7%2C5_t_%28420x231%29%2C_StVO_2017.svg",
+   "ratio": 1.81
+  },
+  {
+   "id": "1053-37",
+   "base": "1053-37",
+   "name": "Massenangabe (12 t zulässige Gesamtmasse einschließlich Anhänger überschreitet die angegebene Grenze)",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1053 – sonstige Beschränkungen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/8/87/Zusatzzeichen_1053-37_-_Massenangabe_%E2%80%93_12_t_%28420x231%29%2C_StVO_2005.svg",
+   "ratio": 1.81
+  },
+  {
+   "id": "1053-34",
+   "base": "1053-34",
+   "name": "Auf dem Seitenstreifen",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1053 – sonstige Beschränkungen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/9/90/Zusatzzeichen_1053-34_-_Auf_dem_Seitenstreifen_%28600x330%29%2C_StVO_2017.svg",
+   "ratio": 1.82
+  },
+  {
+   "id": "1053-35",
+   "base": "1053-35",
+   "name": "Bei Nässe",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1053 – sonstige Beschränkungen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/b/be/Zusatzzeichen_1053-35_-_Bei_N%C3%A4sse_%28600x600%29%2C_StVO_2017.svg",
+   "ratio": 1
+  },
+  {
+   "id": "1053-54",
+   "base": "1053-54",
+   "name": "Während des Ladevorgangs",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1053 – sonstige Beschränkungen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/5/54/Zusatzzeichen_1053-54_-_w%C3%A4hrend_des_Ladevorgangs_%28600x330%29%2C_StVO_2022.svg",
+   "ratio": 1.82
+  },
+  {
+   "id": "1060-31",
+   "base": "1060-31",
+   "name": "Haltverbot auch auf dem Seitenstreifen - rechts",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1060 – erweiternde Zusatzzeichen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/8/85/Zusatzzeichen_1060-31_-_Haltverbot_auch_auf_dem_Seitenstreifen_%28600x330%29%2C_StVO_2017.svg",
+   "ratio": 1.82
+  },
+  {
+   "id": "1060-34",
+   "base": "1060-34",
+   "name": "Haltverbot auch auf dem Seitenstreifen - links",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1060 – erweiternde Zusatzzeichen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/5/55/Zusatzzeichen_1060-34_-_Haltverbot_auch_auf_dem_Seitenstreifen_links_%28600x330%29%2C_StVO_BAnz_AT_09.04.2025_B2.svg",
+   "ratio": 1.82
+  },
+  {
+   "id": "1060-32",
+   "base": "1060-32",
+   "name": "Auch Kraftomnibusse und PKW mit Anhängern (im Bereich von LKW-Kontrollen)",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1060 – erweiternde Zusatzzeichen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Zusatzzeichen_1060-32_-_Auch_Kraftomnibusse_und_PKW_mit_Anh%C3%A4ngern_%28im_Bereich_von_LKW-Kontrollen%29%2C_StVO_2017.svg",
+   "ratio": 1
+  },
+  {
+   "id": "1060-33",
+   "base": "1060-33",
+   "name": "Massenangabe (2,8 t)",
+   "cat": "zusatz",
+   "section": "Zusatzzeichen 1060 – erweiternde Zusatzzeichen",
+   "file": "https://upload.wikimedia.org/wikipedia/commons/3/31/Zusatzzeichen_1060-33_-_Massenangabe_-_2%2C8_t%2C_StVO_2017.svg",
+   "ratio": 1.82
+  }
+ ]
+}
