@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-10T18:11:06.534Z",
+ "generated": "2026-10-10T20:03:35.643Z",
  "source": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
  "count": 476,
  "signs": [
@@ -270,7 +270,7 @@
    "name": "Lichtzeichenanlage",
    "cat": "gefahr",
    "section": "Allgemeine Gefahrzeichen",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/4/45/Zeichen_131_-_Lichtzeichenanlage%2C_StVO_1970.svg",
+   "file": "signs/131.svg",
    "ratio": 1.14
   },
   {
@@ -279,7 +279,7 @@
    "name": "Fußgänger",
    "cat": "gefahr",
    "section": "Allgemeine Gefahrzeichen",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/3/31/Zeichen_133-10_-_Fu%C3%9Fg%C3%A4nger_%28Aufstellung_rechts%29%2C_StVO_1992.svg",
+   "file": "signs/133-10.svg",
    "ratio": 1.14
   },
   {
@@ -288,7 +288,7 @@
    "name": "Kinder",
    "cat": "gefahr",
    "section": "Allgemeine Gefahrzeichen",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/7/70/Zeichen_136-10_-_Kinder%2C_Aufstellung_rechts%2C_StVO_1992.svg",
+   "file": "signs/136-10.svg",
    "ratio": 1.14
   },
   {
@@ -297,7 +297,7 @@
    "name": "Radverkehr",
    "cat": "gefahr",
    "section": "Allgemeine Gefahrzeichen",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Zeichen_138-10_-_Radverkehr%2C_StVO_2013.svg",
+   "file": "signs/138-10.svg",
    "ratio": 1.14
   },
   {
@@ -306,7 +306,7 @@
    "name": "Wildwechsel",
    "cat": "gefahr",
    "section": "Allgemeine Gefahrzeichen",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/6/68/Zeichen_142-10_-_Wildwechsel%2C_Aufstellung_rechts%2C_StVO_1992.svg",
+   "file": "signs/142-10.svg",
    "ratio": 1.14
   },
   {
@@ -315,7 +315,7 @@
    "name": "Bahnübergang",
    "cat": "gefahr",
    "section": "Besondere Gefahrzeichen vor Übergängen von Schienenbahnen mit Vorrang",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/8/88/Zeichen_151_-_Bahn%C3%BCbergang%2C_StVO_2013.svg",
+   "file": "signs/151.svg",
    "ratio": 1.14
   },
   {
@@ -324,7 +324,7 @@
    "name": "Bahnübergang mit dreistreifiger Bake",
    "cat": "gefahr",
    "section": "Besondere Gefahrzeichen vor Übergängen von Schienenbahnen mit Vorrang",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Zeichen_156-10_-_Bahn%C3%BCbergang_mit_dreistreifiger_Bake%2C_StVO_2013.svg",
+   "file": "signs/156-10.svg",
    "ratio": 0.48
   },
   {
@@ -333,7 +333,7 @@
    "name": "Bahnübergang mit dreistreifiger Bake, mit Entfernungsangabe",
    "cat": "gefahr",
    "section": "Besondere Gefahrzeichen vor Übergängen von Schienenbahnen mit Vorrang",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Zeichen_156-11_-_Bahn%C3%BCbergang_mit_dreistreifiger_Bake%2C_mit_Entfernungsangabe_-_Aufstellung_rechts%3B_StVO_2013.svg",
+   "file": "signs/156-11.svg",
    "ratio": 0.48
   },
   {
@@ -342,7 +342,7 @@
    "name": "Dreistreifige Bake",
    "cat": "gefahr",
    "section": "Besondere Gefahrzeichen vor Übergängen von Schienenbahnen mit Vorrang",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/9/95/Zeichen_157-10_-_Dreistreifige_Bake_%28rechts%29%2C_StVO_1992.svg",
+   "file": "signs/157-10.svg",
    "ratio": 0.3
   },
   {
@@ -351,7 +351,7 @@
    "name": "Dreistreifige Bake mit Entfernungsangabe",
    "cat": "gefahr",
    "section": "Besondere Gefahrzeichen vor Übergängen von Schienenbahnen mit Vorrang",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Zeichen_157-11_-_dreistreifige_Bake_%28Aufstellung_rechts%29%2C_StVO_1992.svg",
+   "file": "signs/157-11.svg",
    "ratio": 0.3
   },
   {
@@ -360,7 +360,7 @@
    "name": "Zweistreifige Bake",
    "cat": "gefahr",
    "section": "Besondere Gefahrzeichen vor Übergängen von Schienenbahnen mit Vorrang",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Zeichen_159-10_-_zweistreifige_Bake_%28Aufstellung_rechts%29%2C_StVO_1992.svg",
+   "file": "signs/159-10.svg",
    "ratio": 0.3
   },
   {
@@ -369,7 +369,7 @@
    "name": "Zweistreifige Bake mit Entfernungsangabe",
    "cat": "gefahr",
    "section": "Besondere Gefahrzeichen vor Übergängen von Schienenbahnen mit Vorrang",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Zeichen_159-11_-_zweistreifige_Bake_mit_Entfernungsangabe_%28Aufstellung_rechts%29%2C_StVO_1992.svg",
+   "file": "signs/159-11.svg",
    "ratio": 0.3
   },
   {
@@ -378,7 +378,7 @@
    "name": "Einstreifige Bake",
    "cat": "gefahr",
    "section": "Besondere Gefahrzeichen vor Übergängen von Schienenbahnen mit Vorrang",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/5/54/Zeichen_162-10_-_einstreifige_Bake_%28Aufstellung_rechts%29%2C_StVO_1992.svg",
+   "file": "signs/162-10.svg",
    "ratio": 0.3
   },
   {
@@ -387,7 +387,7 @@
    "name": "Einstreifige Bake mit Entfernungsangabe",
    "cat": "gefahr",
    "section": "Besondere Gefahrzeichen vor Übergängen von Schienenbahnen mit Vorrang",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Zeichen_162-11_-_einstreifige_Bake_mit_Entfernungsangabe_%28Aufstellung_rechts%29%2C_StVO_1992.svg",
+   "file": "signs/162-11.svg",
    "ratio": 0.3
   },
   {
@@ -396,7 +396,7 @@
    "name": "Andreaskreuz (stehend: Dem Schienenverkehr Vorrang gewähren!)",
    "cat": "vorschrift",
    "section": "Wartegebote und Haltgebote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Zeichen_201-50_%E2%80%93_Andreaskreuz_-_Dem_Schienenverkehr_Vorrang_gew%C3%A4hren%21_StVO_1992.svg",
+   "file": "signs/201-50.svg",
    "ratio": 0.68
   },
   {
@@ -405,7 +405,7 @@
    "name": "Andreaskreuz (stehend mit Blitzpfeil: Dem Schienenverkehr Vorrang gewähren!)",
    "cat": "vorschrift",
    "section": "Wartegebote und Haltgebote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Zeichen_201-51_-_Andreaskreuz_%28stehend%29_mit_Blitzpfeil%2C_StVO_1992.svg",
+   "file": "signs/201-51.svg",
    "ratio": 0.66
   },
   {
@@ -414,7 +414,7 @@
    "name": "Andreaskreuz (liegend: Dem Schienenverkehr Vorrang gewähren!)",
    "cat": "vorschrift",
    "section": "Wartegebote und Haltgebote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Zeichen_201_-_Andreaskreuz_%28liegend%29%2C_StVO_1970.svg",
+   "file": "signs/201-52.svg",
    "ratio": 1.4
   },
   {
@@ -423,7 +423,7 @@
    "name": "Andreaskreuz (liegend mit Blitzpfeil: Dem Schienenverkehr Vorrang gewähren!)",
    "cat": "vorschrift",
    "section": "Wartegebote und Haltgebote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/9/93/Zeichen_201-53_-_Andreaskreuz_mit_Blitzpfeil_%28liegend%29%2C_StVO_1992%2C_2013.svg",
+   "file": "signs/201-53.svg",
    "ratio": 1.52
   },
   {
@@ -432,7 +432,7 @@
    "name": "Vorfahrt gewähren",
    "cat": "vorschrift",
    "section": "Wartegebote und Haltgebote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Zeichen_205_-_Vorfahrt_gew%C3%A4hren%21_StVO_1970.svg",
+   "file": "signs/205.svg",
    "ratio": 1.14
   },
   {
@@ -441,7 +441,7 @@
    "name": "Halt. Vorfahrt gewähren",
    "cat": "vorschrift",
    "section": "Wartegebote und Haltgebote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Zeichen_206_-_Halt%21_Vorfahrt_gew%C3%A4hren%21_StVO_2017.svg",
+   "file": "signs/206.svg",
    "ratio": 1
   },
   {
@@ -450,7 +450,7 @@
    "name": "Vorrang des Gegenverkehrs",
    "cat": "vorschrift",
    "section": "Wartegebote und Haltgebote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/8/89/Zeichen_208_-_Dem_Gegenverkehr_Vorrang_gew%C3%A4hren%21_600x600%2C_StVO_1992.svg",
+   "file": "signs/208.svg",
    "ratio": 1
   },
   {
@@ -459,7 +459,7 @@
    "name": "Vorgeschriebene Fahrtrichtung (rechts)",
    "cat": "vorschrift",
    "section": "Vorgeschriebene Fahrtrichtungen",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Zeichen_209_-_Vorgeschriebene_Fahrtrichtung%2C_rechts%2C_StVO_2017.svg",
+   "file": "signs/209.svg",
    "ratio": 1
   },
   {
@@ -468,7 +468,7 @@
    "name": "Vorgeschriebene Fahrtrichtung (links)",
    "cat": "vorschrift",
    "section": "Vorgeschriebene Fahrtrichtungen",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Zeichen_209-10_-_Vorgeschriebene_Fahrtrichtung%2C_links%2C_StVO_2017.svg",
+   "file": "signs/209-10.svg",
    "ratio": 1
   },
   {
@@ -477,7 +477,7 @@
    "name": "Vorgeschriebene Fahrtrichtung (geradeaus)",
    "cat": "vorschrift",
    "section": "Vorgeschriebene Fahrtrichtungen",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Zeichen_209-30_-_Vorgeschriebene_Fahrtrichtung%2C_Geradeaus%2C_StVO_2017.svg",
+   "file": "signs/209-30.svg",
    "ratio": 1
   },
   {
@@ -486,7 +486,7 @@
    "name": "Vorgeschriebene Fahrtrichtung (hier rechts)",
    "cat": "vorschrift",
    "section": "Vorgeschriebene Fahrtrichtungen",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Zeichen_211_-_Vorgeschriebene_Fahrtrichtung%2C_hier_rechts%2C_StVO_2017.svg",
+   "file": "signs/211.svg",
    "ratio": 1
   },
   {
@@ -495,7 +495,7 @@
    "name": "Vorgeschriebene Fahrtrichtung (hier links)",
    "cat": "vorschrift",
    "section": "Vorgeschriebene Fahrtrichtungen",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/5/53/Zeichen_211-10_-_Vorgeschriebene_Fahrtrichtung%2C_hier_links%2C_StVO_2017.svg",
+   "file": "signs/211-10.svg",
    "ratio": 1
   },
   {
@@ -504,7 +504,7 @@
    "name": "Vorgeschriebene Fahrtrichtung (geradeaus oder rechts)",
    "cat": "vorschrift",
    "section": "Vorgeschriebene Fahrtrichtungen",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/2/20/Zeichen_214_-_Vorgeschriebene_Fahrtrichtung%2C_Geradeaus_oder_rechts%2C_StVO_2017.svg",
+   "file": "signs/214.svg",
    "ratio": 1
   },
   {
@@ -513,7 +513,7 @@
    "name": "Vorgeschriebene Fahrtrichtung (geradeaus oder links)",
    "cat": "vorschrift",
    "section": "Vorgeschriebene Fahrtrichtungen",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Zeichen_214-10_-_Vorgeschriebene_Fahrtrichtung%2C_Geradeaus_oder_links%2C_StVO_2017.svg",
+   "file": "signs/214-10.svg",
    "ratio": 1
   },
   {
@@ -522,7 +522,7 @@
    "name": "Vorgeschriebene Fahrtrichtung (rechts oder links)",
    "cat": "vorschrift",
    "section": "Vorgeschriebene Fahrtrichtungen",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/9/94/Zeichen_214-30_-_Vorgeschriebene_Fahrtrichtung%2C_Rechts_oder_links%2C_StVO_2017.svg",
+   "file": "signs/214-30.svg",
    "ratio": 1
   },
   {
@@ -531,7 +531,7 @@
    "name": "Kreisverkehr",
    "cat": "vorschrift",
    "section": "Vorgeschriebene Fahrtrichtungen",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/7/72/Zeichen_215_-_Kreisverkehr%2C_StVO_2000.svg",
+   "file": "signs/215.svg",
    "ratio": 1
   },
   {
@@ -540,7 +540,7 @@
    "name": "Einbahnstraße (linksweisend)",
    "cat": "vorschrift",
    "section": "Vorgeschriebene Fahrtrichtungen",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/7/70/Zeichen_220-10_-_Einbahnstra%C3%9Fe%2C_linksweisend%2C_StVO_2017.svg",
+   "file": "signs/220-10.svg",
    "ratio": 2.7
   },
   {
@@ -549,7 +549,7 @@
    "name": "Einbahnstraße (rechtsweisend)",
    "cat": "vorschrift",
    "section": "Vorgeschriebene Fahrtrichtungen",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/9/94/Zeichen_220-20_-_Einbahnstra%C3%9Fe%2C_rechtsweisend%2C_StVO_2017.svg",
+   "file": "signs/220-20.svg",
    "ratio": 2.7
   },
   {
@@ -558,7 +558,7 @@
    "name": "Vorgeschriebene Vorbeifahrt (rechts vorbei)",
    "cat": "vorschrift",
    "section": "Vorgeschriebene Vorbeifahrt",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/8/82/Zeichen_222_-_Vorgeschriebene_Vorbeifahrt%2C_Rechts_vorbei%2C_StVO_2017.svg",
+   "file": "signs/222.svg",
    "ratio": 1
   },
   {
@@ -567,7 +567,7 @@
    "name": "Vorgeschriebene Vorbeifahrt (links vorbei)",
    "cat": "vorschrift",
    "section": "Vorgeschriebene Vorbeifahrt",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Zeichen_222-10_-_Vorgeschriebene_Vorbeifahrt%2C_Links_vorbei%2C_StVO_2017.svg",
+   "file": "signs/222-10.svg",
    "ratio": 1
   },
   {
@@ -576,7 +576,7 @@
    "name": "Seitenstreifen befahren (2 Fahrstreifen und Seitenstreifen)",
    "cat": "vorschrift",
    "section": "Seitenstreifen als Fahrstreifen",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/5/51/Zeichen_223.1-50_-_Seitenstreifen_befahren%2C_2_Fahrstreifen_u._Seitenstreifen%2C_StVO_2017.svg",
+   "file": "signs/223.1-50.svg",
    "ratio": 1
   },
   {
@@ -585,7 +585,7 @@
    "name": "Seitenstreifen nicht mehr befahren (2 Fahrstreifen und Seitenstreifen)",
    "cat": "vorschrift",
    "section": "Seitenstreifen als Fahrstreifen",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Zeichen_223.2-50_-_Seitenstreifen_nicht_mehr_befahren%2C_2_Fahrstreifen_u._Seitenstreifen%2C_StVO_2017.svg",
+   "file": "signs/223.2-50.svg",
    "ratio": 1
   },
   {
@@ -594,7 +594,7 @@
    "name": "Seitenstreifen räumen (2 Fahrstreifen und Seitenstreifen)",
    "cat": "vorschrift",
    "section": "Seitenstreifen als Fahrstreifen",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Zeichen_223.3-50_-_Seitenstreifen_r%C3%A4umen%2C_2_Fahrstreifen_u._Seitenstreifen%2C_StVO_2017.svg",
+   "file": "signs/223.3-50.svg",
    "ratio": 1
   },
   {
@@ -603,7 +603,7 @@
    "name": "Haltestelle",
    "cat": "vorschrift",
    "section": "Haltestellen",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Zeichen_224_-_Haltestelle%2C_StVO_2017.svg",
+   "file": "signs/224.svg",
    "ratio": 1
   },
   {
@@ -612,7 +612,7 @@
    "name": "Schulbushaltestelle (mit Zusatzzeichen 1042-36)",
    "cat": "vorschrift",
    "section": "Haltestellen",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Zeichen_224-51_-_Schulbushaltestelle_%28mit_Zusatzzeichen_1042-36%29%2C_StVO_2017.svg",
+   "file": "signs/224-51.svg",
    "ratio": 0.67
   },
   {
@@ -621,7 +621,7 @@
    "name": "Taxistand",
    "cat": "vorschrift",
    "section": "Taxistände und Ladebereiche",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/2/22/Zeichen_229_-_Taxenstand%2C_StVO_1994.svg",
+   "file": "signs/229.svg",
    "ratio": 0.67
   },
   {
@@ -630,7 +630,7 @@
    "name": "Ladebereich",
    "cat": "vorschrift",
    "section": "Taxistände und Ladebereiche",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Zeichen_230_-_Ladebereich%2C_StVO_57._StVR%C3%84ndV_BGBl.2024_Teil_1_Nr.299_Seite_5.svg",
+   "file": "signs/230.svg",
    "ratio": 0.67
   },
   {
@@ -639,7 +639,7 @@
    "name": "Taxistand (Anfang)",
    "cat": "vorschrift",
    "section": "Taxistände und Ladebereiche",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Zeichen_229-10_-_Taxenstand_%28Anfang%29%2C_Aufstellung_rechts%2C_StVO_2013.svg",
+   "file": "signs/229-10.svg",
    "ratio": 0.67
   },
   {
@@ -648,7 +648,7 @@
    "name": "Taxistand (Ende)",
    "cat": "vorschrift",
    "section": "Taxistände und Ladebereiche",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/5/52/Zeichen_229-20_-_Taxenstand_%28Ende%29%2C_Aufstellung_rechts%2C_StVO_2013.svg",
+   "file": "signs/229-20.svg",
    "ratio": 0.67
   },
   {
@@ -657,7 +657,7 @@
    "name": "Taxistand (Mitte)",
    "cat": "vorschrift",
    "section": "Taxistände und Ladebereiche",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/7/79/Zeichen_229-30_-_Taxenstand_%28Mitte%29%2C_Aufstellung_rechts%2C_StVO_2013.svg",
+   "file": "signs/229-30.svg",
    "ratio": 0.67
   },
   {
@@ -666,7 +666,7 @@
    "name": "Ladebereich (Anfang)",
    "cat": "vorschrift",
    "section": "Taxistände und Ladebereiche",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Zeichen_230-10_-_Ladebereich_%28Anfang%2C_Aufstellung_rechts%29%2C_StVO_57._StVR%C3%84ndV_BGBl.2024_Teil_1_Nr.299_Seite_5.svg",
+   "file": "signs/230-10.svg",
    "ratio": 0.67
   },
   {
@@ -675,7 +675,7 @@
    "name": "Ladebereich (Ende)",
    "cat": "vorschrift",
    "section": "Taxistände und Ladebereiche",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Zeichen_230-20_-_Ladebereich_%28Ende%2C_Aufstellung_rechts%29%2C_StVO_57._StVR%C3%84ndV_BGBl.2024_Teil_1_Nr.299_Seite_5.svg",
+   "file": "signs/230-20.svg",
    "ratio": 0.67
   },
   {
@@ -684,7 +684,7 @@
    "name": "Ladebereich (Mitte)",
    "cat": "vorschrift",
    "section": "Taxistände und Ladebereiche",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Zeichen_230-30_-_Ladebereich_%28Mitte%2C_Aufstellung_rechts%29%2C_StVO_57._StVR%C3%84ndV_BGBl.2024_Teil_1_Nr.299_Seite_5.svg",
+   "file": "signs/230-30.svg",
    "ratio": 0.67
   },
   {
@@ -693,7 +693,7 @@
    "name": "Radweg",
    "cat": "vorschrift",
    "section": "Sonderwege",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/9/91/Zeichen_237_-_Sonderweg_Radfahrer%2C_StVO_1992.svg",
+   "file": "signs/237.svg",
    "ratio": 1
   },
   {
@@ -702,7 +702,7 @@
    "name": "Reitweg",
    "cat": "vorschrift",
    "section": "Sonderwege",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Zeichen_238_-_Sonderweg_Reiter%2C_StVO_1992.svg",
+   "file": "signs/238.svg",
    "ratio": 1
   },
   {
@@ -711,7 +711,7 @@
    "name": "Gehweg",
    "cat": "vorschrift",
    "section": "Sonderwege",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Zeichen_239_-_Sonderweg_Fu%C3%9Fg%C3%A4nger%2C_StVO_1992.svg",
+   "file": "signs/239.svg",
    "ratio": 1
   },
   {
@@ -720,7 +720,7 @@
    "name": "Gemeinsamer Geh- und Radweg",
    "cat": "vorschrift",
    "section": "Sonderwege",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/0/08/Zeichen_240_-_Gemeinsamer_Fu%C3%9F-_und_Radweg%2C_StVO_1992.svg",
+   "file": "signs/240.svg",
    "ratio": 1
   },
   {
@@ -729,7 +729,7 @@
    "name": "Getrennter Rad- und Gehweg, Radweg links",
    "cat": "vorschrift",
    "section": "Sonderwege",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/8/86/Zeichen_241-30_-_getrennter_Rad-_und_Fu%C3%9Fweg%2C_StVO_1992.svg",
+   "file": "signs/241-30.svg",
    "ratio": 1
   },
   {
@@ -738,7 +738,7 @@
    "name": "Getrennter Rad- und Gehweg, Radweg rechts",
    "cat": "vorschrift",
    "section": "Sonderwege",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/6/68/Zeichen_241-31_-_getrennter_Fu%C3%9F-_und_Radweg%2C_StVO_1992.svg",
+   "file": "signs/241-31.svg",
    "ratio": 1
   },
   {
@@ -747,7 +747,7 @@
    "name": "Beginn einer Fußgängerzone",
    "cat": "vorschrift",
    "section": "Sonderwege",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Zeichen_242.1_-_Beginn_einer_Fu%C3%9Fg%C3%A4ngerzone%2C_StVO_2009.svg",
+   "file": "signs/242.1.svg",
    "ratio": 1
   },
   {
@@ -756,7 +756,7 @@
    "name": "Ende einer Fußgängerzone",
    "cat": "vorschrift",
    "section": "Sonderwege",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/7/78/Zeichen_242.2_-_Ende_einer_Fu%C3%9Fg%C3%A4ngerzone%2C_StVO_2009.svg",
+   "file": "signs/242.2.svg",
    "ratio": 1
   },
   {
@@ -765,7 +765,7 @@
    "name": "Beginn einer Fahrradstraße",
    "cat": "vorschrift",
    "section": "Sonderwege",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Zeichen_244.1_-_Beginn_einer_Fahrradstra%C3%9Fe%2C_StVO_2013.svg",
+   "file": "signs/244.1.svg",
    "ratio": 1
   },
   {
@@ -774,7 +774,7 @@
    "name": "Ende einer Fahrradstraße",
    "cat": "vorschrift",
    "section": "Sonderwege",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Zeichen_244.2_-_Ende_einer_Fahrradstra%C3%9Fe%2C_StVO_2013.svg",
+   "file": "signs/244.2.svg",
    "ratio": 1
   },
   {
@@ -783,7 +783,7 @@
    "name": "Beginn einer Fahrradzone",
    "cat": "vorschrift",
    "section": "Sonderwege",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Zeichen_244.3_-_Beginn_einer_Fahrradzone%2C_StVO_2020.svg",
+   "file": "signs/244.3.svg",
    "ratio": 1
   },
   {
@@ -792,7 +792,7 @@
    "name": "Ende einer Fahrradzone",
    "cat": "vorschrift",
    "section": "Sonderwege",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/6/64/Zeichen_244.4_-_Ende_einer_Fahrradzone%2C_StVO_2020.svg",
+   "file": "signs/244.4.svg",
    "ratio": 1
   },
   {
@@ -801,7 +801,7 @@
    "name": "Bussonderfahrstreifen",
    "cat": "vorschrift",
    "section": "Sonderwege",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/0/05/Zeichen_245_-_Bussonderfahrstreifen%2C_StVO_2013.svg",
+   "file": "signs/245.svg",
    "ratio": 1
   },
   {
@@ -810,7 +810,7 @@
    "name": "Verbot für Fahrzeuge aller Art",
    "cat": "vorschrift",
    "section": "Verkehrsverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/4/46/Zeichen_250_-_Verbot_f%C3%BCr_Fahrzeuge_aller_Art%2C_StVO_1970.svg",
+   "file": "signs/250.svg",
    "ratio": 1
   },
   {
@@ -819,7 +819,7 @@
    "name": "Verbot für Kraftwagen",
    "cat": "vorschrift",
    "section": "Verkehrsverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Zeichen_251_-_Verbot_f%C3%BCr_Kraftwagen_und_sonstige_mehrspurige_Kraftfahrzeuge%2C_StVO_1992.svg",
+   "file": "signs/251.svg",
    "ratio": 1
   },
   {
@@ -828,7 +828,7 @@
    "name": "Verbot für Kraftfahrzeuge mit einer zulässigen Gesamtmasse über 3,5 t, einschließlich ihrer Anhänger, und für Zugmaschinen",
    "cat": "vorschrift",
    "section": "Verkehrsverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Zeichen_253_-_Verbot_f%C3%BCr_Kraftfahrzeuge_mit_einem_zul%C3%A4ssigen_Gesamtgewicht%2C_StVO_1992.svg",
+   "file": "signs/253.svg",
    "ratio": 1
   },
   {
@@ -837,7 +837,7 @@
    "name": "Verbot für Radverkehr",
    "cat": "vorschrift",
    "section": "Verkehrsverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Zeichen_254_-_Verbot_f%C3%BCr_Radfahrer%2C_StVO_1992.svg",
+   "file": "signs/254.svg",
    "ratio": 1
   },
   {
@@ -846,7 +846,7 @@
    "name": "Verbot für Krafträder",
    "cat": "vorschrift",
    "section": "Verkehrsverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Zeichen_255_-_Verbot_f%C3%BCr_Kraftr%C3%A4der%2C_auch_mit_Beiwagen%2C_Kleinkraftr%C3%A4der_und_Mofas%2C_StVO_1992.svg",
+   "file": "signs/255.svg",
    "ratio": 1
   },
   {
@@ -855,7 +855,7 @@
    "name": "Verbot für Mofas",
    "cat": "vorschrift",
    "section": "Verkehrsverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Zeichen_257-50_-_Verbot_f%C3%BCr_Mofas%2C_StVO_2017.svg",
+   "file": "signs/257-50.svg",
    "ratio": 1
   },
   {
@@ -864,7 +864,7 @@
    "name": "Verbot für Reiter",
    "cat": "vorschrift",
    "section": "Verkehrsverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Zeichen_257-51_-_Verbot_f%C3%BCr_Reiter%2C_StVO_2017.svg",
+   "file": "signs/257-51.svg",
    "ratio": 1
   },
   {
@@ -873,7 +873,7 @@
    "name": "Verbot für Gespannfuhrwerke",
    "cat": "vorschrift",
    "section": "Verkehrsverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Zeichen_257-52_-_Verbot_f%C3%BCr_Gespannfuhrwerke%2C_StVO_2017.svg",
+   "file": "signs/257-52.svg",
    "ratio": 1
   },
   {
@@ -882,7 +882,7 @@
    "name": "Verbot für Viehtrieb",
    "cat": "vorschrift",
    "section": "Verkehrsverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/1/17/Zeichen_257-53_-_Verbot_f%C3%BCr_Viehtrieb%2C_StVO_2017.svg",
+   "file": "signs/257-53.svg",
    "ratio": 1
   },
   {
@@ -891,7 +891,7 @@
    "name": "Verbot für Kraftomnibusse",
    "cat": "vorschrift",
    "section": "Verkehrsverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Zeichen_257-54_-_Verbot_f%C3%BCr_Kraftomnibusse%2C_StVO_2017.svg",
+   "file": "signs/257-54.svg",
    "ratio": 1
   },
   {
@@ -900,7 +900,7 @@
    "name": "Verbot für Personenkraftwagen",
    "cat": "vorschrift",
    "section": "Verkehrsverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Zeichen_257-55_-_Verbot_f%C3%BCr_Personenkraftwagen%2C_StVO_2017.svg",
+   "file": "signs/257-55.svg",
    "ratio": 1
   },
   {
@@ -909,7 +909,7 @@
    "name": "Verbot für Personenkraftwagen mit Anhänger",
    "cat": "vorschrift",
    "section": "Verkehrsverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Zeichen_257-56_-_Verbot_f%C3%BCr_Personenkraftwagen_mit_Anh%C3%A4nger%2C_StVO_2017.svg",
+   "file": "signs/257-56.svg",
    "ratio": 1
   },
   {
@@ -918,7 +918,7 @@
    "name": "Verbot für Lastkraftwagen mit Anhänger",
    "cat": "vorschrift",
    "section": "Verkehrsverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Zeichen_257-57_-_Verbot_f%C3%BCr_Lastkraftwagen_mit_Anh%C3%A4nger%2C_StVO_2017.svg",
+   "file": "signs/257-57.svg",
    "ratio": 1
   },
   {
@@ -927,7 +927,7 @@
    "name": "Verbot für Kraftfahrzeuge und Züge, die nicht schneller als 25 km/h fahren können oder dürfen",
    "cat": "vorschrift",
    "section": "Verkehrsverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Zeichen_257-58_-_Verbot_f%C3%BCr_Kraftfahrzeuge_und_Z%C3%BCge%2C_die_nicht_schneller_als_25_km-h_fahren_k%C3%B6nnen_oder_d%C3%BCrfen%2C_StVO_2017.svg",
+   "file": "signs/257-58.svg",
    "ratio": 1
   },
   {
@@ -936,7 +936,7 @@
    "name": "Verbot für Elektrokleinstfahrzeuge im Sinne der Elektrokleinstfahrzeuge-Verordnung (eKFV)",
    "cat": "vorschrift",
    "section": "Verkehrsverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/0/06/Zeichen_257-59_-_Verbot_f%C3%BCr_Elektrokleinstfahrzeuge_im_Sinne_der_Elektrokleinstfahrzeuge-Verordnung_%28eKFV%29.svg",
+   "file": "signs/257-59.svg",
    "ratio": 1
   },
   {
@@ -945,7 +945,7 @@
    "name": "Verbot für Fußgänger",
    "cat": "vorschrift",
    "section": "Verkehrsverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Zeichen_259_-_Verbot_f%C3%BCr_Fu%C3%9Fg%C3%A4nger%2C_StVO_1992.svg",
+   "file": "signs/259.svg",
    "ratio": 1
   },
   {
@@ -954,7 +954,7 @@
    "name": "Verbot für Kraftfahrzeuge",
    "cat": "vorschrift",
    "section": "Verkehrsverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Zeichen_260_-_Verbot_f%C3%BCr_Kraftr%C3%A4der_und_Mofas_und_sonstige_mehrspurige_Kraftfahrzeuge%2C_StVO_1992.svg",
+   "file": "signs/260.svg",
    "ratio": 1
   },
   {
@@ -963,7 +963,7 @@
    "name": "Verbot für kennzeichnungspflichtige Kraftfahrzeuge mit gefährlichen Gütern",
    "cat": "vorschrift",
    "section": "Verkehrsverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Zeichen_261_-_Verbot_f%C3%BCr_kennzeichnungspflichtige_Kraftfahrzeuge_mit_gef%C3%A4hrlichen_G%C3%BCtern%2C_StVO_1988.svg",
+   "file": "signs/261.svg",
    "ratio": 1
   },
   {
@@ -972,7 +972,7 @@
    "name": "Tatsächliche Masse (5,5 t)",
    "cat": "vorschrift",
    "section": "Verkehrsverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Zeichen_262-5%2C5_-_Verbot_f%C3%BCr_Fahrzeuge_%C3%BCber_angegebene_tats%C3%A4chliche_Masse%2C_StVO_2017.svg",
+   "file": "signs/262-5,5.svg",
    "ratio": 1
   },
   {
@@ -981,7 +981,7 @@
    "name": "Tatsächliche Achslast (8 t)",
    "cat": "vorschrift",
    "section": "Verkehrsverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Zeichen_263-8_-_Verbot_f%C3%BCr_Fahrzeuge_%C3%BCber_angegebene_tats%C3%A4chliche_Achslast%2C_StVO_2017.svg",
+   "file": "signs/263-8.svg",
    "ratio": 1
   },
   {
@@ -990,7 +990,7 @@
    "name": "Tatsächliche Breite (2 m)",
    "cat": "vorschrift",
    "section": "Verkehrsverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Zeichen_264-2_-_Verbot_f%C3%BCr_Fahrzeuge_%C3%BCber_angegebene_tats%C3%A4chliche_Breite%2C_StVO_2017.svg",
+   "file": "signs/264-2.svg",
    "ratio": 1
   },
   {
@@ -999,7 +999,7 @@
    "name": "Tatsächliche Breite (2,3 m)",
    "cat": "vorschrift",
    "section": "Verkehrsverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Zeichen_264-2%2C3_-_Verbot_f%C3%BCr_Fahrzeuge_%C3%BCber_angegebene_tats%C3%A4chliche_Breite%2C_StVO_2017.svg",
+   "file": "signs/264-2,3.svg",
    "ratio": 1
   },
   {
@@ -1008,7 +1008,7 @@
    "name": "Tatsächliche Höhe (3,8 m)",
    "cat": "vorschrift",
    "section": "Verkehrsverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/9/98/Zeichen_265-3%2C8_-_Verbot_f%C3%BCr_Fahrzeuge_%C3%BCber_angegebene_tats%C3%A4chliche_H%C3%B6he%2C_StVO_2017.svg",
+   "file": "signs/265-3,8.svg",
    "ratio": 1
   },
   {
@@ -1017,7 +1017,7 @@
    "name": "Tatsächliche Länge (10 m)",
    "cat": "vorschrift",
    "section": "Verkehrsverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Zeichen_266-10_-_Verbot_f%C3%BCr_Fahrzeuge_%C3%BCber_angegebene_tats%C3%A4chliche_L%C3%A4nge%2C_StVO_2017.svg",
+   "file": "signs/266-10.svg",
    "ratio": 1
   },
   {
@@ -1026,7 +1026,7 @@
    "name": "Verbot der Einfahrt",
    "cat": "vorschrift",
    "section": "Verkehrsverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/7/77/Zeichen_267_-_Verbot_der_Einfahrt%2C_StVO_1970.svg",
+   "file": "signs/267.svg",
    "ratio": 1
   },
   {
@@ -1035,7 +1035,7 @@
    "name": "Schneeketten vorgeschrieben",
    "cat": "vorschrift",
    "section": "Verkehrsverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Zeichen_268_-_Schneeketten_sind_vorgeschrieben%2C_StVO_1992.svg",
+   "file": "signs/268.svg",
    "ratio": 1
   },
   {
@@ -1044,7 +1044,7 @@
    "name": "Verbot für Fahrzeuge mit wassergefährdender Ladung",
    "cat": "vorschrift",
    "section": "Verkehrsverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Zeichen_269_-_Verbot_f%C3%BCr_Fahrzeuge_mit_wassergef%C3%A4hrdender_Ladung%2C_StVO_1988.svg",
+   "file": "signs/269.svg",
    "ratio": 1
   },
   {
@@ -1053,7 +1053,7 @@
    "name": "Beginn eines Verkehrsverbots zur Verminderung schädlicher Luftverunreinigungen in einer Zone",
    "cat": "vorschrift",
    "section": "Verkehrsverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Zeichen_270.1_-_Beginn_eines_Verkehrsverbots_zur_Verminderung_sch%C3%A4dlicher_Luftverunreinigungen_in_einer_Zone._I%2C_StVO_2007.svg",
+   "file": "signs/270.1.svg",
    "ratio": 1
   },
   {
@@ -1062,7 +1062,7 @@
    "name": "Ende eines Verkehrsverbots zur Verminderung schädlicher Luftverunreinigungen in einer Zone",
    "cat": "vorschrift",
    "section": "Verkehrsverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Zeichen_270.2_-_Ende_eines_Verkehrsverbots_zur_Verminderung_sch%C3%A4dlicher_Luftverunreinigungen_in_einer_Zone%2C_StVO_2007.svg",
+   "file": "signs/270.2.svg",
    "ratio": 1
   },
   {
@@ -1071,7 +1071,7 @@
    "name": "Verbot des Wendens",
    "cat": "vorschrift",
    "section": "Verkehrsverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Zeichen_272%2C_Verbot_des_Wendens%2C_StVO_1992.svg",
+   "file": "signs/272.svg",
    "ratio": 1
   },
   {
@@ -1080,7 +1080,7 @@
    "name": "Verbot des Unterschreitens des angegebenen Mindestabstandes",
    "cat": "vorschrift",
    "section": "Verkehrsverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Zeichen_273-70_-_Verbot_des_Unterschreitens_des_angegebenen_Mindestabstandes%2C_StVO_2017.svg",
+   "file": "signs/273-70.svg",
    "ratio": 1
   },
   {
@@ -1089,7 +1089,7 @@
    "name": "Zulässige Höchstgeschwindigkeit (10 km/h)",
    "cat": "vorschrift",
    "section": "Geschwindigkeitsbeschränkungen und Überholverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/0/02/Zeichen_274-10_-_Zul%C3%A4ssige_H%C3%B6chstgeschwindigkeit%2C_StVO_2017.svg",
+   "file": "signs/274-10.svg",
    "ratio": 1
   },
   {
@@ -1098,7 +1098,7 @@
    "name": "Zulässige Höchstgeschwindigkeit (20 km/h)",
    "cat": "vorschrift",
    "section": "Geschwindigkeitsbeschränkungen und Überholverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Zeichen_274-20_-_Zul%C3%A4ssige_H%C3%B6chstgeschwindigkeit%2C_StVO_2017.svg",
+   "file": "signs/274-20.svg",
    "ratio": 1
   },
   {
@@ -1107,7 +1107,7 @@
    "name": "Zulässige Höchstgeschwindigkeit (30 km/h)",
    "cat": "vorschrift",
    "section": "Geschwindigkeitsbeschränkungen und Überholverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Zeichen_274-30_-_Zul%C3%A4ssige_H%C3%B6chstgeschwindigkeit%2C_StVO_2017.svg",
+   "file": "signs/274-30.svg",
    "ratio": 1
   },
   {
@@ -1116,7 +1116,7 @@
    "name": "Zulässige Höchstgeschwindigkeit (40 km/h)",
    "cat": "vorschrift",
    "section": "Geschwindigkeitsbeschränkungen und Überholverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Zeichen_274-40_-_Zul%C3%A4ssige_H%C3%B6chstgeschwindigkeit%2C_StVO_2017.svg",
+   "file": "signs/274-40.svg",
    "ratio": 1
   },
   {
@@ -1125,7 +1125,7 @@
    "name": "Zulässige Höchstgeschwindigkeit (50 km/h)",
    "cat": "vorschrift",
    "section": "Geschwindigkeitsbeschränkungen und Überholverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/9/96/Zeichen_274-50_-_Zul%C3%A4ssige_H%C3%B6chstgeschwindigkeit%2C_StVO_2017.svg",
+   "file": "signs/274-50.svg",
    "ratio": 1
   },
   {
@@ -1134,7 +1134,7 @@
    "name": "Zulässige Höchstgeschwindigkeit (60 km/h)",
    "cat": "vorschrift",
    "section": "Geschwindigkeitsbeschränkungen und Überholverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/6/63/Zeichen_274-60_-_Zul%C3%A4ssige_H%C3%B6chstgeschwindigkeit%2C_StVO_2017.svg",
+   "file": "signs/274-60.svg",
    "ratio": 1
   },
   {
@@ -1143,7 +1143,7 @@
    "name": "Zulässige Höchstgeschwindigkeit (70 km/h)",
    "cat": "vorschrift",
    "section": "Geschwindigkeitsbeschränkungen und Überholverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/2/26/Zeichen_274-70_-_Zul%C3%A4ssige_H%C3%B6chstgeschwindigkeit%2C_StVO_2017.svg",
+   "file": "signs/274-70.svg",
    "ratio": 1
   },
   {
@@ -1152,7 +1152,7 @@
    "name": "Zulässige Höchstgeschwindigkeit (80 km/h)",
    "cat": "vorschrift",
    "section": "Geschwindigkeitsbeschränkungen und Überholverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/b/be/Zeichen_274-80_-_Zul%C3%A4ssige_H%C3%B6chstgeschwindigkeit%2C_StVO_2017.svg",
+   "file": "signs/274-80.svg",
    "ratio": 1
   },
   {
@@ -1161,7 +1161,7 @@
    "name": "Zulässige Höchstgeschwindigkeit (100 km/h)",
    "cat": "vorschrift",
    "section": "Geschwindigkeitsbeschränkungen und Überholverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Zeichen_274-100_-_Zul%C3%A4ssige_H%C3%B6chstgeschwindigkeit%2C_StVO_2017.svg",
+   "file": "signs/274-100.svg",
    "ratio": 1
   },
   {
@@ -1170,7 +1170,7 @@
    "name": "Zulässige Höchstgeschwindigkeit (120 km/h)",
    "cat": "vorschrift",
    "section": "Geschwindigkeitsbeschränkungen und Überholverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Zeichen_274-120_-_Zul%C3%A4ssige_H%C3%B6chstgeschwindigkeit%2C_StVO_2017.svg",
+   "file": "signs/274-120.svg",
    "ratio": 1
   },
   {
@@ -1179,7 +1179,7 @@
    "name": "Beginn einer Tempo 30-Zone",
    "cat": "vorschrift",
    "section": "Geschwindigkeitsbeschränkungen und Überholverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Zeichen_274.1_-_Beginn_einer_Tempo_30-Zone%2C_StVO_2013.svg",
+   "file": "signs/274.1.svg",
    "ratio": 1
   },
   {
@@ -1188,7 +1188,7 @@
    "name": "Beginn einer Tempo-20-Zone in verkehrsberuhigten Geschäftsbereichen",
    "cat": "vorschrift",
    "section": "Geschwindigkeitsbeschränkungen und Überholverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Zeichen_274.1-20_-_Beginn_einer_Tempo_20-Zone_in_verkehrsberuhigten_Gesch%C3%A4ftsbereichen_%28einseitig%29%2C_StVO_2013.svg",
+   "file": "signs/274.1-20.svg",
    "ratio": 1
   },
   {
@@ -1197,7 +1197,7 @@
    "name": "Ende einer",
    "cat": "vorschrift",
    "section": "Geschwindigkeitsbeschränkungen und Überholverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/1/14/Zeichen_274.2_-_Ende_einer_Tempo_30-Zone_%28einseitig%29%2C_StVO_2013.svg",
+   "file": "signs/274.2.svg",
    "ratio": 1
   },
   {
@@ -1206,7 +1206,7 @@
    "name": "Ende einer Tempo-20-Zone in verkehrsberuhigten Geschäftsbereichen",
    "cat": "vorschrift",
    "section": "Geschwindigkeitsbeschränkungen und Überholverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Zeichen_274.2-20_-_Ende_einer_Tempo_20-Zone_in_verkehrsberuhigten_Gesch%C3%A4ftsbereichen_%28einseitig%29%2C_StVO_2013.svg",
+   "file": "signs/274.2-20.svg",
    "ratio": 1
   },
   {
@@ -1215,7 +1215,7 @@
    "name": "Vorgeschriebene Mindestgeschwindigkeit (30 km/h)",
    "cat": "vorschrift",
    "section": "Geschwindigkeitsbeschränkungen und Überholverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/3/30/Zeichen_275-30_-_Vorgeschriebene_Mindestgeschwindigkeit%2C_StVO_2017.svg",
+   "file": "signs/275-30.svg",
    "ratio": 1
   },
   {
@@ -1224,7 +1224,7 @@
    "name": "Überholverbot für Kraftfahrzeuge aller Art",
    "cat": "vorschrift",
    "section": "Geschwindigkeitsbeschränkungen und Überholverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Zeichen_276_-_%C3%9Cberholverbot_f%C3%BCr_Kraftfahrzeuge_aller_Art%2C_StVO_1992.svg",
+   "file": "signs/276.svg",
    "ratio": 1
   },
   {
@@ -1233,7 +1233,7 @@
    "name": "Überholverbot für Kraftfahrzeuge über 3,5 t",
    "cat": "vorschrift",
    "section": "Geschwindigkeitsbeschränkungen und Überholverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Zeichen_277_-_%C3%9Cberholverbot_f%C3%BCr_Kraftfahrzeuge_mit_einem_zul%C3%A4ssigen_Gesamtgewicht_%C3%BCber_2%2C8_t%2C_einschlie%C3%9Flich_ihrer_Anh%C3%A4nger%2C_StVO_1992.svg",
+   "file": "signs/277.svg",
    "ratio": 1
   },
   {
@@ -1242,7 +1242,7 @@
    "name": "Verbot des Überholens von einspurigen Fahrzeugen für mehrspurige Kraftfahrzeuge und Krafträder mit Beiwagen",
    "cat": "vorschrift",
    "section": "Geschwindigkeitsbeschränkungen und Überholverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Zeichen_277.1_-_Verbot_des_%C3%9Cberholens_von_einspurigen_Fahrzeugen_f%C3%BCr_mehrspurige_Kraftfahrzeuge_und_Kraftr%C3%A4dern_mit_Beiwagen%3B_StVO_2020.svg",
+   "file": "signs/277.1.svg",
    "ratio": 1
   },
   {
@@ -1251,7 +1251,7 @@
    "name": "Ende der zulässigen Höchstgeschwindigkeit (30 km/h)",
    "cat": "vorschrift",
    "section": "Geschwindigkeitsbeschränkungen und Überholverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/4/46/Zeichen_278-30_-_Ende_der_zul%C3%A4ssigen_H%C3%B6chstgeschwindigkeit%2C_StVO_2017.svg",
+   "file": "signs/278-30.svg",
    "ratio": 1
   },
   {
@@ -1260,7 +1260,7 @@
    "name": "Ende der zulässigen Höchstgeschwindigkeit (50 km/h)",
    "cat": "vorschrift",
    "section": "Geschwindigkeitsbeschränkungen und Überholverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/2/26/Zeichen_278-50_-_Ende_der_zul%C3%A4ssigen_H%C3%B6chstgeschwindigkeit%2C_StVO_2017.svg",
+   "file": "signs/278-50.svg",
    "ratio": 1
   },
   {
@@ -1269,7 +1269,7 @@
    "name": "Ende der zulässigen Höchstgeschwindigkeit (60 km/h)",
    "cat": "vorschrift",
    "section": "Geschwindigkeitsbeschränkungen und Überholverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/9/97/Zeichen_278-60_-_Ende_der_zul%C3%A4ssigen_H%C3%B6chstgeschwindigkeit%2C_StVO_2017.svg",
+   "file": "signs/278-60.svg",
    "ratio": 1
   },
   {
@@ -1278,7 +1278,7 @@
    "name": "Ende der zulässigen Höchstgeschwindigkeit (80 km/h)",
    "cat": "vorschrift",
    "section": "Geschwindigkeitsbeschränkungen und Überholverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Zeichen_278-80_-_Ende_der_zul%C3%A4ssigen_H%C3%B6chstgeschwindigkeit%2C_StVO_2017.svg",
+   "file": "signs/278-80.svg",
    "ratio": 1
   },
   {
@@ -1287,7 +1287,7 @@
    "name": "Ende der zulässigen Höchstgeschwindigkeit (100 km/h)",
    "cat": "vorschrift",
    "section": "Geschwindigkeitsbeschränkungen und Überholverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Zeichen_278-100_-_Ende_der_zul%C3%A4ssigen_H%C3%B6chstgeschwindigkeit%2C_StVO_2017.svg",
+   "file": "signs/278-100.svg",
    "ratio": 1
   },
   {
@@ -1296,7 +1296,7 @@
    "name": "Ende der vorgeschriebenen Mindestgeschwindigkeit (30 km/h)",
    "cat": "vorschrift",
    "section": "Geschwindigkeitsbeschränkungen und Überholverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Zeichen_279-30_-_Ende_der_vorgeschriebenen_Mindestgeschwindigkeit%2C_StVO_2017.svg",
+   "file": "signs/279-30.svg",
    "ratio": 1
   },
   {
@@ -1305,7 +1305,7 @@
    "name": "Ende des Überholverbotes für Kraftfahrzeuge aller Art",
    "cat": "vorschrift",
    "section": "Geschwindigkeitsbeschränkungen und Überholverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Zeichen_280_-_Ende_des_%C3%9Cberholverbotes_f%C3%BCr_Kraftfahrzeuge_aller_Art%2C_StVO_1992.svg",
+   "file": "signs/280.svg",
    "ratio": 1
   },
   {
@@ -1314,7 +1314,7 @@
    "name": "Ende des Überholverbotes für Kraftfahrzeuge über 3,5 t",
    "cat": "vorschrift",
    "section": "Geschwindigkeitsbeschränkungen und Überholverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Zeichen_281_-_Ende_des_%C3%9Cberholverbots_f%C3%BCr_Kraftfahrzeuge_mit_einem_zul%C3%A4ssigen_Gesamtgewicht_%C3%BCber_3%2C5_t%2C_StVO_1992.svg",
+   "file": "signs/281.svg",
    "ratio": 1
   },
   {
@@ -1323,7 +1323,7 @@
    "name": "Ende des Verbots des Überholens von einspurigen Fahrzeugen für mehrspurige Kraftfahrzeuge und Krafträder mit Beiwagen",
    "cat": "vorschrift",
    "section": "Geschwindigkeitsbeschränkungen und Überholverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Zeichen_281.1_-_Ende_des_Verbots_des_%C3%9Cberholens_von_einspurigen_Fahrzeugen_f%C3%BCr_mehrspurige_Kraftfahrzeuge_und_Kraftr%C3%A4dern_mit_Beiwagen%3B_StVO_2020.svg",
+   "file": "signs/281.1.svg",
    "ratio": 1
   },
   {
@@ -1332,7 +1332,7 @@
    "name": "Ende sämtlicher streckenbezogener Geschwindigkeitsbeschränkungen und Überholverbote",
    "cat": "vorschrift",
    "section": "Geschwindigkeitsbeschränkungen und Überholverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Zeichen_282_-_Ende_s%C3%A4mtlicher_Streckenverbote%2C_StVO_1970.svg",
+   "file": "signs/282.svg",
    "ratio": 1
   },
   {
@@ -1341,7 +1341,7 @@
    "name": "Absolutes Haltverbot",
    "cat": "vorschrift",
    "section": "Halt- und Parkverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Zeichen_283_-_Absolutes_Haltverbot%2C_StVO_2017.svg",
+   "file": "signs/283.svg",
    "ratio": 1
   },
   {
@@ -1350,7 +1350,7 @@
    "name": "Eingeschränktes Haltverbot",
    "cat": "vorschrift",
    "section": "Halt- und Parkverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/5/55/Zeichen_286_-_Eingeschr%C3%A4nktes_Halteverbot%2C_StVO_1970.svg",
+   "file": "signs/286.svg",
    "ratio": 1
   },
   {
@@ -1359,7 +1359,7 @@
    "name": "Absolutes Haltverbot (Anfang)",
    "cat": "vorschrift",
    "section": "Halt- und Parkverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/8/80/Zeichen_283-10_-_Absolutes_Haltverbot_%28Anfang%29%2C_Aufstellung_rechts%2C_StVO_2013.svg",
+   "file": "signs/283-10.svg",
    "ratio": 1
   },
   {
@@ -1368,7 +1368,7 @@
    "name": "Absolutes Haltverbot (Ende)",
    "cat": "vorschrift",
    "section": "Halt- und Parkverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Zeichen_283-20_-_Absolutes_Haltverbot_%28Ende%29%2C_Aufstellung_rechts%2C_StVO_2013.svg",
+   "file": "signs/283-20.svg",
    "ratio": 1
   },
   {
@@ -1377,7 +1377,7 @@
    "name": "Absolutes Haltverbot (Mitte)",
    "cat": "vorschrift",
    "section": "Halt- und Parkverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/6/68/Zeichen_283-30_-_Absolutes_Haltverbot_%28Mitte%29%2C_Aufstellung_rechts%2C_StVO_2013.svg",
+   "file": "signs/283-30.svg",
    "ratio": 1
   },
   {
@@ -1386,7 +1386,7 @@
    "name": "Eingeschränktes Haltverbot (Anfang)",
    "cat": "vorschrift",
    "section": "Halt- und Parkverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Zeichen_286-10_-_Eingeschr%C3%A4nktes_Halteverbot_%28Anfang%29%2C_Rechtsaufstellung%2C_StVO_1992.svg",
+   "file": "signs/286-10.svg",
    "ratio": 1
   },
   {
@@ -1395,7 +1395,7 @@
    "name": "Eingeschränktes Haltverbot (Ende)",
    "cat": "vorschrift",
    "section": "Halt- und Parkverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Zeichen_286-20_-_Eingeschr%C3%A4nktes_Halteverbot_%28Ende%29%2C_Rechtsaufstellung%2C_StVO_1992.svg",
+   "file": "signs/286-20.svg",
    "ratio": 1
   },
   {
@@ -1404,7 +1404,7 @@
    "name": "Eingeschränktes Haltverbot (Mitte)",
    "cat": "vorschrift",
    "section": "Halt- und Parkverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/9/91/Zeichen_286-30_-_Eingeschr%C3%A4nktes_Halteverbot_%28Mitte%29%2C_Rechtsaufstellung%2C_StVO_1992.svg",
+   "file": "signs/286-30.svg",
    "ratio": 1
   },
   {
@@ -1413,7 +1413,7 @@
    "name": "Beginn eines eingeschränkten Haltverbotes für eine Zone",
    "cat": "vorschrift",
    "section": "Halt- und Parkverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Zeichen_290.1_-_Beginn_eines_eingeschr%C3%A4nkten_Haltverbotes_f%C3%BCr_eine_Zone%2C_StVO_2009.svg",
+   "file": "signs/290.1.svg",
    "ratio": 1
   },
   {
@@ -1422,7 +1422,7 @@
    "name": "Ende eines eingeschränkten Haltverbotes für eine Zone",
    "cat": "vorschrift",
    "section": "Halt- und Parkverbote",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Zeichen_290.2_-_Ende_eines_eingeschr%C3%A4nkten_Haltverbotes_f%C3%BCr_eine_Zone%2C_StVO_2009.svg",
+   "file": "signs/290.2.svg",
    "ratio": 1
   },
   {
@@ -1431,7 +1431,7 @@
    "name": "Fußgängerüberweg (Markierung)",
    "cat": "markierung",
    "section": "Markierungen",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/6/65/Zeichen_293_-_Fu%C3%9Fg%C3%A4nger%C3%BCberweg%2C_StVO_1970.svg",
+   "file": "signs/293.svg",
    "ratio": 4.96
   },
   {
@@ -1440,7 +1440,7 @@
    "name": "Haltlinie",
    "cat": "markierung",
    "section": "Markierungen",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/3/35/Zeichen_294_-_Haltlinie%2C_StVO_1970.svg",
+   "file": "signs/294.svg",
    "ratio": 1.43
   },
   {
@@ -1449,7 +1449,7 @@
    "name": "Fahrstreifenbegrenzung und Fahrbahnbegrenzung",
    "cat": "markierung",
    "section": "Markierungen",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/1/18/Zeichen_295_-_Fahrstreifenbegrenzung_und_Fahrbahnbegrenzung%2C_StVO_1970.svg",
+   "file": "signs/295.svg",
    "ratio": 2.18
   },
   {
