@@ -20,6 +20,18 @@
   const viaThumb = f => (f.startsWith(WM) && !f.startsWith(WM + 'thumb/') && /\.svg$/i.test(f))
     ? `${WM}thumb/${f.slice(WM.length)}/500px-${f.split('/').pop()}.png` : f;
   ALL.forEach((s, i) => { s.i = i; s.id = String(s.id); s.base = String(s.base || s.id); s.file = viaThumb(String(s.file)); });
+  // Wikimedia rendert Vorschaubilder beim ersten Abruf und lehnt bei vielen Erstabrufen kurz ab (400/429):
+  // erst dasselbe Bild erneut laden, dann kleinere Standardgrößen.
+  document.addEventListener('error', e => {
+    const img = e.target;
+    if (!(img instanceof HTMLImageElement) || !img.src.includes('/thumb/')) return;
+    const n = Number(img.dataset.retry || 0);
+    if (n >= 3) return;
+    img.dataset.retry = n + 1;
+    const base = img.src.split('?')[0];
+    const next = n === 0 ? base + '?r=1' : base.replace(/\/\d+px-/, n === 1 ? '/330px-' : '/250px-');
+    setTimeout(() => { img.src = next; }, 900 * (n + 1));
+  }, true);
   const byId = new Map(ALL.map(s => [s.id, s]));
   const BASES = new Map();
   for (const s of ALL) { if (!BASES.has(s.base)) BASES.set(s.base, []); BASES.get(s.base).push(s); }
