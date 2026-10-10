@@ -37,7 +37,12 @@
   for (const s of ALL) { if (!BASES.has(s.base)) BASES.set(s.base, []); BASES.get(s.base).push(s); }
   const baseList = [...BASES.keys()];
   const rep = b => (BASES.get(b) || [])[0];
-  const ex = s => EX[s.base] || EX[s.id] || null;
+  const ex = s => {
+    const e = EX[s.id] || EX[s.base] || null;
+    // Zeichen 101 gibt es mit vielen Sinnbildern (Steinschlag, Flugbetrieb …) – die allgemeine Erklärung passt dort nicht.
+    if (e && s.base === '101' && s.id !== '101' && !EX[s.id]) return Object.assign({}, e, { kurz: `Achtung, Gefahrstelle: ${s.name}. Fahr vorsichtig und sei bremsbereit.` });
+    return e;
+  };
 
   const CATS = [
     { key: 'gefahr', label: 'Gefahrzeichen', rep: '101' },
@@ -207,7 +212,7 @@
       </section>
       <nav class="wegweiser" data-in aria-label="Hauptmenü">
         ${wwRow(1, '#/form', 'Form & Farbe', 'Das System hinter allen Schildern · 2 Min.', 0)}
-        ${wwRow(2, '#/lernen', 'Lernen', 'Karteikarten – Schild für Schild', 45)}
+        ${wwRow(2, '#/lernen', 'Lernen', 'Antwort auswählen oder Karteikarte', 45)}
         ${wwRow(3, '#/quiz', 'Quiz', 'Was bedeutet das? Welches ist es?', 90)}
         ${wwRow(4, '#/wald', 'Schilderwald', `Alle ${ALL.length} Zeichen auf einen Blick`, 135)}
       </nav>
@@ -354,74 +359,139 @@
   }
   function learn(key) {
     if (key) return learnSession(key);
-    picker('lernen', 'Lernen', 'Schild ansehen, Bedeutung überlegen, Karte umdrehen. Sei ehrlich zu dir – was noch wackelt, kommt öfter dran.');
+    picker('lernen', 'Lernen', 'Wähl zu jedem Schild die richtige Bedeutung aus – oder dreh es klassisch als Karteikarte um und schätz dich selbst ein. Umschalten kannst du jederzeit oben rechts. Was noch wackelt, kommt öfter dran.');
   }
   function quiz(key) {
     if (key) return quizSession(key);
     picker('quiz', 'Quiz', 'Zehn Fragen, vier Antworten – mal Schild → Bedeutung, mal umgekehrt. Fehler sind erlaubt, genau dafür ist das hier.');
   }
 
-  /* ---------- Lernen: Karteikarten ---------- */
+  /* ---------- Lernen: Antwort auswählen oder Karteikarte ---------- */
   function learnSession(key) {
     const pool = findPool(key);
     const order = pool.bases.slice().sort((a, b) => lvl(a) - lvl(b) || rep(a).i - rep(b).i);
     const deck = order.slice(0, Math.min(10, order.length)).map(b => pick(BASES.get(b)));
     const total = deck.length, requeued = new Set();
-    let idx = 0, flipped = false, knew = 0, busy = false;
+    let idx = 0, flipped = false, knew = 0, busy = false, answered = false, opts = [];
+    let mode = store.learnMode === 'self' ? 'self' : 'pick';
     app.innerHTML = `
       <div class="sess-top" data-in>
         <a class="back" href="#/lernen">${arrow(-90)}<span>${esc(pool.label)}</span></a>
-        <span class="sess-count"><b class="n">1</b> / ${total}</span>
+        <div class="seg" role="group" aria-label="Lernart">
+          <button class="seg-btn" data-mode="pick" aria-pressed="false">Auswählen</button>
+          <button class="seg-btn" data-mode="self" aria-pressed="false">Karteikarte</button>
+        </div>
       </div>
       <div class="steps" data-in style="--n:${total}">${'<i></i>'.repeat(total)}</div>
       <div class="fc-wrap" data-in><div class="flashcard" tabindex="0" role="button" aria-label="Karte umdrehen"></div></div>
-      <div class="learn-actions" data-in>
-        <button class="btn btn-again">Nochmal <kbd>1</kbd></button>
-        <button class="btn btn-know">Kann ich <kbd>2</kbd></button>
-      </div>`;
-    const card = $('.flashcard', app);
+      <div class="learn-zone" data-in></div>`;
+    const card = $('.flashcard', app), zone = $('.learn-zone', app);
+
     function show() {
       const s = deck[idx], e = ex(s);
+      answered = false; flipped = false;
+      card.classList.toggle('compact', mode === 'pick');
+      card.classList.remove('is-flipped');
       card.innerHTML = `
-        <div class="fc-face fc-front">${sign(s, { eager: true, alt: 'Verkehrszeichen – was bedeutet es?' })}<p class="fc-hint">Tippen zum Umdrehen</p></div>
+        <div class="fc-face fc-front">${sign(s, { eager: true, alt: 'Verkehrszeichen – was bedeutet es?' })}<p class="fc-hint">${mode === 'pick' ? 'Was bedeutet dieses Zeichen?' : 'Tippen zum Umdrehen'}</p></div>
         <div class="fc-face fc-back">
           <div class="fc-head">${sign(s, { cls: 'mini', eager: true, alt: '' })}<p class="fc-nr">Zeichen ${esc(s.id)}<br>${esc(catLabel(s.cat))}</p></div>
           <h2 class="fc-name">${esc(s.name)}</h2>
           ${e ? `<p class="fc-kurz">${esc(e.kurz)}</p>` : (s.section ? `<p class="fc-kurz muted">${esc(s.section)}</p>` : '')}
           ${e && e.merk ? `<p class="merk"><b>Merkhilfe</b>${esc(e.merk)}</p>` : ''}
         </div>`;
-      flipped = false;
-      card.classList.remove('is-flipped');
-      $('.sess-count .n', app).textContent = Math.min(idx + 1, total);
+      $$('.seg-btn', app).forEach(b => b.setAttribute('aria-pressed', String(b.dataset.mode === mode)));
       $$('.steps i', app).forEach((el, j) => el.classList.toggle('cur', j === idx));
+      if (mode === 'pick') {
+        opts = shuffle([s, ...distractors(s, 3)]);
+        zone.innerHTML = `
+          <div class="answers">${opts.map((o, k) => `<button class="ans" data-k="${k}"><span class="k">${k + 1}</span><span class="t">${esc(o.name)}</span></button>`).join('')}</div>
+          <div class="learn-actions single"><button class="btn btn-ghost btn-dunno">Weiß ich nicht – zeig’s mir</button></div>`;
+        $$('[data-k]', zone).forEach(b => b.addEventListener('click', () => choose(+b.dataset.k)));
+        $('.btn-dunno', zone).addEventListener('click', () => choose(-1));
+      } else {
+        zone.innerHTML = `
+          <div class="learn-actions">
+            <button class="btn btn-again">Nochmal <kbd>1</kbd></button>
+            <button class="btn btn-know">Kann ich <kbd>2</kbd></button>
+          </div>`;
+        $('.btn-again', zone).addEventListener('click', () => rate(false));
+        $('.btn-know', zone).addEventListener('click', () => rate(true));
+      }
       if (G) {
         G.set(card, { rotationY: 0 });
         G.fromTo(card, { x: 90, opacity: 0, rotation: 4 }, { x: 0, opacity: 1, rotation: 0, duration: 0.6, ease: 'power3.out' });
+        G.fromTo($$('button', zone), { y: 18, opacity: 0 }, { y: 0, opacity: 1, duration: 0.45, ease: 'power3.out', stagger: 0.05, delay: 0.1, clearProps: 'transform,opacity' });
       }
       setTimeout(() => flash($('.fc-front .sign', card)), 350);
     }
-    function flip() {
-      if (busy) return;
-      flipped = !flipped; S.flip();
-      if (G) G.to(card, { rotationY: flipped ? 180 : 0, duration: 0.75, ease: 'power3.inOut' });
-      else card.classList.toggle('is-flipped', flipped);
+    function setFlip(v) {
+      flipped = v; S.flip();
+      if (G) G.to(card, { rotationY: v ? 180 : 0, duration: 0.75, ease: 'power3.inOut' });
+      else card.classList.toggle('is-flipped', v);
     }
-    function rate(ok) {
-      if (busy) return; busy = true;
+    // Ergebnis verbuchen: Lernstand, Fortschrittsstrich, Kilometer. Falsches kommt am Ende der Runde noch einmal.
+    function settle(ok) {
       const s = deck[idx], step = $$('.steps i', app)[idx];
       grade(s.base, ok);
       if (step) { step.classList.remove('cur'); step.classList.add(ok ? 'ok' : 'bad'); }
-      if (ok) { if (idx < total) knew++; addKm(0.2); S.ok(); }
-      else { S.tock(); if (!requeued.has(s.id)) { requeued.add(s.id); deck.push(s); } }
-      const done = () => { busy = false; idx++; if (idx >= deck.length) return learnDone(pool, knew, total); show(); };
-      if (G) G.to(card, { x: ok ? 170 : -170, rotation: ok ? 8 : -8, opacity: 0, duration: 0.38, ease: 'power2.in', onComplete: done });
-      else done();
+      if (ok) { if (idx < total) knew++; addKm(0.2); }
+      else if (!requeued.has(s.id)) { requeued.add(s.id); deck.push(s); }
     }
-    card.addEventListener('click', flip);
-    $('.btn-again', app).addEventListener('click', () => rate(false));
-    $('.btn-know', app).addEventListener('click', () => rate(true));
+    function advance(dir) {
+      if (busy) return; busy = true;
+      const d = typeof dir === 'number' ? dir : 1;
+      const fin = () => { busy = false; idx++; if (idx >= deck.length) return learnDone(pool, knew, total); show(); };
+      if (G) G.to(card, { x: d * 170, rotation: d * 8, opacity: 0, duration: 0.38, ease: 'power2.in', onComplete: fin });
+      else fin();
+    }
+    // Lernart „Auswählen": k = gewählte Antwort, -1 = „Weiß ich nicht"
+    function choose(k) {
+      if (answered || busy) return;
+      answered = true;
+      const s = deck[idx], ri = opts.findIndex(o => o.base === s.base), ok = k === ri;
+      const btns = $$('[data-k]', zone);
+      btns.forEach((b, j) => { b.disabled = true; b.classList.add(j === ri ? 'is-right' : j === k ? 'is-wrong' : 'is-dim'); });
+      settle(ok);
+      if (ok) {
+        S.ok();
+        if (G) G.fromTo(btns[ri], { scale: 0.95 }, { scale: 1, duration: 0.7, ease: 'elastic.out(1, .4)' });
+      } else {
+        S.no();
+        try { navigator.vibrate && navigator.vibrate([30, 40, 30]); } catch (err) { /* egal */ }
+        if (k >= 0 && G) G.fromTo(btns[k], { x: -12 }, { x: 0, duration: 0.7, ease: 'elastic.out(1.2, .25)' });
+      }
+      setTimeout(() => { if (answered && !flipped) setFlip(true); }, ok ? 380 : 700);
+      $('.learn-actions', zone).innerHTML = `<button class="btn btn-primary btn-next">${idx + 1 >= deck.length ? 'Runde beenden' : 'Weiter'} ${arrow(90)}</button>`;
+      const nb = $('.btn-next', zone);
+      nb.addEventListener('click', advance);
+      nb.focus({ preventScroll: true });
+    }
+    // Lernart „Karteikarte": selbst einschätzen
+    function rate(ok) {
+      if (busy) return;
+      settle(ok);
+      if (ok) S.ok(); else S.tock();
+      advance(ok ? 1 : -1);
+    }
+    card.addEventListener('click', () => {
+      if (busy) return;
+      if (mode === 'pick' && !answered) {
+        if (G) G.fromTo($('.fc-hint', card), { scale: 1.2, color: '#f5c400' }, { scale: 1, color: '#6f7672', duration: 0.7, ease: 'power2.out', clearProps: 'transform,color' });
+        return;
+      }
+      setFlip(!flipped);
+    });
+    $$('.seg-btn', app).forEach(b => b.addEventListener('click', () => {
+      if (b.dataset.mode === mode || busy) return;
+      mode = b.dataset.mode; store.learnMode = mode; save();
+      if (answered) advance(); else show();
+    }));
     keyHandler = e => {
-      if (e.key === ' ' || e.key === 'Enter') { e.preventDefault(); flip(); }
+      if (mode === 'pick') {
+        if (!answered && /^[1-4]$/.test(e.key)) { const k = +e.key - 1; if (k < opts.length) choose(k); }
+        else if (answered && (e.key === 'Enter' || e.key === ' ' || e.key === 'ArrowRight')) { e.preventDefault(); advance(); }
+      } else if (e.key === ' ' || e.key === 'Enter') { e.preventDefault(); setFlip(!flipped); }
       else if (e.key === '1') rate(false);
       else if (e.key === '2') rate(true);
     };

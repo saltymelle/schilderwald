@@ -1,5 +1,5 @@
 window.SIGNS = {
- "generated": "2026-10-10T17:49:23.219Z",
+ "generated": "2026-10-10T18:11:06.534Z",
  "source": "https://de.wikipedia.org/wiki/Bildtafel_der_Verkehrszeichen_in_der_Bundesrepublik_Deutschland_seit_2017",
  "count": 476,
  "signs": [
@@ -81,7 +81,7 @@ window.SIGNS = {
    "name": "Splitt, Schotter",
    "cat": "gefahr",
    "section": "Allgemeine Gefahrzeichen",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Zeichen_101-52_-_Splitt%2C_Schotter%2C_StVO_2017.svg",
+   "file": "signs/101-52.svg",
    "ratio": 1.14
   },
   {
@@ -99,7 +99,7 @@ window.SIGNS = {
    "name": "Unzureichendes Lichtraumprofil",
    "cat": "gefahr",
    "section": "Allgemeine Gefahrzeichen",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Zeichen_101-54_-_Unzureichendes_Lichtraumprofil%2C_StVO_2017.svg",
+   "file": "signs/101-54.svg",
    "ratio": 1.14
   },
   {
@@ -108,7 +108,7 @@ window.SIGNS = {
    "name": "Bewegliche Brücke",
    "cat": "gefahr",
    "section": "Allgemeine Gefahrzeichen",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Zeichen_101-55_-_Bewegliche_Br%C3%BCcke%2C_StVO_2017.svg",
+   "file": "signs/101-55.svg",
    "ratio": 1.14
   },
   {
@@ -117,7 +117,7 @@ window.SIGNS = {
    "name": "Kreuzung oder Einmündung",
    "cat": "gefahr",
    "section": "Allgemeine Gefahrzeichen",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Zeichen_102_-_Kreuzung_oder_Einm%C3%BCndung_mit_Vorfahrt_von_rechts%2C_StVO_1970.svg",
+   "file": "signs/102.svg",
    "ratio": 1.14
   },
   {
@@ -126,7 +126,7 @@ window.SIGNS = {
    "name": "Kurve (links)",
    "cat": "gefahr",
    "section": "Allgemeine Gefahrzeichen",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/b/be/Zeichen_103-10_-_Kurve_%28links%29%2C_StVO_1992.svg",
+   "file": "signs/103-10.svg",
    "ratio": 1.14
   },
   {
@@ -135,7 +135,7 @@ window.SIGNS = {
    "name": "Kurve (rechts)",
    "cat": "gefahr",
    "section": "Allgemeine Gefahrzeichen",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Zeichen_103-20_-_Kurve_%28rechts%29%2C_StVO_1992.svg",
+   "file": "signs/103-20.svg",
    "ratio": 1.14
   },
   {
@@ -144,7 +144,7 @@ window.SIGNS = {
    "name": "Doppelkurve (zunächst links)",
    "cat": "gefahr",
    "section": "Allgemeine Gefahrzeichen",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Zeichen_105-10_-_Doppelkurve_%28zun%C3%A4chst_links%29%2C_StVO_1992.svg",
+   "file": "signs/105-10.svg",
    "ratio": 1.14
   },
   {
@@ -153,7 +153,7 @@ window.SIGNS = {
    "name": "Doppelkurve (zunächst rechts)",
    "cat": "gefahr",
    "section": "Allgemeine Gefahrzeichen",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/7/74/Zeichen_105-20_-_Doppelkurve_%28zun%C3%A4chst_rechts%29%2C_StVO_1992.svg",
+   "file": "signs/105-20.svg",
    "ratio": 1.14
   },
   {
@@ -162,7 +162,7 @@ window.SIGNS = {
    "name": "Gefälle (10 %)",
    "cat": "gefahr",
    "section": "Allgemeine Gefahrzeichen",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Zeichen_108-10_-_Gef%C3%A4lle%2C_StVO_2017.svg",
+   "file": "signs/108-10.svg",
    "ratio": 1.14
   },
   {
@@ -171,7 +171,7 @@ window.SIGNS = {
    "name": "Steigung (12 %)",
    "cat": "gefahr",
    "section": "Allgemeine Gefahrzeichen",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Zeichen_110-12_-_Steigung%2C_StVO_2017.svg",
+   "file": "signs/110-12.svg",
    "ratio": 1.14
   },
   {
@@ -180,7 +180,7 @@ window.SIGNS = {
    "name": "Unebene Fahrbahn",
    "cat": "gefahr",
    "section": "Allgemeine Gefahrzeichen",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Zeichen_112_%E2%80%93_Unebene_Fahrbahn%2C_StVO_1970.svg",
+   "file": "signs/112.svg",
    "ratio": 1.14
   },
   {
@@ -189,7 +189,7 @@ window.SIGNS = {
    "name": "Schleuder- oder Rutschgefahr",
    "cat": "gefahr",
    "section": "Allgemeine Gefahrzeichen",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Zeichen_114_-_Schleuder-_oder_Rutschgefahr%2C_StVO_2013.svg",
+   "file": "signs/114.svg",
    "ratio": 1.14
   },
   {
@@ -198,7 +198,7 @@ window.SIGNS = {
    "name": "Seitenwind von rechts",
    "cat": "gefahr",
    "section": "Allgemeine Gefahrzeichen",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/0/05/Zeichen_117-10_-_Seitenwind_von_rechts%2C_StVO_1992.svg",
+   "file": "signs/117-10.svg",
    "ratio": 1.14
   },
   {
@@ -207,7 +207,7 @@ window.SIGNS = {
    "name": "Seitenwind von links",
    "cat": "gefahr",
    "section": "Allgemeine Gefahrzeichen",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Zeichen_117-20_-_Seitenwind_von_links%2C_StVO_1992.svg",
+   "file": "signs/117-20.svg",
    "ratio": 1.14
   },
   {
@@ -216,7 +216,7 @@ window.SIGNS = {
    "name": "Verengte Fahrbahn",
    "cat": "gefahr",
    "section": "Allgemeine Gefahrzeichen",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/0/08/Zeichen_120_-_Verengte_Fahrbahn%2C_StVO_1970.svg",
+   "file": "signs/120.svg",
    "ratio": 1.14
   },
   {
@@ -225,7 +225,7 @@ window.SIGNS = {
    "name": "Einseitig verengte Fahrbahn (Verengung rechts)",
    "cat": "gefahr",
    "section": "Allgemeine Gefahrzeichen",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/1/15/Zeichen_121-10_-_einseitig_%28rechts%29_verengte_Fahrbahn%2C_StVO_1992.svg",
+   "file": "signs/121-10.svg",
    "ratio": 1.14
   },
   {
@@ -234,7 +234,7 @@ window.SIGNS = {
    "name": "Einseitig verengte Fahrbahn (Verengung links)",
    "cat": "gefahr",
    "section": "Allgemeine Gefahrzeichen",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Zeichen_121-20_-_einseitig_%28links%29_verengte_Fahrbahn%2C_StVO_1992.svg",
+   "file": "signs/121-20.svg",
    "ratio": 1.14
   },
   {
@@ -243,7 +243,7 @@ window.SIGNS = {
    "name": "Arbeitsstelle",
    "cat": "gefahr",
    "section": "Allgemeine Gefahrzeichen",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Zeichen_123_-_Arbeitsstelle%2C_StVO_2013.svg",
+   "file": "signs/123.svg",
    "ratio": 1.14
   },
   {
@@ -252,7 +252,7 @@ window.SIGNS = {
    "name": "Stau",
    "cat": "gefahr",
    "section": "Allgemeine Gefahrzeichen",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Zeichen_124_-_Stau%2C_StVO_1992.svg",
+   "file": "signs/124.svg",
    "ratio": 1.14
   },
   {
@@ -261,7 +261,7 @@ window.SIGNS = {
    "name": "Gegenverkehr",
    "cat": "gefahr",
    "section": "Allgemeine Gefahrzeichen",
-   "file": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Zeichen_125_-_Gegenverkehr%2C_StVO_1992.svg",
+   "file": "signs/125.svg",
    "ratio": 1.14
   },
   {
